@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>6 Degrees</title>
+  <meta name="description" content="A daily chain of seven famous people, each one's story leading to the next. Put them back in order.">
+  <meta name="color-scheme" content="light dark">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="style.css">
+  <script type="module" src="js/app.js"></script>
+</head>
+<body>
+  <main class="page">
+    <header class="bar">
+      <div class="brand">
+        <h1>6 Degrees</h1>
+        <p class="meta"><span id="meta"></span> · <span class="difficulty" id="difficulty"></span></p>
+      </div>
+      <!-- Icons: Codex (@wikimedia/codex-icons) cdxIconInfo -->
+      <button class="icon" id="open-help" title="How to play" aria-label="How to play">
+        <svg viewBox="0 0 20 20" aria-hidden="true"><path d="M11 13h1v2H8v-2h1v-2H8V9h3zm0-6H9V5h2z"/><path d="M10 1a9 9 0 110 18 9 9 0 010-18m0 2a7 7 0 100 14 7 7 0 000-14"/></svg>
+      </button>
+    </header>
+
+    <div class="status">
+      <p class="prompt" id="prompt" aria-live="polite"></p>
+      <span class="try-now" id="try-now"></span>
+    </div>
+
+    <ol class="chain" id="chain" aria-label="The chain, from start to finish"></ol>
+
+    <div class="controls" id="controls">
+      <button class="button" id="shuffle">
+        <!-- cdxIconReload -->
+        <svg viewBox="0 0 20 20" aria-hidden="true"><path d="M10 1a8.98 8.98 0 016.999 3.343L17 2h2v5l-1 1h-5l-.001-2h2.746a7 7 0 101.184 5h2.016A9 9 0 1110 1"/></svg>
+        Shuffle
+      </button>
+      <button class="button primary" id="submit">Check</button>
+    </div>
+
+    <section class="outcome" id="outcome" hidden aria-live="polite">
+      <p class="verdict" id="verdict"></p>
+      <div class="outcome-actions">
+        <button class="button primary" id="share">
+          <!-- cdxIconShare -->
+          <svg viewBox="0 0 20 20" aria-hidden="true"><path d="M19.053 7.33v1.34L13.347 15H11v-3.862c-1.453.393-2.914 1.593-4.307 3.182-1.456 1.662-2.58 3.424-3.46 4.68H1c0-1.489.535-4.898 2.115-7.965C4.583 8.185 7.063 5.451 11 5.052V1h2.347zM13 7h-1c-3.467 0-5.694 2.207-7.107 4.951C4.41 12.885 3.782 14.077 3.5 15c.449-.598 1.187-1.425 1.688-1.998C6.93 11.015 9.271 9 12 9h1v3.396L16.963 8 13 3.604z"/></svg>
+          Share
+        </button>
+        <button class="button" id="answer" hidden>Show the chain</button>
+      </div>
+      <p class="next" id="next"></p>
+      <div class="history" id="history" aria-label="Your attempts"></div>
+    </section>
+
+    <footer class="credits">
+      People and quotes from Wikipedia articles, available under
+      <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>.
+      Photos from Wikimedia Commons; see each article for credits.
+    </footer>
+  </main>
+
+  <dialog id="help" aria-labelledby="help-title">
+    <form method="dialog" class="sheet">
+      <div class="sheet-head">
+        <h2 id="help-title">How to play</h2>
+        <!-- cdxIconClose -->
+        <button class="icon" value="close" aria-label="Close"><svg viewBox="0 0 20 20" aria-hidden="true"><path d="M16.707 4.707 11.414 10l5.293 5.293-1.414 1.414L10 11.414l-5.293 5.293-1.414-1.414L8.586 10 3.293 4.707l1.414-1.414L10 8.586l5.293-5.293z"/></svg></button>
+      </div>
+      <p>Link the first person to the last in six steps.</p>
+      <p>Two people are linked when one’s Wikipedia article links to the other’s in its main text.</p>
+      <p>Tap two people to swap them, then check. Six tries.</p>
+      <ul class="legend">
+        <li><span class="swatch green"></span>Right place</li>
+        <li><span class="swatch yellow"></span>Wrong place, linked to a neighbor</li>
+        <li><span class="swatch gray"></span>Wrong place</li>
+      </ul>
+      <p class="sheet-note">Some chains work more than one way. Any of them wins. Each day is rated Easy, Medium or Hard by how many wrong orders look nearly right.</p>
+      <button class="button primary wide" value="close">Play</button>
+    </form>
+  </dialog>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+</body>
+</html>

@@ -1,0 +1,76 @@
+# Every night: dig new chains, give them days so the schedule always reaches a
+# month ahead, commit the data, and publish the site to GitHub Pages. A push to
+# main publishes too (without digging). Run it by hand from the Actions tab.
+#
+# If the schedule ever gets within a week of running out, the dig step fails on
+# purpose so GitHub emails you; the site still publishes, and past the end of
+# the schedule the game replays old chains rather than breaking.
+
+name: Daily puzzles
+
+on:
+  schedule:
+    - cron: "23 4 * * *" # 04:23 UTC, before midnight reaches most of the world
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: daily-puzzles
+  cancel-in-progress: false
+
+jobs:
+  dig:
+    if: github.event_name != 'push'
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Dig and schedule
+        run: node tools/dig.mjs --ahead 30 --pool 20 --minutes 75
+      - name: Commit the new days
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "No new days."
+          else
+            last=$(node -e "const c=require('./data/chains.json');console.log(c.at(-1).date)")
+            git commit -m "Schedule puzzles through $last"
+            git push
+          fi
+
+  deploy:
+    needs: dig
+    if: always() && needs.dig.result != 'cancelled'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main # with the days the dig job just committed
+      - name: Gather the site
+        # The page and what it loads; not the pool (chains without a day yet) or the tools.
+        run: |
+          mkdir -p _site/data
+          cp index.html style.css favicon.svg _site/
+          cp -r js _site/
+          cp data/chains.json _site/data/
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deployment
+        uses: actions/deploy-pages@v4

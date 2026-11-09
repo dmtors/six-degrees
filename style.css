@@ -1,0 +1,357 @@
+:root {
+  --paper: #fff;
+  --surface: #fff;
+  --ink: #141414;
+  --muted: #141414;
+  --line: #141414;
+  --accent: #1d5ee0;
+  --on-accent: #fff;
+  --green: #5fb37a;
+  --yellow: #f5bb1b;
+  --gray: #787878;
+  --on-mark: #141414;
+  --on-gray: #fff;
+  --radius: 999px; /* cards are pills, round like the faces */
+  --face: 44px;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #131312;
+    --surface: #1e1d1b;
+    --ink: #eeebe4;
+    --muted: #a19c92;
+    --line: #34322e;
+    --accent: #8ea6ff;
+    --on-accent: #111;
+    --green: #4f9c68;
+    --yellow: #c9a43c;
+    --gray: #57544f;
+    --on-mark: #111;
+    --on-gray: #f2f0ea;
+    color-scheme: dark;
+  }
+}
+
+* { box-sizing: border-box; }
+html, body { margin: 0; }
+
+body {
+  min-height: 100dvh;
+  background: var(--paper);
+  color: var(--ink);
+  font: 16px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+button { font: inherit; color: inherit; }
+a { color: var(--accent); }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+svg { fill: currentColor; }
+
+.page {
+  max-width: 520px;
+  margin: 0 auto;
+  padding: max(12px, env(safe-area-inset-top)) 16px max(24px, env(safe-area-inset-bottom));
+}
+
+/* ---------- Header ---------- */
+
+.bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.brand { display: flex; align-items: baseline; gap: 5px; min-width: 0; }
+
+h1 {
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.2;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  white-space: nowrap;
+}
+
+.meta { margin: 0; color: var(--muted); font-size: 1rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+.icon {
+  flex: none;
+  display: grid;
+  place-items: center;
+  width: 40px;
+  height: 40px;
+  margin-right: -8px;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  background: transparent;
+  cursor: pointer;
+}
+/* Icon buttons, here and on the cards: hover and press only turn the icon blue. */
+.icon:hover, .icon:active { color: var(--accent); }
+.icon svg { width: 20px; height: 20px; }
+
+/* The prompt, and beside it which try this is. */
+.status {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin: 8px 0 10px;
+}
+.prompt { margin: 0; font-size: 0.75rem; font-weight: 600; min-width: 0; }
+
+.try-now { flex: none; font-size: 0.75rem; font-weight: 700; color: var(--muted); white-space: nowrap; }
+.try-now.last { color: var(--accent); }
+
+/* ---------- The chain ---------- */
+
+.chain {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+/* A line down the middle, card to card: the links. */
+.person { position: relative; padding-top: 8px; }
+.person:first-child { padding-top: 0; }
+.person:not(:first-child)::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 20px; /* ends behind the card, which paints over it */
+  left: 50%;
+  width: 2px;
+  margin-left: -1px;
+  background: var(--line);
+}
+
+.card {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--surface);
+}
+/* The start and finish are given: no border, a quiet fill, nothing to press. */
+.card.end:not(.green, .yellow, .gray) { background: color-mix(in srgb, var(--ink) 6%, var(--paper)); border-color: transparent; }
+
+/* The person: everything but the article link. */
+.pick {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  min-height: calc(var(--face) + 12px);
+  padding: 6px 4px 6px 6px;
+  border: 0;
+  border-radius: var(--radius);
+  background: none;
+  text-align: left;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+}
+.pick:disabled { cursor: default; color: inherit; }
+
+/* Their article, in a new tab. */
+.open {
+  flex: none;
+  display: grid;
+  place-items: center;
+  width: 44px;
+  align-self: stretch;
+  margin-left: auto;
+  border-radius: 999px;
+  color: var(--ink);
+  opacity: 1;
+}
+/* Every card, every state: the icon is ink, and fades a little on hover or press. */
+.open:hover, .open:active { opacity: 0.55; }
+.open svg { width: 16px; height: 16px; }
+
+/* Picked up: the card fills with ink. */
+.card.selected {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: var(--paper);
+}
+
+/* While one is picked up, the others are places it can go: dashed, and solid on hover. */
+.chain.choosing .card.movable:not(.selected) { border-style: dashed; border-color: color-mix(in srgb, var(--ink) 35%, var(--line)); }
+/* Hover, picking or swapping: the same light tint (and, while swapping, a solid border). */
+@media (hover: hover) {
+  /* The tint is light, so text on it (white on a gray card, say) turns to ink. */
+  .card.movable:not(.selected):hover { background: color-mix(in srgb, var(--ink) 5%, var(--surface)); color: var(--ink); }
+  .chain.choosing .card.movable:not(.selected):hover { border-style: solid; border-color: var(--ink); }
+}
+.card.green { background: var(--green); color: var(--on-mark); }
+.card.yellow { background: var(--yellow); color: var(--on-mark); }
+.card.gray { background: var(--gray); color: var(--on-gray); }
+/* The border stays through play; once it's solved or out of tries, the colours stand alone. */
+.chain.over .card { border-color: transparent; }
+
+.face {
+  flex: none;
+  display: grid;
+  place-items: center;
+  width: var(--face);
+  height: var(--face);
+  border-radius: 50%;
+  overflow: hidden;
+  background: var(--line);
+  color: var(--muted);
+}
+.face img { width: 100%; height: 100%; object-fit: cover; object-position: 50% 22%; display: block; }
+.face svg { width: 24px; height: 24px; }
+
+.who { flex: 1; min-width: 0; display: flex; flex-direction: column; }
+.name { font-weight: 700; line-height: 1.2; overflow-wrap: anywhere; }
+.desc {
+  font-size: 0.75rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* The sentence that links a pair, once the chain is out. */
+.via {
+  position: relative; /* over the line */
+  margin: 0 0 8px;
+  padding: 10px 12px;
+  border-radius: 10px;
+  background: var(--surface);
+  border: 1px dashed var(--line);
+  animation: rise 0.35s ease both;
+}
+.via[hidden] { display: none; }
+.via blockquote {
+  margin: 0;
+  font-size: 0.875rem;
+  font-style: italic;
+  line-height: 1.4;
+}
+.via b { font-weight: 700; font-style: normal; }
+.via figcaption { margin-top: 4px; font-size: 0.75rem; font-weight: 600; }
+.via a { text-decoration: none; }
+.via a:hover { text-decoration: underline; }
+
+@keyframes rise { from { opacity: 0; transform: translateY(-4px); } }
+
+/* ---------- Buttons ---------- */
+
+.controls, .outcome-actions {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  margin-top: 14px;
+}
+.controls[hidden] { display: none; }
+/* Side by side, each half the width. */
+.controls .button, .outcome-actions .button { flex: 1 1 0; min-width: 0; }
+
+.button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  min-height: 44px;
+  padding: 0 20px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--surface);
+  font-weight: 700;
+  cursor: pointer;
+}
+.button svg { width: 18px; height: 18px; }
+.button.primary { background: var(--ink); border-color: var(--ink); color: var(--paper); }
+
+/* Hover and press: the accent. Outlined buttons take it on their border and text (no fill), filled ones fill with it. */
+.button:hover:not(:disabled) { border-color: var(--accent); color: var(--accent); }
+.button:active:not(:disabled) { border-color: color-mix(in srgb, var(--accent) 80%, var(--ink)); color: color-mix(in srgb, var(--accent) 80%, var(--ink)); }
+.button.primary:hover:not(:disabled) { background: var(--accent); border-color: var(--accent); color: var(--on-accent); }
+.button.primary:active:not(:disabled) { background: color-mix(in srgb, var(--accent) 80%, var(--ink)); border-color: color-mix(in srgb, var(--accent) 80%, var(--ink)); color: var(--on-accent); }
+.button:disabled { opacity: 0.4; cursor: default; }
+.button.wide { width: 100%; }
+.button[hidden] { display: none; }
+
+/* ---------- When it's over ---------- */
+
+.outcome { margin-top: 24px; text-align: center; }
+.outcome[hidden] { display: none; }
+.verdict { margin: 0; font-size: 1.25rem; font-weight: 800; }
+.next { margin: 16px 0 0; color: var(--muted); font-size: 0.875rem; }
+.history { display: inline-flex; flex-direction: column; gap: 4px; margin-top: 16px; }
+.history .row { display: flex; gap: 3px; }
+.history span { width: 16px; height: 16px; border-radius: 4px; background: var(--line); }
+.history .green { background: var(--green); }
+.history .yellow { background: var(--yellow); }
+.history .gray { background: var(--gray); }
+
+.credits {
+  margin-top: 40px;
+  padding-top: 16px;
+  border-top: 1px solid var(--line);
+  color: var(--muted);
+  font-size: 0.75rem;
+  text-align: center;
+}
+
+/* ---------- How to play ---------- */
+
+dialog {
+  width: min(440px, calc(100vw - 32px));
+  max-height: calc(100dvh - 32px);
+  padding: 0;
+  border: 0;
+  border-radius: 20px;
+  background: var(--surface);
+  color: var(--ink);
+  box-shadow: 0 20px 60px rgb(0 0 0 / 0.25);
+}
+dialog::backdrop { background: rgb(0 0 0 / 0.4); }
+.sheet { padding: 20px 24px 24px; }
+.sheet-head { display: flex; align-items: center; justify-content: space-between; margin: -4px -8px 4px 0; }
+.sheet h2 { margin: 0; font-size: 1.25rem; }
+.sheet p { margin: 10px 0; }
+.sheet-note { color: var(--muted); font-size: 0.875rem; }
+.legend { list-style: none; padding: 0; margin: 14px 0; display: grid; gap: 8px; font-size: 0.9375rem; }
+.legend li { display: flex; align-items: center; gap: 12px; }
+.swatch { flex: none; width: 24px; height: 24px; border-radius: 6px; }
+.swatch.green { background: var(--green); }
+.swatch.yellow { background: var(--yellow); }
+.swatch.gray { background: var(--gray); }
+.sheet .button.wide { margin-top: 12px; }
+
+.toast {
+  position: fixed;
+  left: 50%;
+  bottom: max(24px, env(safe-area-inset-bottom));
+  transform: translate(-50%, 20px);
+  padding: 10px 16px;
+  border-radius: 999px;
+  background: var(--ink);
+  color: var(--paper);
+  font-size: 0.875rem;
+  font-weight: 600;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s, transform 0.2s;
+}
+.toast.shown { opacity: 1; transform: translate(-50%, 0); }
+
+@media (max-width: 340px) {
+  .meta { display: none; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; animation: none !important; }
+}

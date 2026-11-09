@@ -1,0 +1,1322 @@
+[
+ {
+  "steps": [
+   {
+    "title": "Bradley Cooper",
+    "description": "American actor and filmmaker (born 1975)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Bradley_Cooper_Is_This_Thing_On-41_%28cropped%29.jpg/330px-Bradley_Cooper_Is_This_Thing_On-41_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   {
+    "title": "J. J. Abrams",
+    "description": "American filmmaker (born 1966)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/JJAbrams-byPhilipRomano.jpg/330px-JJAbrams-byPhilipRomano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Although he would work only three days, he requested creator J. J. Abrams to write his character off the show."
+   },
+   {
+    "title": "Joe Pesci",
+    "description": "American actor (born 1943)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/JoePesci-2009.jpg/330px-JoePesci-2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "He also co-wrote with Mazursky the script for the comedy Gone Fishin' starring Joe Pesci and Danny Glover."
+   },
+   {
+    "title": "Martin Scorsese",
+    "description": "American filmmaker (born 1942)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Martin_Scorsese-68749.jpg/330px-Martin_Scorsese-68749.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In 1979, Pesci received a phone call from Martin Scorsese and Robert De Niro, who were impressed with his performance in The Death Collector and asked him to co-star in Scorsese's Raging Bull as Joey LaMotta."
+   },
+   {
+    "title": "Robert De Niro",
+    "description": "American actor (born 1943)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Robert_de_Niro_Cannes_Film_Festival_%283x4_cropped%29.jpg/330px-Robert_de_Niro_Cannes_Film_Festival_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "It was De Palma who introduced Scorsese to Robert De Niro."
+   },
+   {
+    "title": "Francis Ford Coppola",
+    "description": "American filmmaker (born 1939)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Lena_Herzog_Francis_Ford_Coppola_Wernder_Herzog_Venice_Film_Festival_%28cropped%29.jpg/330px-Lena_Herzog_Francis_Ford_Coppola_Wernder_Herzog_Venice_Film_Festival_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "De Niro had a pivotal role in Francis Ford Coppola's crime epic The Godfather Part II (1974), playing the young Vito Corleone."
+   },
+   {
+    "title": "Jim Morrison",
+    "description": "American singer (1943–1971)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Jim_Morrison_-_Young_Lion_%281967%29_%281%29.jpg/330px-Jim_Morrison_-_Young_Lion_%281967%29_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "He also met undergraduate film major Jim Morrison, future frontman of The Doors."
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "Although he would work only three days, he requested creator J. J. Abrams to write his character off the show."
+   },
+   {
+    "a": 0,
+    "b": 4,
+    "from": 0,
+    "via": "While studying in New York City, Cooper worked as a doorman at the Morgans Hotel, and briefly interacted with Robert de Niro and Sean Penn in question-and-answer master class sessions, which were later featured episodes of Inside the Actors Studio."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "He also co-wrote with Mazursky the script for the comedy Gone Fishin' starring Joe Pesci and Danny Glover."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "In 1979, Pesci received a phone call from Martin Scorsese and Robert De Niro, who were impressed with his performance in The Death Collector and asked him to co-star in Scorsese's Raging Bull as Joey LaMotta."
+   },
+   {
+    "a": 2,
+    "b": 4,
+    "from": 2,
+    "via": "In 2017, Pesci was cast alongside Robert De Niro and Al Pacino in The Irishman, a crime film directed by Martin Scorsese."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "It was De Palma who introduced Scorsese to Robert De Niro."
+   },
+   {
+    "a": 3,
+    "b": 5,
+    "from": 3,
+    "via": "Scorsese became friends with the influential \"movie brats\" of the 1970s: Brian De Palma, Francis Ford Coppola, George Lucas and Steven Spielberg."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "De Niro had a pivotal role in Francis Ford Coppola's crime epic The Godfather Part II (1974), playing the young Vito Corleone."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "He also met undergraduate film major Jim Morrison, future frontman of The Doors."
+   }
+  ],
+  "solutions": 2
+ },
+ {
+  "steps": [
+   {
+    "title": "Sean Connery",
+    "description": "Scottish actor and producer (1930–2020)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Sean_Connery_as_James_Bond_at_Switzerland_1964_%28two_thirds_crop%29.jpg/330px-Sean_Connery_as_James_Bond_at_Switzerland_1964_%28two_thirds_crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   {
+    "title": "Michael Caine",
+    "description": "English retired actor (born 1933)",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Sir_Michael_Caine%2C_28th_EFA_Awards_2015%2C_Berlin_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "via": "Connery met Michael Caine at a party during a production of South Pacific in 1954, and the two later became close friends."
+   },
+   {
+    "title": "Christopher Plummer",
+    "description": "Canadian actor (1929–2021)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Christopher_Plummer_1964.jpg/330px-Christopher_Plummer_1964.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Subsequently, Caine's agent got him cast in the BBC production Hamlet at Elsinore (1964) as Horatio, in support of Christopher Plummer's Hamlet."
+   },
+   {
+    "title": "Julie Andrews",
+    "description": "English actress, singer and author (born 1935)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Julie_Andrews_Park_Hyatt%2C_Sydney%2C_Australia_2013.jpg/330px-Julie_Andrews_Park_Hyatt%2C_Sydney%2C_Australia_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Plummer acted alongside Julie Andrews, and the film earned five Academy Awards, including Best Picture."
+   },
+   {
+    "title": "Alfred Hitchcock",
+    "description": "English filmmaker (1899–1980)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Hitchcock%2C_Alfred_02.jpg/330px-Hitchcock%2C_Alfred_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Also in 1966, she starred opposite Paul Newman in Torn Curtain, which was directed by Alfred Hitchcock and shot at Universal Studios Hollywood."
+   },
+   {
+    "title": "Cary Grant",
+    "description": "British-American actor (1904–1986)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Cary-grant-lead.jpg/330px-Cary-grant-lead.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Hitchcock told Truffaut: \"You have to clearly spell it out in big letters: 'He is innocent.'\" (He had the same problem years later with Cary Grant in Suspicion (1941).) Released in January 1927, The Lodger was a commercial and critical success in the UK."
+   },
+   {
+    "title": "Katharine Hepburn",
+    "description": "American actress (1907–2003)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Katharine_Hepburn_publicity_photograph.jpg/330px-Katharine_Hepburn_publicity_photograph.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Producer Pandro Berman agreed to take him on in the face of failure because \"I'd seen him do things which were excellent, and [Katharine] Hepburn wanted him too.\" His first venture with RKO, playing a raffish Cockney swindler in George Cukor's Sylvia Scarlett (1935), was the first of four collaborations with Hepburn."
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "Connery met Michael Caine at a party during a production of South Pacific in 1954, and the two later became close friends."
+   },
+   {
+    "a": 0,
+    "b": 4,
+    "from": 0,
+    "via": "While making the Bond films, Connery also starred in other films such as Alfred Hitchcock's Marnie (1964) and Sidney Lumet's The Hill (1965), which film critic Peter Bradshaw regards as his two great non-Bond pictures from the 1960s."
+   },
+   {
+    "a": 0,
+    "b": 5,
+    "from": 0,
+    "via": "When told by Hitchcock's agent that Cary Grant had not asked to see even one of Hitchcock's scripts, Connery replied: \"I'm not Cary Grant\"."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "Subsequently, Caine's agent got him cast in the BBC production Hamlet at Elsinore (1964) as Horatio, in support of Christopher Plummer's Hamlet."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "Plummer acted alongside Julie Andrews, and the film earned five Academy Awards, including Best Picture."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "Also in 1966, she starred opposite Paul Newman in Torn Curtain, which was directed by Alfred Hitchcock and shot at Universal Studios Hollywood."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "Hitchcock told Truffaut: \"You have to clearly spell it out in big letters: 'He is innocent.'\" (He had the same problem years later with Cary Grant in Suspicion (1941).) Released in January 1927, The Lodger was a commercial and critical success in the UK."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "Producer Pandro Berman agreed to take him on in the face of failure because \"I'd seen him do things which were excellent, and [Katharine] Hepburn wanted him too.\" His first venture with RKO, playing a raffish Cockney swindler in George Cukor's Sylvia Scarlett (1935), was the first of four collaborations with Hepburn."
+   }
+  ],
+  "solutions": 1
+ },
+ {
+  "steps": [
+   {
+    "title": "Michael Fassbender",
+    "description": "German and Irish actor (born 1977)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Michael_Fassbender_at_the_2026_Cannes_Film_Festival_02_%28cropped%29.jpg/330px-Michael_Fassbender_at_the_2026_Cannes_Film_Festival_02_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   {
+    "title": "Christian Bale",
+    "description": "English actor (born 1974)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Christian_Bale-7837.jpg/330px-Christian_Bale-7837.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Fassbender became attached after Christian Bale dropped out of the project."
+   },
+   {
+    "title": "Hugh Jackman",
+    "description": "Australian actor and singer (born 1968)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Hugh_Jackman_by_Gage_Skidmore_3.jpg/330px-Hugh_Jackman_by_Gage_Skidmore_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "It is based on the 1995 novel by Christopher Priest about a rivalry between two Victorian era magicians, whom Bale and Hugh Jackman play in the film."
+   },
+   {
+    "title": "Daniel Craig",
+    "description": "English actor (born 1968)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Daniel_Craig_TIFF_2025_Red_Carpet_%28cropped%29.jpg/330px-Daniel_Craig_TIFF_2025_Red_Carpet_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Jackman was asked to consider taking on the role of James Bond before Daniel Craig was chosen to play the character, but turned it down due to other commitments."
+   },
+   {
+    "title": "Angelina Jolie",
+    "description": "American actress (born 1975)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Angelina_Jolie-643531_%28cropped%29.jpg/330px-Angelina_Jolie-643531_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Craig played the love interest of Angelina Jolie's character Lara Croft in Lara Croft: Tomb Raider (2001), based on the video game series Tomb Raider."
+   },
+   {
+    "title": "Billy Bob Thornton",
+    "description": "American actor, filmmaker and singer-songwriter (born 1955)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Billy_Bob_Thornton_2017_%28cropped%29.jpg/330px-Billy_Bob_Thornton_2017_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In 1999, Jolie starred in the comedy-drama Pushing Tin, alongside John Cusack, Billy Bob Thornton, and Cate Blanchett."
+   },
+   {
+    "title": "Adam Sandler",
+    "description": "American comedian and actor (born 1966)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Jackie_Sandler_Adam_Sandler_Jay_Kelly-36_%283x4%29.jpg/330px-Jackie_Sandler_Adam_Sandler_Jay_Kelly-36_%283x4%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In 1989, he appeared as an angry heckler in Adam Sandler's debut film Going Overboard, and in 1992, he played the role of the villain in One False Move, which he also co-wrote."
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "Fassbender became attached after Christian Bale dropped out of the project."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "It is based on the 1995 novel by Christopher Priest about a rivalry between two Victorian era magicians, whom Bale and Hugh Jackman play in the film."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "Jackman was asked to consider taking on the role of James Bond before Daniel Craig was chosen to play the character, but turned it down due to other commitments."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "Craig played the love interest of Angelina Jolie's character Lara Croft in Lara Croft: Tomb Raider (2001), based on the video game series Tomb Raider."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "In 1999, Jolie starred in the comedy-drama Pushing Tin, alongside John Cusack, Billy Bob Thornton, and Cate Blanchett."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "In 1989, he appeared as an angry heckler in Adam Sandler's debut film Going Overboard, and in 1992, he played the role of the villain in One False Move, which he also co-wrote."
+   }
+  ],
+  "solutions": 1
+ },
+ {
+  "steps": [
+   {
+    "title": "Jeff Buckley",
+    "description": "American musician (1966–1997)",
+    "thumb": null
+   },
+   {
+    "title": "Brad Pitt",
+    "description": "American actor (born 1963)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Brad_Pitt-69858.jpg/330px-Brad_Pitt-69858.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Robert Plant was also complimentary, as was Brad Pitt, saying of Buckley's work, \"There's an undercurrent to his music, there's something you can't pinpoint."
+   },
+   {
+    "title": "Ridley Scott",
+    "description": "English filmmaker (born 1937)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Ridley_Scott_At_BFI_-_BFI_Southbank_-_Saturday_4th_October_2025.jpg/330px-Ridley_Scott_At_BFI_-_BFI_Southbank_-_Saturday_4th_October_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Pitt attracted wider recognition in his supporting role in Ridley Scott's 1991 film Thelma & Louise."
+   },
+   {
+    "title": "Hans Zimmer",
+    "description": "German film composer (born 1957)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Hans-Zimmer-profile.jpg/330px-Hans-Zimmer-profile.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Black Rain was the first of Scott's six collaborations with the composer Hans Zimmer."
+   },
+   {
+    "title": "Christopher Nolan",
+    "description": "British and American filmmaker (born 1970)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/ChristopherNolan-byPhilipRomano_%28cropped%29.jpg/330px-ChristopherNolan-byPhilipRomano_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Zimmer is noted for his work on the scores of Christopher Nolan's Batman Begins (2005) and The Dark Knight (2008), which he co-composed with James Newton Howard."
+   },
+   {
+    "title": "Robin Williams",
+    "description": "American actor and comedian (1951–2014)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Robin_Williams_1996_%28cropped%29_2.jpg/330px-Robin_Williams_1996_%28cropped%29_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Starring Al Pacino, Robin Williams and Hilary Swank, Insomnia follows two Los Angeles detectives sent to a northern Alaskan town to investigate the murder of a local teenager."
+   },
+   {
+    "title": "Mandy Patinkin",
+    "description": "American actor and singer (born 1952)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/MandyPatinkin.jpg/330px-MandyPatinkin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Williams's classmates included William Hurt and Mandy Patinkin."
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "Robert Plant was also complimentary, as was Brad Pitt, saying of Buckley's work, \"There's an undercurrent to his music, there's something you can't pinpoint."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "Pitt attracted wider recognition in his supporting role in Ridley Scott's 1991 film Thelma & Louise."
+   },
+   {
+    "a": 1,
+    "b": 3,
+    "from": 3,
+    "via": "In 2025, Zimmer scored F1, a sports film starring Brad Pitt and directed by Joseph Kosinski."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "Black Rain was the first of Scott's six collaborations with the composer Hans Zimmer."
+   },
+   {
+    "a": 2,
+    "b": 4,
+    "from": 2,
+    "via": "In 2024, filmmaker Christopher Nolan wrote about Scott's influence, \"Despite all his success, [Ridley] Scott's contribution to the evolution of cinematic storytelling has never been properly acknowledged."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "Zimmer is noted for his work on the scores of Christopher Nolan's Batman Begins (2005) and The Dark Knight (2008), which he co-composed with James Newton Howard."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "Starring Al Pacino, Robin Williams and Hilary Swank, Insomnia follows two Los Angeles detectives sent to a northern Alaskan town to investigate the murder of a local teenager."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "Williams's classmates included William Hurt and Mandy Patinkin."
+   }
+  ],
+  "solutions": 2
+ },
+ {
+  "steps": [
+   {
+    "title": "James Franco",
+    "description": "American actor and filmmaker (born 1978)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/James_Franco_4%2C_2013.jpg/330px-James_Franco_4%2C_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   {
+    "title": "Heather Graham",
+    "description": "American actress (born 1970)",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/b3/HeatherGrahamByDimitriSarantis2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "via": "He was cast as a drug-addicted lawyer in About Cherry, also starring Heather Graham, which started shooting the following month in California."
+   },
+   {
+    "title": "Steve Martin",
+    "description": "American comedian, actor, musician and writer (born 1945)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Steve_Martin%2C_2017-08-11_%28cropped%29.jpg/330px-Steve_Martin%2C_2017-08-11_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Also in 1999, Graham co-starred as Daisy in the movie Bowfinger, opposite Steve Martin and Eddie Murphy."
+   },
+   {
+    "title": "Rick Moranis",
+    "description": "Canadian comedian and actor (born 1953)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Rick_Moranis_at_San_Diego_Comic_Con_2026-2.jpg/330px-Rick_Moranis_at_San_Diego_Comic_Con_2026-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "The film was the first of three films teaming Martin with Rick Moranis."
+   },
+   {
+    "title": "Martin Scorsese",
+    "description": "American filmmaker (born 1942)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Martin_Scorsese-68749.jpg/330px-Martin_Scorsese-68749.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Moranis appears in the Martin Scorsese–directed Second City TV reunion documentary, titled An Afternoon with SCTV, set to premiere on Netflix."
+   },
+   {
+    "title": "Liza Minnelli",
+    "description": "American actress, singer, and dancer (born 1946)",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/27/Liza_Minnelli.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "via": "The film was the director's third collaboration with De Niro, co-starring with Liza Minnelli."
+   },
+   {
+    "title": "Frank Sinatra",
+    "description": "American singer and actor (1915–1998)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Frank_Sinatra_%281957_studio_portrait_close-up%29.jpg/330px-Frank_Sinatra_%281957_studio_portrait_close-up%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "She sometimes performed duets on stage with Frank Sinatra, who recorded a cover version (for his Trilogy: Past Present Future album)."
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "He was cast as a drug-addicted lawyer in About Cherry, also starring Heather Graham, which started shooting the following month in California."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "Also in 1999, Graham co-starred as Daisy in the movie Bowfinger, opposite Steve Martin and Eddie Murphy."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "The film was the first of three films teaming Martin with Rick Moranis."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "Moranis appears in the Martin Scorsese–directed Second City TV reunion documentary, titled An Afternoon with SCTV, set to premiere on Netflix."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "The film was the director's third collaboration with De Niro, co-starring with Liza Minnelli."
+   },
+   {
+    "a": 4,
+    "b": 6,
+    "from": 4,
+    "via": "The film is best remembered today for the title theme song, which was popularized by Frank Sinatra."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "She sometimes performed duets on stage with Frank Sinatra, who recorded a cover version (for his Trilogy: Past Present Future album)."
+   }
+  ],
+  "solutions": 1
+ },
+ {
+  "steps": [
+   {
+    "title": "George Lucas",
+    "description": "American filmmaker and entrepreneur (born 1944)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/George_Lucas_by_Gage_Skidmore.jpg/330px-George_Lucas_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   {
+    "title": "Harrison Ford",
+    "description": "American actor (born 1942)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Harrison_Ford_-_Televerse_2025-03.jpg/330px-Harrison_Ford_-_Televerse_2025-03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "At the same time the sequel trilogy was announced, a fifth installment of the Indiana Jones series also entered pre-development phase with Harrison Ford and Steven Spielberg set to return."
+   },
+   {
+    "title": "Francis Ford Coppola",
+    "description": "American filmmaker (born 1939)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Lena_Herzog_Francis_Ford_Coppola_Wernder_Herzog_Venice_Film_Festival_%28cropped%29.jpg/330px-Lena_Herzog_Francis_Ford_Coppola_Wernder_Herzog_Venice_Film_Festival_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "After director Francis Ford Coppola's film The Godfather (1972) was a success, he hired Ford to expand his office and gave him small roles in his next two films, The Conversation (1974) and Apocalypse Now (1979); in the latter film, Ford played an army colonel named \"G."
+   },
+   {
+    "title": "Jim Morrison",
+    "description": "American singer (1943–1971)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Jim_Morrison_-_Young_Lion_%281967%29_%281%29.jpg/330px-Jim_Morrison_-_Young_Lion_%281967%29_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "He also met undergraduate film major Jim Morrison, future frontman of The Doors."
+   },
+   {
+    "title": "Marlon Brando",
+    "description": "American actor (1924–2004)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Marlon_Brando_publicity_for_One-Eyed_Jacks.png/330px-Marlon_Brando_publicity_for_One-Eyed_Jacks.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Conversely, Krieger and Manzarek claim that Morrison was inspired to wear leather pants by Marlon Brando from his role in The Fugitive Kind."
+   },
+   {
+    "title": "Elvis Presley",
+    "description": "American singer and actor (1935–1977)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Elvis_Presley_promoting_Jailhouse_Rock.jpg/330px-Elvis_Presley_promoting_Jailhouse_Rock.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "To Brando's expressed puzzlement, the movie inspired teen rebellion and made him a role model to the nascent rock-and-roll generation and future stars such as James Dean and Elvis Presley."
+   },
+   {
+    "title": "Chuck Berry",
+    "description": "American musician (1926–2017)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Chuck_Berry_1957.jpg/330px-Chuck_Berry_1957.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "While Presley was not an innovative guitarist like Moore or contemporary African American rockers Bo Diddley and Chuck Berry, cultural historian Gilbert B. Rodman argued that the album's cover image, \"of Elvis having the time of his life on stage with a guitar in his hands played a crucial role in positioning the guitar ... as the instrument that best captured the style and spirit of this new music.\""
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "At the same time the sequel trilogy was announced, a fifth installment of the Indiana Jones series also entered pre-development phase with Harrison Ford and Steven Spielberg set to return."
+   },
+   {
+    "a": 0,
+    "b": 2,
+    "from": 0,
+    "via": "The film he chose after finding the animation department closed down was Finian's Rainbow (1968) which was being directed by Francis Ford Coppola, who was revered among film school students of the time as a cinema graduate who had \"made it\" in Hollywood."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "After director Francis Ford Coppola's film The Godfather (1972) was a success, he hired Ford to expand his office and gave him small roles in his next two films, The Conversation (1974) and Apocalypse Now (1979); in the latter film, Ford played an army colonel named \"G."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "He also met undergraduate film major Jim Morrison, future frontman of The Doors."
+   },
+   {
+    "a": 2,
+    "b": 4,
+    "from": 2,
+    "via": "There was disagreement between Paramount and Coppola on casting; Coppola wanted to cast Marlon Brando as Vito, though Paramount wanted either Ernest Borgnine or Danny Thomas."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "Conversely, Krieger and Manzarek claim that Morrison was inspired to wear leather pants by Marlon Brando from his role in The Fugitive Kind."
+   },
+   {
+    "a": 3,
+    "b": 5,
+    "from": 3,
+    "via": "Morrison's vocal influences included Elvis Presley, Frank Sinatra and Howlin' Wolf, which can be heard in his baritone crooning style on several of the Doors' songs."
+   },
+   {
+    "a": 3,
+    "b": 6,
+    "from": 3,
+    "via": "Morrison also cited Little Richard, Chuck Berry, Muddy Waters, Bo Didley, John Coltrane, Peggy Lee, Fats Domino, Jerry Lee Lewis and Gene Vincent as other early influences."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "To Brando's expressed puzzlement, the movie inspired teen rebellion and made him a role model to the nascent rock-and-roll generation and future stars such as James Dean and Elvis Presley."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "While Presley was not an innovative guitarist like Moore or contemporary African American rockers Bo Diddley and Chuck Berry, cultural historian Gilbert B. Rodman argued that the album's cover image, \"of Elvis having the time of his life on stage with a guitar in his hands played a crucial role in positioning the guitar ... as the instrument that best captured the style and spirit of this new music.\""
+   }
+  ],
+  "solutions": 3
+ },
+ {
+  "steps": [
+   {
+    "title": "Edward Norton",
+    "description": "American actor (born 1969)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Ed_Norton_and_Shauna_Robertson_TIFF_2025_%28cropped%29.jpg/330px-Ed_Norton_and_Shauna_Robertson_TIFF_2025_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   {
+    "title": "David Fincher",
+    "description": "American filmmaker (born 1962)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/TheKillerBFILFF051023_%288_of_22%29_%2853255176376%29_%28cropped2%29.jpg/330px-TheKillerBFILFF051023_%288_of_22%29_%2853255176376%29_%28cropped2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In the 1999 David Fincher-directed film Fight Club, Norton played an unnamed unreliable narrator who feels trapped in his white-collar job."
+   },
+   {
+    "title": "Cate Blanchett",
+    "description": "Australian actor (born 1969)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Cate_Blanchett-63298_%28cropped_2%29.jpg/330px-Cate_Blanchett-63298_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "The romantic-drama marked Fincher's third collaboration with Pitt, who stars opposite Cate Blanchett."
+   },
+   {
+    "title": "Wes Anderson",
+    "description": "American filmmaker (born 1969)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Wes_Anderson-7541_%28cropped%29.jpg/330px-Wes_Anderson-7541_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In 2004, Blanchett portrayed a pregnant journalist chronicling an underwater voyage by an eccentric oceanographer in Wes Anderson's The Life Aquatic with Steve Zissou."
+   },
+   {
+    "title": "George Clooney",
+    "description": "American actor and filmmaker (born 1961)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/George_Clooney_Jay_Kelly-19_%28cropped%29.jpg/330px-George_Clooney_Jay_Kelly-19_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Its voice actors include Murray, Dafoe, Schwartzman, Brody, Gambon, Owen Wilson, George Clooney, and Meryl Streep."
+   },
+   {
+    "title": "Jennifer Lopez",
+    "description": "American singer-songwriter and actress (born 1969)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Jennifer_Lopez_at_the_2025_Sundance_Film_Festival_%28cropped_3%29.jpg/330px-Jennifer_Lopez_at_the_2025_Sundance_Film_Festival_%28cropped_3%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In 1998, he co-starred in the crime-comedy Out of Sight opposite Jennifer Lopez, marking the first of his many collaborations with director Steven Soderbergh."
+   },
+   {
+    "title": "Kerry Washington",
+    "description": "American actress (born 1977)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/KerryWashington-byPhilipRomano.jpg/330px-KerryWashington-byPhilipRomano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "She learned flamenco, jazz, and ballet at the Kips Bay Boys & Girls Club and taught dance to younger students, including Kerry Washington."
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "In the 1999 David Fincher-directed film Fight Club, Norton played an unnamed unreliable narrator who feels trapped in his white-collar job."
+   },
+   {
+    "a": 0,
+    "b": 3,
+    "from": 0,
+    "via": "He starred as scoutmaster Randy Ward in charge of finding his missing camper in the coming-of-age film Moonrise Kingdom, directed by Wes Anderson."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "The romantic-drama marked Fincher's third collaboration with Pitt, who stars opposite Cate Blanchett."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "In 2004, Blanchett portrayed a pregnant journalist chronicling an underwater voyage by an eccentric oceanographer in Wes Anderson's The Life Aquatic with Steve Zissou."
+   },
+   {
+    "a": 2,
+    "b": 4,
+    "from": 2,
+    "via": "She also co-starred in Steven Soderbergh's World War II-era drama The Good German with George Clooney, and the psychological thriller Notes on a Scandal opposite Dame Judi Dench."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "Its voice actors include Murray, Dafoe, Schwartzman, Brody, Gambon, Owen Wilson, George Clooney, and Meryl Streep."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "In 1998, he co-starred in the crime-comedy Out of Sight opposite Jennifer Lopez, marking the first of his many collaborations with director Steven Soderbergh."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "She learned flamenco, jazz, and ballet at the Kips Bay Boys & Girls Club and taught dance to younger students, including Kerry Washington."
+   }
+  ],
+  "solutions": 1
+ },
+ {
+  "steps": [
+   {
+    "title": "Helen Mirren",
+    "description": "English actor (born 1945)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Helen_Mirren_-_Tribute_Awards_-_TIFF_2026-2.jpg/330px-Helen_Mirren_-_Tribute_Awards_-_TIFF_2026-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   {
+    "title": "Ian McKellen",
+    "description": "English actor (born 1939)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/SDCC13_-_Ian_McKellen.jpg/330px-SDCC13_-_Ian_McKellen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Prior to 2015, Mirren had twice been nominated for Broadway's Tony Award for Best Actress in a Play: in 1995 for her Broadway debut in A Month in the Country and then again in 2002 for The Dance of Death, co-starring with Sir Ian McKellen, their fraught rehearsal period coinciding with the terrorist attacks on New York on 11 September 2001."
+   },
+   {
+    "title": "Donald Sutherland",
+    "description": "Canadian actor (1935–2024)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Donald_Sutherland_%28cropped%29.JPG/330px-Donald_Sutherland_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "McKellen starred alongside Will Smith, Donald Sutherland and Stockard Channing."
+   },
+   {
+    "title": "Charles Bronson",
+    "description": "American actor (1921–2003)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Charles_Bronson_-_1966.JPG/330px-Charles_Bronson_-_1966.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "The film, which starred Lee Marvin, Charles Bronson, John Cassavetes, Robert Ryan and several other popular actors, was the fifth highest-grossing film of 1967 and MGM's highest-grossing film of the year."
+   },
+   {
+    "title": "Elvis Presley",
+    "description": "American singer and actor (1935–1977)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Elvis_Presley_promoting_Jailhouse_Rock.jpg/330px-Elvis_Presley_promoting_Jailhouse_Rock.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In 1962, Bronson appeared in the Elvis Presley film Kid Galahad."
+   },
+   {
+    "title": "Chuck Berry",
+    "description": "American musician (1926–2017)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Chuck_Berry_1957.jpg/330px-Chuck_Berry_1957.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "While Presley was not an innovative guitarist like Moore or contemporary African American rockers Bo Diddley and Chuck Berry, cultural historian Gilbert B. Rodman argued that the album's cover image, \"of Elvis having the time of his life on stage with a guitar in his hands played a crucial role in positioning the guitar ... as the instrument that best captured the style and spirit of this new music.\""
+   },
+   {
+    "title": "Bruce Springsteen",
+    "description": "American musician and songwriter (born 1949)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Bruce_Springsteen_Springsteen-79_%28cropped%29.jpg/330px-Bruce_Springsteen_Springsteen-79_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Among the many bandleaders performing a backup role with Berry in the 1970s were Bruce Springsteen and Steve Miller when each was just starting his career."
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "Prior to 2015, Mirren had twice been nominated for Broadway's Tony Award for Best Actress in a Play: in 1995 for her Broadway debut in A Month in the Country and then again in 2002 for The Dance of Death, co-starring with Sir Ian McKellen, their fraught rehearsal period coinciding with the terrorist attacks on New York on 11 September 2001."
+   },
+   {
+    "a": 0,
+    "b": 2,
+    "from": 0,
+    "via": "On set, she was reunited with Donald Sutherland with whom she had not worked again since Bethune: The Making of a Hero (1990), portraying a terminally ill couple who escape from their retirement home and take one last cross-country adventure in a vintage van."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "McKellen starred alongside Will Smith, Donald Sutherland and Stockard Channing."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "The film, which starred Lee Marvin, Charles Bronson, John Cassavetes, Robert Ryan and several other popular actors, was the fifth highest-grossing film of 1967 and MGM's highest-grossing film of the year."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "In 1962, Bronson appeared in the Elvis Presley film Kid Galahad."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "While Presley was not an innovative guitarist like Moore or contemporary African American rockers Bo Diddley and Chuck Berry, cultural historian Gilbert B. Rodman argued that the album's cover image, \"of Elvis having the time of his life on stage with a guitar in his hands played a crucial role in positioning the guitar ... as the instrument that best captured the style and spirit of this new music.\""
+   },
+   {
+    "a": 4,
+    "b": 6,
+    "from": 6,
+    "via": "By the age of seven, he became interested in being a musician after seeing Elvis Presley's performances on The Ed Sullivan Show in 1956 and 1957."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "Among the many bandleaders performing a backup role with Berry in the 1970s were Bruce Springsteen and Steve Miller when each was just starting his career."
+   }
+  ],
+  "solutions": 1
+ },
+ {
+  "steps": [
+   {
+    "title": "Eva Green",
+    "description": "French actress (born 1980)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/EVA_GREEN_CESAR_2020.jpg/330px-EVA_GREEN_CESAR_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   {
+    "title": "Rachel Weisz",
+    "description": "British actress (born 1970)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Rachel_Weisz-62940_%28cropped%29.jpg/330px-Rachel_Weisz-62940_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Green was considered for roles in The Constant Gardener (a role that went to Rachel Weisz) and The Black Dahlia."
+   },
+   {
+    "title": "Richard Gere",
+    "description": "American actor (born 1949)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Richard_Gere-69101.jpg/330px-Richard_Gere-69101.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In 1984, she gained public attention when she turned down an offer to star in King David with Richard Gere."
+   },
+   {
+    "title": "Diane Lane",
+    "description": "American actress (born 1965)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Diane_Lane_%28Berlin_Film_Festival_2011%29_2.jpg/330px-Diane_Lane_%28Berlin_Film_Festival_2011%29_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "He co-starred with Diane Lane in the romantic drama Nights in Rodanthe (2008)."
+   },
+   {
+    "title": "Liev Schreiber",
+    "description": "American actor (born 1967)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Liev_Schreiber_2022.jpg/330px-Liev_Schreiber_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Lane earned further recognition for her role in the film A Walk on the Moon (1999), which also starred Liev Schreiber, Viggo Mortensen, and Anna Paquin."
+   },
+   {
+    "title": "Naomi Watts",
+    "description": "British actress (born 1968)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Naomi_Watts_at_the_2024_New_York_Film_Festival_2_%28cropped%29.jpg/330px-Naomi_Watts_at_the_2024_New_York_Film_Festival_2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In the fall of that year, he directed and starred in the \"2006 Join the Fight\" AIDS campaign for Cable Positive and Kismet Films (others involved with the campaign included actress Naomi Watts, fashion designer Calvin Klein, and playwright Tony Kushner)."
+   },
+   {
+    "title": "Jude Law",
+    "description": "English actor (born 1972)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Jude_Law-7806_%28cropped%29.jpg/330px-Jude_Law-7806_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "She teamed up with Jude Law and Dustin Hoffman in David O. Russell's ensemble comedy I Heart Huckabees."
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "Green was considered for roles in The Constant Gardener (a role that went to Rachel Weisz) and The Black Dahlia."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "In 1984, she gained public attention when she turned down an offer to star in King David with Richard Gere."
+   },
+   {
+    "a": 1,
+    "b": 5,
+    "from": 5,
+    "via": "In 2011, she appeared with Daniel Craig and Rachel Weisz in Jim Sheridan's psychological horror film Dream House, as the neighbour of a murdered family, and with Leonardo DiCaprio in Clint Eastwood's biographical drama J. Edgar, playing secretary Helen Gandy."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "He co-starred with Diane Lane in the romantic drama Nights in Rodanthe (2008)."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "Lane earned further recognition for her role in the film A Walk on the Moon (1999), which also starred Liev Schreiber, Viggo Mortensen, and Anna Paquin."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "In the fall of that year, he directed and starred in the \"2006 Join the Fight\" AIDS campaign for Cable Positive and Kismet Films (others involved with the campaign included actress Naomi Watts, fashion designer Calvin Klein, and playwright Tony Kushner)."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "She teamed up with Jude Law and Dustin Hoffman in David O. Russell's ensemble comedy I Heart Huckabees."
+   }
+  ],
+  "solutions": 1
+ },
+ {
+  "steps": [
+   {
+    "title": "Halle Berry",
+    "description": "American actress (born 1966)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Halle_Berry-1910.jpg/330px-Halle_Berry-1910.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   {
+    "title": "Eddie Murphy",
+    "description": "American comedian, actor, and singer (born 1961)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Eddie_Murphy_by_David_Shankbone.jpg/330px-Eddie_Murphy_by_David_Shankbone.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In 1992, Berry portrayed a career woman who falls for Eddie Murphy's character in the romantic comedy Boomerang."
+   },
+   {
+    "title": "Richard Pryor",
+    "description": "American comedian and actor (1940–2005)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Richard_Pryor_The_Midnight_Show_in_April_1974.png/330px-Richard_Pryor_The_Midnight_Show_in_April_1974.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "When Murphy was fifteen, he listened to Richard Pryor's comedy album That Nigger's Crazy, which inspired his decision to become a comedian."
+   },
+   {
+    "title": "Mel Brooks",
+    "description": "American filmmaker, actor and comedian (born 1926)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/MelBrooksApr10.jpg/330px-MelBrooksApr10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Pryor co-wrote Blazing Saddles (1974), directed by Mel Brooks and starring Gene Wilder."
+   },
+   {
+    "title": "Anne Bancroft",
+    "description": "American actress (1931–2005)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Anne_Bancroft_1952.jpg/330px-Anne_Bancroft_1952.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "That year, Brooks married the actress Anne Bancroft."
+   },
+   {
+    "title": "Dustin Hoffman",
+    "description": "American actor (born 1937)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Dustin_Hoffman_at_the_2025_Toronto_International_Film_Festival._02_%28cropped%29.jpg/330px-Dustin_Hoffman_at_the_2025_Toronto_International_Film_Festival._02_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In the film, she played an unhappily married woman who seduces the son of her husband's law firm partner, the much younger recent college graduate played by Dustin Hoffman."
+   },
+   {
+    "title": "Barbra Streisand",
+    "description": "American singer and actress (born 1942)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Barbra_Streisand_with_Francis_Collins_and_Anthony_Fauci_%2827806589237%29_%28cropped%29.jpg/330px-Barbra_Streisand_with_Francis_Collins_and_Anthony_Fauci_%2827806589237%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Hoffman's appearance—Duvall described him as Barbra Streisand in drag—and small size made him uncastable, Vanity Fair later wrote."
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "In 1992, Berry portrayed a career woman who falls for Eddie Murphy's character in the romantic comedy Boomerang."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "When Murphy was fifteen, he listened to Richard Pryor's comedy album That Nigger's Crazy, which inspired his decision to become a comedian."
+   },
+   {
+    "a": 1,
+    "b": 6,
+    "from": 1,
+    "via": "He had started singing earlier in his career, with the songs \"Boogie in Your Butt\" and \"Enough Is Enough\", the latter being a parody of Barbra Streisand's and Donna Summer's 1979 song, \"No More Tears\"."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "Pryor co-wrote Blazing Saddles (1974), directed by Mel Brooks and starring Gene Wilder."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "That year, Brooks married the actress Anne Bancroft."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "In the film, she played an unhappily married woman who seduces the son of her husband's law firm partner, the much younger recent college graduate played by Dustin Hoffman."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "Hoffman's appearance—Duvall described him as Barbra Streisand in drag—and small size made him uncastable, Vanity Fair later wrote."
+   }
+  ],
+  "solutions": 1
+ },
+ {
+  "steps": [
+   {
+    "title": "Dolph Lundgren",
+    "description": "Swedish and American actor and martial artist (born 1957)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Dolph_Lundgren_Photo_Op_GalaxyCon_Richmond_2024.jpg/330px-Dolph_Lundgren_Photo_Op_GalaxyCon_Richmond_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   {
+    "title": "Jean-Claude Van Damme",
+    "description": "Belgian actor and martial artist (born 1960)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Jean-Claude_Van_Damme_at_Brussels_Comic_Con_2023_DSC19480_Kiri_DxO.jpg/330px-Jean-Claude_Van_Damme_at_Brussels_Comic_Con_2023_DSC19480_Kiri_DxO.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Lundgren (as Sergeant Andrew Scott) and Jean-Claude Van Damme (as Luc Deveraux) play U.S. soldiers who died during the Vietnam War, only to be later reanimated in a secret Army project to be sent on missions as GR operatives."
+   },
+   {
+    "title": "Chuck Norris",
+    "description": "American martial artist and actor (1940–2026)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Chuck_Norris%2C_The_Delta_Force_1986_%28slight_cropped%29.jpg/330px-Chuck_Norris%2C_The_Delta_Force_1986_%28slight_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Around that time he developed a friendship with action martial art film star Chuck Norris."
+   },
+   {
+    "title": "David Carradine",
+    "description": "American actor (1936–2009)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/David_Carradine_1987_%28cropped%29.jpg/330px-David_Carradine_1987_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "He plays a reckless but brave Texas Ranger who defeats an arms dealer played by David Carradine."
+   },
+   {
+    "title": "Bruce Lee",
+    "description": "Martial artist and actor (1940–1973)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Bruce_Lee_as_Chen_Zhen_%284x5_cropped%29.jpg/330px-Bruce_Lee_as_Chen_Zhen_%284x5_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Along with Bruce Lee films, Kung Fu helped popularize the martial arts and Eastern philosophy in the west."
+   },
+   {
+    "title": "James Garner",
+    "description": "American actor (1928–2014)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/James_Garner_Bret_Maverick.JPG/330px-James_Garner_Bret_Maverick.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In 1969, Lee made a brief appearance in the Silliphant-penned film Marlowe, where he played a hoodlum hired to intimidate private detective Philip Marlowe, played by James Garner, who uses his martial arts abilities to commit acts of vandalization to intimidate Marlowe."
+   },
+   {
+    "title": "Dean Martin",
+    "description": "American singer and actor (1917–1995)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Dean_Martin_1958.jpg/330px-Dean_Martin_1958.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "(The remake was recast and retitled when Dean Martin withdrew after the death of Marilyn Monroe.)"
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "Lundgren (as Sergeant Andrew Scott) and Jean-Claude Van Damme (as Luc Deveraux) play U.S. soldiers who died during the Vietnam War, only to be later reanimated in a secret Army project to be sent on missions as GR operatives."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "Around that time he developed a friendship with action martial art film star Chuck Norris."
+   },
+   {
+    "a": 1,
+    "b": 4,
+    "from": 1,
+    "via": "Among his acting heroes growing up were Charles Bronson, Bruce Lee, James Dean, Montgomery Clift, Steve McQueen, Jean-Paul Belmondo, and Sylvester Stallone."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "He plays a reckless but brave Texas Ranger who defeats an arms dealer played by David Carradine."
+   },
+   {
+    "a": 2,
+    "b": 4,
+    "from": 2,
+    "via": "While competing, Norris met Bruce Lee—then known for The Green Hornet—and the two developed a friendship as well as a training and working relationship."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "Along with Bruce Lee films, Kung Fu helped popularize the martial arts and Eastern philosophy in the west."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "In 1969, Lee made a brief appearance in the Silliphant-penned film Marlowe, where he played a hoodlum hired to intimidate private detective Philip Marlowe, played by James Garner, who uses his martial arts abilities to commit acts of vandalization to intimidate Marlowe."
+   },
+   {
+    "a": 4,
+    "b": 6,
+    "from": 4,
+    "via": "The same year, he was credited as the karate advisor in The Wrecking Crew, the fourth installment of the Matt Helm comedy spy-fi film starring Dean Martin."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "(The remake was recast and retitled when Dean Martin withdrew after the death of Marilyn Monroe.)"
+   }
+  ],
+  "solutions": 1
+ },
+ {
+  "steps": [
+   {
+    "title": "Bruce Willis",
+    "description": "American actor (born 1955)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Bruce_Willis_by_Gage_Skidmore_3.jpg/330px-Bruce_Willis_by_Gage_Skidmore_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   {
+    "title": "Quentin Tarantino",
+    "description": "American filmmaker (born 1963)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Quentin_Tarantino_by_Gage_Skidmore.jpg/330px-Quentin_Tarantino_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In 1994, Willis also had a leading role in one part of Quentin Tarantino's acclaimed Pulp Fiction; the film's success gave a boost to his career, and he starred alongside his Look Who's Talking co-star John Travolta."
+   },
+   {
+    "title": "Clive Owen",
+    "description": "British actor (born 1964)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Clive_Owen_%28Children_of_men%29_cropped.jpg/330px-Clive_Owen_%28Children_of_men%29_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Tarantino then contributed to Robert Rodriguez's 2005 neo-noir film Sin City, and was credited as \"Special Guest Director\" for his work directing the car sequence featuring Clive Owen and Benicio del Toro."
+   },
+   {
+    "title": "Gillian Anderson",
+    "description": "American actress and writer (born 1968)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Gillian_Anderson_at_Fan_Expo_Denver_2026_02.jpg/330px-Gillian_Anderson_at_Fan_Expo_Denver_2026_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "It co-starred Andrea Riseborough, Gillian Anderson, and Aidan Gillen, and was directed by James Marsh."
+   },
+   {
+    "title": "Stellan Skarsgård",
+    "description": "Swedish actor (born 1951)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Stellan_Skarsg%C3%A5rd-9707_%28cropped%29.jpg/330px-Stellan_Skarsg%C3%A5rd-9707_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In 2009, she starred in the British comedy film Boogie Woogie with Alan Cumming, Danny Huston and Stellan Skarsgård."
+   },
+   {
+    "title": "Denis Villeneuve",
+    "description": "Canadian filmmaker (born 1967)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/DVilleneuveRFH121024_%2812_of_23%29_%2854061976489%29_%28cropped%29.jpg/330px-DVilleneuveRFH121024_%2812_of_23%29_%2854061976489%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In 2021, he played Vladimir Harkonnen in Denis Villeneuve's Dune (2021), and reprised the role in Dune: Part Two (2024)."
+   },
+   {
+    "title": "Hans Zimmer",
+    "description": "German film composer (born 1957)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Hans-Zimmer-profile.jpg/330px-Hans-Zimmer-profile.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "These included: Best Cinematography, Best Film Editing, Best Original Score (Hans Zimmer), Best Production Design, Best Sound and Best Visual Effects."
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "In 1994, Willis also had a leading role in one part of Quentin Tarantino's acclaimed Pulp Fiction; the film's success gave a boost to his career, and he starred alongside his Look Who's Talking co-star John Travolta."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "Tarantino then contributed to Robert Rodriguez's 2005 neo-noir film Sin City, and was credited as \"Special Guest Director\" for his work directing the car sequence featuring Clive Owen and Benicio del Toro."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "It co-starred Andrea Riseborough, Gillian Anderson, and Aidan Gillen, and was directed by James Marsh."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "In 2009, she starred in the British comedy film Boogie Woogie with Alan Cumming, Danny Huston and Stellan Skarsgård."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "In 2021, he played Vladimir Harkonnen in Denis Villeneuve's Dune (2021), and reprised the role in Dune: Part Two (2024)."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "These included: Best Cinematography, Best Film Editing, Best Original Score (Hans Zimmer), Best Production Design, Best Sound and Best Visual Effects."
+   }
+  ],
+  "solutions": 1
+ },
+ {
+  "steps": [
+   {
+    "title": "Charlize Theron",
+    "description": "South African-American actress (born 1975)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/CharlizeTheron-byPhilipRomano2.jpg/330px-CharlizeTheron-byPhilipRomano2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   {
+    "title": "Seth MacFarlane",
+    "description": "American actor, animator, filmmaker, and singer (born 1973)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Seth_MacFarlane_-_NBTVF_2026-3_%28cropped%29.jpg/330px-Seth_MacFarlane_-_NBTVF_2026-3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In 2014, Theron took on the role of the wife of an infamous outlaw in the western comedy film A Million Ways to Die in the West, directed by Seth MacFarlane, which was met with mediocre reviews and moderate box office returns."
+   },
+   {
+    "title": "Dean Martin",
+    "description": "American singer and actor (1917–1995)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Dean_Martin_1958.jpg/330px-Dean_Martin_1958.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Guys like [Bing] Crosby, or [Frank] Sinatra, or Dean Martin, or Mel Tormé [...] these are guys who sounded like they were having a great time."
+   },
+   {
+    "title": "Marlon Brando",
+    "description": "American actor (1924–2004)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Marlon_Brando_publicity_for_One-Eyed_Jacks.png/330px-Marlon_Brando_publicity_for_One-Eyed_Jacks.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Though offered a fraction of his former salary to co-star in a war drama, The Young Lions (1958), Martin accepted the part, co-starring with Marlon Brando and Montgomery Clift."
+   },
+   {
+    "title": "Elvis Presley",
+    "description": "American singer and actor (1935–1977)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Elvis_Presley_promoting_Jailhouse_Rock.jpg/330px-Elvis_Presley_promoting_Jailhouse_Rock.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "To Brando's expressed puzzlement, the movie inspired teen rebellion and made him a role model to the nascent rock-and-roll generation and future stars such as James Dean and Elvis Presley."
+   },
+   {
+    "title": "Chuck Berry",
+    "description": "American musician (1926–2017)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Chuck_Berry_1957.jpg/330px-Chuck_Berry_1957.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "While Presley was not an innovative guitarist like Moore or contemporary African American rockers Bo Diddley and Chuck Berry, cultural historian Gilbert B. Rodman argued that the album's cover image, \"of Elvis having the time of his life on stage with a guitar in his hands played a crucial role in positioning the guitar ... as the instrument that best captured the style and spirit of this new music.\""
+   },
+   {
+    "title": "Tina Turner",
+    "description": "Singer-songwriter and actress (1939–2023)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Tina_Turner_Breaks_All_the_Rules.png/330px-Tina_Turner_Breaks_All_the_Rules.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In 1982, Berry performed a television special at The Roxy in West Hollywood with Tina Turner as his special guest."
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "In 2014, Theron took on the role of the wife of an infamous outlaw in the western comedy film A Million Ways to Die in the West, directed by Seth MacFarlane, which was met with mediocre reviews and moderate box office returns."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "Guys like [Bing] Crosby, or [Frank] Sinatra, or Dean Martin, or Mel Tormé [...] these are guys who sounded like they were having a great time."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "Though offered a fraction of his former salary to co-star in a war drama, The Young Lions (1958), Martin accepted the part, co-starring with Marlon Brando and Montgomery Clift."
+   },
+   {
+    "a": 2,
+    "b": 4,
+    "from": 2,
+    "via": "Elvis Presley was said to have been a fan of Martin, and patterned his performance of \"Love Me Tender\" after Martin's style."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "To Brando's expressed puzzlement, the movie inspired teen rebellion and made him a role model to the nascent rock-and-roll generation and future stars such as James Dean and Elvis Presley."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "While Presley was not an innovative guitarist like Moore or contemporary African American rockers Bo Diddley and Chuck Berry, cultural historian Gilbert B. Rodman argued that the album's cover image, \"of Elvis having the time of his life on stage with a guitar in his hands played a crucial role in positioning the guitar ... as the instrument that best captured the style and spirit of this new music.\""
+   },
+   {
+    "a": 4,
+    "b": 6,
+    "from": 6,
+    "via": "The success of the albums led to the revue headlining in Las Vegas, where their shows were attended by a variety of celebrities including Sly Stone, Janis Joplin, Cher, James Brown, Ray Charles, Elton John, and Elvis Presley."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "In 1982, Berry performed a television special at The Roxy in West Hollywood with Tina Turner as his special guest."
+   }
+  ],
+  "solutions": 1
+ },
+ {
+  "steps": [
+   {
+    "title": "Kelly Macdonald",
+    "description": "Scottish actress (born 1976)",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/41/Kelly_Macdonald_at_Brave_premiere_%287399126166%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+   },
+   {
+    "title": "Ewan McGregor",
+    "description": "Scottish actor (born 1971)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Ewan_McGregor_-_Los_Angeles_Comic_Con_2024.jpg/330px-Ewan_McGregor_-_Los_Angeles_Comic_Con_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "She saw a leaflet advertising an open casting session for Trainspotting and decided to audition, winning the part of Diane, the underage love interest to Ewan McGregor's Renton."
+   },
+   {
+    "title": "Ridley Scott",
+    "description": "English filmmaker (born 1937)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Ridley_Scott_At_BFI_-_BFI_Southbank_-_Saturday_4th_October_2025.jpg/330px-Ridley_Scott_At_BFI_-_BFI_Southbank_-_Saturday_4th_October_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "He also appeared in Ridley Scott's war film Black Hawk Down (2001) as John Grimes."
+   },
+   {
+    "title": "Sigourney Weaver",
+    "description": "American actress (born 1949)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Sigourney_Weaver_at_the_2025_Toronto_International_Film_Festival_%28cropped%29.jpg/330px-Sigourney_Weaver_at_the_2025_Toronto_International_Film_Festival_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Ripley (played by Sigourney Weaver), who appeared in the first four Alien films, would become a cinematic icon."
+   },
+   {
+    "title": "Mel Gibson",
+    "description": "American actor and filmmaker (born 1956)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Mel_Gibson_Cannes_2016_2.jpg/330px-Mel_Gibson_Cannes_2016_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "She next appeared opposite Mel Gibson as British Embassy officer Jill Bryant in the Peter Weir directed romantic drama The Year of Living Dangerously (1982) which was released to critical acclaim."
+   },
+   {
+    "title": "Diane Keaton",
+    "description": "American actress (1946–2025)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Diane_Keaton_2012-1_%28cropped%29_%28cropped%29.jpg/330px-Diane_Keaton_2012-1_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "He and Matthew Modine played condemned convict brothers opposite Diane Keaton as the warden's wife who visits them to read the Bible."
+   },
+   {
+    "title": "Warren Beatty",
+    "description": "American actor and filmmaker (born 1937)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Warren_Beatty.jpg/330px-Warren_Beatty.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Then, in 1978, she became romantically involved with Warren Beatty and he cast her opposite him in the epic historical drama Reds."
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "She saw a leaflet advertising an open casting session for Trainspotting and decided to audition, winning the part of Diane, the underage love interest to Ewan McGregor's Renton."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "He also appeared in Ridley Scott's war film Black Hawk Down (2001) as John Grimes."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "Ripley (played by Sigourney Weaver), who appeared in the first four Alien films, would become a cinematic icon."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "She next appeared opposite Mel Gibson as British Embassy officer Jill Bryant in the Peter Weir directed romantic drama The Year of Living Dangerously (1982) which was released to critical acclaim."
+   },
+   {
+    "a": 3,
+    "b": 5,
+    "from": 5,
+    "via": "She also received the 1997 Crystal Award at the Women in Film Crystal + Lucy Awards in 1997, and the Elle Women in Hollywood Awards the Icon Award in 1998 along with Sigourney Weaver, Lucy Fisher and Gillian Armstrong."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "He and Matthew Modine played condemned convict brothers opposite Diane Keaton as the warden's wife who visits them to read the Bible."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "Then, in 1978, she became romantically involved with Warren Beatty and he cast her opposite him in the epic historical drama Reds."
+   }
+  ],
+  "solutions": 1
+ }
+]

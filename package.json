@@ -1,0 +1,10 @@
+{
+  "name": "six-degrees",
+  "private": true,
+  "type": "module",
+  "description": "A daily chain of seven famous people. Plain HTML, CSS and ES modules; no dependencies.",
+  "scripts": {
+    "serve": "python3 serve.py",
+    "dig": "node tools/dig.mjs"
+  }
+}
