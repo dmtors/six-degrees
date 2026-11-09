@@ -1318,5 +1318,575 @@
    }
   ],
   "solutions": 1
+ },
+ {
+  "steps": [
+   {
+    "title": "Alan Alda",
+    "description": "American actor (born 1936)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Alan_Alda_%2822499650074%29_%28cropped%29.jpg/330px-Alan_Alda_%2822499650074%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   {
+    "title": "Ann-Margret",
+    "description": "American actress (born 1941)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/en/thumb/1/18/Ann_Margret_1968.jpg/330px-Ann_Margret_1968.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In 1988, Alda starred opposite Ann-Margret in the marital comedy A New Life."
+   },
+   {
+    "title": "Dean Martin",
+    "description": "American singer and actor (1917–1995)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Dean_Martin_1958.jpg/330px-Dean_Martin_1958.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Ann-Margret ended 1966 by featuring in the hit Dean Martin–starrer Murderers' Row, a spy spoof."
+   },
+   {
+    "title": "George Clooney",
+    "description": "American actor and filmmaker (born 1961)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/George_Clooney_Jay_Kelly-19_%28cropped%29.jpg/330px-George_Clooney_Jay_Kelly-19_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Posthumously, the Rat Pack has experienced a popular revival, inspiring the George Clooney/Brad Pitt Ocean's Trilogy."
+   },
+   {
+    "title": "Julia Roberts",
+    "description": "American actress (born 1967)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Julia_Roberts_2025.jpg/330px-Julia_Roberts_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "The film starred Clooney, Brad Pitt, Julia Roberts, Matt Damon and Andy Garcia."
+   },
+   {
+    "title": "Hugh Grant",
+    "description": "English actor (born 1960)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Hugh_Grant_in_2014.jpg/330px-Hugh_Grant_in_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Roberts paired with Hugh Grant for Notting Hill (1999), portraying a famous actress who falls in love with a struggling book store owner."
+   },
+   {
+    "title": "Elizabeth Hurley",
+    "description": "English actress and model (born 1965)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Elizabeth_Hurley_ESB.jpg/330px-Elizabeth_Hurley_ESB.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "He appointed his then-girlfriend, Elizabeth Hurley, as the head of development to look for prospective projects."
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "In 1988, Alda starred opposite Ann-Margret in the marital comedy A New Life."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "Ann-Margret ended 1966 by featuring in the hit Dean Martin–starrer Murderers' Row, a spy spoof."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "Posthumously, the Rat Pack has experienced a popular revival, inspiring the George Clooney/Brad Pitt Ocean's Trilogy."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "The film starred Clooney, Brad Pitt, Julia Roberts, Matt Damon and Andy Garcia."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "Roberts paired with Hugh Grant for Notting Hill (1999), portraying a famous actress who falls in love with a struggling book store owner."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "He appointed his then-girlfriend, Elizabeth Hurley, as the head of development to look for prospective projects."
+   }
+  ],
+  "solutions": 1
+ },
+ {
+  "steps": [
+   {
+    "title": "Audrey Hepburn",
+    "description": "British actress (1929–1993)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/AudreyKHepburn.jpg/330px-AudreyKHepburn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   {
+    "title": "Elizabeth Taylor",
+    "description": "British and American actress (1932–2011)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Taylor%2C_Elizabeth_posed.jpg/330px-Taylor%2C_Elizabeth_posed.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Wyler wrote a glowing note of thanks to Dickinson, saying that \"as a result of the test, a number of the producers at Paramount have expressed interest in casting her.\" The producers of the film had initially wanted Elizabeth Taylor for the role, but Wyler was so impressed by Hepburn's screen test that he cast her instead."
+   },
+   {
+    "title": "Ava Gardner",
+    "description": "American actress (1922–1990)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Ava-Gardner-in-Stockholm-1954-391767746470.jpg/330px-Ava-Gardner-in-Stockholm-1954-391767746470.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Film magazines and gossip columnists also began comparing her to older actresses such as Ava Gardner and Lana Turner."
+   },
+   {
+    "title": "Burt Lancaster",
+    "description": "American actor (1913–1994)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Burt_Lancaster_-_publicity_1947.JPG/330px-Burt_Lancaster_-_publicity_1947.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "She next appeared again with Burt Lancaster, her co-star from The Killers, this time with Kirk Douglas and Fredric March, in Seven Days in May (1964), a thriller about an attempted military takeover of the US government."
+   },
+   {
+    "title": "Rita Hayworth",
+    "description": "American actress and dancer (1918–1987)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Hayworth-Gilda-1946-Color.jpg/330px-Hayworth-Gilda-1946-Color.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Hill went on to produce a single additional film, The Happy Thieves, in a new production company, Hillworth Productions, co-owned with his wife Rita Hayworth."
+   },
+   {
+    "title": "Cary Grant",
+    "description": "British-American actor (1904–1986)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Cary-grant-lead.jpg/330px-Cary-grant-lead.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In 1939, Cohn pressured director Howard Hawks to use Hayworth for a small, but important, role as a man-trap in the aviation drama Only Angels Have Wings, in which she played opposite Cary Grant and Jean Arthur."
+   },
+   {
+    "title": "Katharine Hepburn",
+    "description": "American actress (1907–2003)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Katharine_Hepburn_publicity_photograph.jpg/330px-Katharine_Hepburn_publicity_photograph.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Producer Pandro Berman agreed to take him on in the face of failure because \"I'd seen him do things which were excellent, and [Katharine] Hepburn wanted him too.\" His first venture with RKO, playing a raffish Cockney swindler in George Cukor's Sylvia Scarlett (1935), was the first of four collaborations with Hepburn."
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "Wyler wrote a glowing note of thanks to Dickinson, saying that \"as a result of the test, a number of the producers at Paramount have expressed interest in casting her.\" The producers of the film had initially wanted Elizabeth Taylor for the role, but Wyler was so impressed by Hepburn's screen test that he cast her instead."
+   },
+   {
+    "a": 0,
+    "b": 3,
+    "from": 0,
+    "via": "Following The Nun's Story, Hepburn received a lukewarm reception for starring with Anthony Perkins in the romantic adventure Green Mansions (1959), in which she played Rima, a jungle girl who falls in love with a Venezuelan traveller, and The Unforgiven (1960), her only western film, in which she appeared opposite Burt Lancaster and Lillian Gish in a story of racism against a group of Native Americans."
+   },
+   {
+    "a": 0,
+    "b": 5,
+    "from": 0,
+    "via": "Hepburn next appeared opposite Cary Grant in the comic thriller Charade (1963), playing a young widow pursued by several men who chase after the fortune stolen by her murdered husband."
+   },
+   {
+    "a": 0,
+    "b": 6,
+    "from": 0,
+    "via": "Although initially disappointed that \"Miss Hepburn\" was not Katharine Hepburn as he had mistakenly thought, Givenchy and Hepburn formed a life-long friendship."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "Film magazines and gossip columnists also began comparing her to older actresses such as Ava Gardner and Lana Turner."
+   },
+   {
+    "a": 1,
+    "b": 6,
+    "from": 1,
+    "via": "Taylor's next film, Joseph L. Mankiewicz's Suddenly, Last Summer (1959), was another Tennessee Williams adaptation, with a screenplay by Gore Vidal and also starring Montgomery Clift and Katharine Hepburn."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "She next appeared again with Burt Lancaster, her co-star from The Killers, this time with Kirk Douglas and Fredric March, in Seven Days in May (1964), a thriller about an attempted military takeover of the US government."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "Hill went on to produce a single additional film, The Happy Thieves, in a new production company, Hillworth Productions, co-owned with his wife Rita Hayworth."
+   },
+   {
+    "a": 3,
+    "b": 6,
+    "from": 3,
+    "via": "Lancaster made two films for Wallis to complete his eight-film commitment for that contract: The Rainmaker (1956) with Katharine Hepburn, which earned Lancaster a Golden Globe nomination for Best Actor; and Gunfight at the O.K. Corral (1957) with Kirk Douglas, which was a huge commercial hit directed by John Sturges."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "In 1939, Cohn pressured director Howard Hawks to use Hayworth for a small, but important, role as a man-trap in the aviation drama Only Angels Have Wings, in which she played opposite Cary Grant and Jean Arthur."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "Producer Pandro Berman agreed to take him on in the face of failure because \"I'd seen him do things which were excellent, and [Katharine] Hepburn wanted him too.\" His first venture with RKO, playing a raffish Cockney swindler in George Cukor's Sylvia Scarlett (1935), was the first of four collaborations with Hepburn."
+   }
+  ],
+  "solutions": 2
+ },
+ {
+  "steps": [
+   {
+    "title": "Mike Nichols",
+    "description": "American film and theatre director (1931–2014)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Mike_Nichols.jpg/330px-Mike_Nichols.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   {
+    "title": "Dustin Hoffman",
+    "description": "American actor (born 1937)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Dustin_Hoffman_at_the_2025_Toronto_International_Film_Festival._02_%28cropped%29.jpg/330px-Dustin_Hoffman_at_the_2025_Toronto_International_Film_Festival._02_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Nichols also took a chance on using Dustin Hoffman, who had no film experience, for the lead, when others had suggested using known star Robert Redford."
+   },
+   {
+    "title": "Mia Farrow",
+    "description": "American actress and activist (born 1945)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Pulitzer2018-mia-farrow-20180530-wp.jpg/330px-Pulitzer2018-mia-farrow-20180530-wp.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Also in 1969, Hoffman co-starred with Mia Farrow in Peter Yates's romantic drama film John and Mary."
+   },
+   {
+    "title": "Diane Keaton",
+    "description": "American actress (1946–2025)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Diane_Keaton_2012-1_%28cropped%29_%28cropped%29.jpg/330px-Diane_Keaton_2012-1_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Her first film with Allen was the comedy A Midsummer Night's Sex Comedy (1982), in a role originally intended for Diane Keaton."
+   },
+   {
+    "title": "Woody Allen",
+    "description": "American filmmaker and actor (born 1935)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Woody_Allen_Cannes_2016.jpg/330px-Woody_Allen_Cannes_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "After acting in Hair for nine months, she auditioned for a part in Woody Allen's production of Play It Again, Sam."
+   },
+   {
+    "title": "Mayim Bialik",
+    "description": "American actress, television personality, and author (born 1975)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Father_Mother_Sister_Brother-69514_%28Mayim_Bialik%29.jpg/330px-Father_Mother_Sister_Brother-69514_%28Mayim_Bialik%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In 1994 Allen directed and starred in a second version for television, with Michael J. Fox and Mayim Bialik."
+   },
+   {
+    "title": "Miranda Hart",
+    "description": "English actress, comedian and writer (born 1972)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Miranda_Hart_in_2011.jpg/330px-Miranda_Hart_in_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Sad Clown Productions, in conjunction with Jim Parsons's That's Wonderful Productions, BBC Studios, and Miranda Hart, executive-produces a starring vehicle for Bialik, Call Me Kat, based on the British series Miranda."
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "Nichols also took a chance on using Dustin Hoffman, who had no film experience, for the lead, when others had suggested using known star Robert Redford."
+   },
+   {
+    "a": 0,
+    "b": 4,
+    "from": 0,
+    "via": "Jack Rollins, who later became Woody Allen's manager and producer, invited them to audition and was most impressed: \"Their work was so startling, so new, as fresh as could be."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "Also in 1969, Hoffman co-starred with Mia Farrow in Peter Yates's romantic drama film John and Mary."
+   },
+   {
+    "a": 1,
+    "b": 4,
+    "from": 1,
+    "via": "David Thomson of The Guardian described of Hoffman as a central figure of the late 60s, 70s and 80s\" adding, \"He is a part of what has turned out a very ambiguous vintage: it also includes Jack Nicholson, Robert Redford, Warren Beatty and Woody Allen, actors who cannot quite make up their minds whether they are adorable still or national treasures.\""
+   },
+   {
+    "a": 1,
+    "b": 5,
+    "from": 1,
+    "via": "Hoffman appeared alongside Candice Bergen, Dianna Agron, and Simon Helberg in As They Made Us directed by Mayim Bialik."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "Her first film with Allen was the comedy A Midsummer Night's Sex Comedy (1982), in a role originally intended for Diane Keaton."
+   },
+   {
+    "a": 2,
+    "b": 4,
+    "from": 2,
+    "via": "Beginning in the 1980s, Farrow had a decade-long relationship with director Woody Allen; they collaborated on many of his films."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "After acting in Hair for nine months, she auditioned for a part in Woody Allen's production of Play It Again, Sam."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "In 1994 Allen directed and starred in a second version for television, with Michael J. Fox and Mayim Bialik."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "Sad Clown Productions, in conjunction with Jim Parsons's That's Wonderful Productions, BBC Studios, and Miranda Hart, executive-produces a starring vehicle for Bialik, Call Me Kat, based on the British series Miranda."
+   }
+  ],
+  "solutions": 2
+ },
+ {
+  "steps": [
+   {
+    "title": "Jennifer Lopez",
+    "description": "American singer-songwriter and actress (born 1969)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Jennifer_Lopez_at_the_2025_Sundance_Film_Festival_%28cropped_3%29.jpg/330px-Jennifer_Lopez_at_the_2025_Sundance_Film_Festival_%28cropped_3%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   {
+    "title": "Jim Caviezel",
+    "description": "American actor (born 1968)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Jim_Caviezel_at_the_2013_SDCC.jpg/330px-Jim_Caviezel_at_the_2013_SDCC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Also in 2001, Lopez founded her production company, Nuyorican Productions, with manager Benny Medina, and starred in the romantic drama, Angel Eyes, opposite Jim Caviezel."
+   },
+   {
+    "title": "David Boreanaz",
+    "description": "American actor (born 1969)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/David_Boreanaz_at_Televerse_2025.jpg/330px-David_Boreanaz_at_Televerse_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "However, Caviezel left the project due to creative differences before production began and was replaced by David Boreanaz."
+   },
+   {
+    "title": "Denise Richards",
+    "description": "American actress and model (born 1971)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Denise_Richards_Dragon_Con_September_5_2026_0639.JPG/330px-Denise_Richards_Dragon_Con_September_5_2026_0639.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Boreanaz's only starring role in a major theatrical film was in 2001's slasher horror film Valentine, alongside Denise Richards and Katherine Heigl."
+   },
+   {
+    "title": "Charlie Sheen",
+    "description": "American film and television actor (born 1965)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Charlie_Sheen_March_2009.JPG/330px-Charlie_Sheen_March_2009.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Later that year, she appeared in four episodes of Spin City as Jennifer Duncan, a love interest of Charlie Sheen's character."
+   },
+   {
+    "title": "Robert Downey Jr.",
+    "description": "American actor (born 1965)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/RobertDowneyJr-byPhilipRomano7_%28cropped%29.jpg/330px-RobertDowneyJr-byPhilipRomano7_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Sheen attended Santa Monica High School in Santa Monica, California, along with Robert Downey Jr., where he was a star pitcher and shortstop for the baseball team."
+   },
+   {
+    "title": "Marisa Tomei",
+    "description": "American actress (born 1964)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Marisa_Tomei_Photo_Op_GalaxyCon_Raleigh_2024_%28cropped%29.jpg/330px-Marisa_Tomei_Photo_Op_GalaxyCon_Raleigh_2024_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In Only You (1994), co-starring Marisa Tomei and Billy Zane, Downey played Peter Wright, a professional dancer who poses as the soulmate for Tomei's character Faith."
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "Also in 2001, Lopez founded her production company, Nuyorican Productions, with manager Benny Medina, and starred in the romantic drama, Angel Eyes, opposite Jim Caviezel."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "However, Caviezel left the project due to creative differences before production began and was replaced by David Boreanaz."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "Boreanaz's only starring role in a major theatrical film was in 2001's slasher horror film Valentine, alongside Denise Richards and Katherine Heigl."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "Later that year, she appeared in four episodes of Spin City as Jennifer Duncan, a love interest of Charlie Sheen's character."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "Sheen attended Santa Monica High School in Santa Monica, California, along with Robert Downey Jr., where he was a star pitcher and shortstop for the baseball team."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "In Only You (1994), co-starring Marisa Tomei and Billy Zane, Downey played Peter Wright, a professional dancer who poses as the soulmate for Tomei's character Faith."
+   }
+  ],
+  "solutions": 1
+ },
+ {
+  "steps": [
+   {
+    "title": "Ian McKellen",
+    "description": "English actor (born 1939)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/SDCC13_-_Ian_McKellen.jpg/330px-SDCC13_-_Ian_McKellen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   {
+    "title": "Jane Seymour (actress)",
+    "description": "American-English actress (born 1951)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Jane_Seymour_2019_by_Glenn_Francis.jpg/330px-Jane_Seymour_2019_by_Glenn_Francis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "The transfer starred McKellen, Tim Curry as Wolfgang Amadeus Mozart, and Jane Seymour as Constanze Mozart."
+   },
+   {
+    "title": "Johnny Cash",
+    "description": "American country singer (1932–2003)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Johnny_Cash_1977.jpg/330px-Johnny_Cash_1977.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "The twins were named after family friends Johnny Cash and Christopher Reeve, and James's brother, actor Stacy Keach."
+   },
+   {
+    "title": "Elvis Presley",
+    "description": "American singer and actor (1935–1977)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Elvis_Presley_promoting_Jailhouse_Rock.jpg/330px-Elvis_Presley_promoting_Jailhouse_Rock.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "On December 4, 1956, Elvis Presley dropped in on Phillips while Carl Perkins was in the studio cutting new tracks, with Jerry Lee Lewis backing him on piano."
+   },
+   {
+    "title": "Chuck Berry",
+    "description": "American musician (1926–2017)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Chuck_Berry_1957.jpg/330px-Chuck_Berry_1957.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "While Presley was not an innovative guitarist like Moore or contemporary African American rockers Bo Diddley and Chuck Berry, cultural historian Gilbert B. Rodman argued that the album's cover image, \"of Elvis having the time of his life on stage with a guitar in his hands played a crucial role in positioning the guitar ... as the instrument that best captured the style and spirit of this new music.\""
+   },
+   {
+    "title": "Bruce Springsteen",
+    "description": "American musician and songwriter (born 1949)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Bruce_Springsteen_Springsteen-79_%28cropped%29.jpg/330px-Bruce_Springsteen_Springsteen-79_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Among the many bandleaders performing a backup role with Berry in the 1970s were Bruce Springsteen and Steve Miller when each was just starting his career."
+   },
+   {
+    "title": "Frank Sinatra",
+    "description": "American singer and actor (1915–1998)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Frank_Sinatra_%281957_studio_portrait_close-up%29.jpg/330px-Frank_Sinatra_%281957_studio_portrait_close-up%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Springsteen grew up hearing fellow New Jersey singer Frank Sinatra on the radio."
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "The transfer starred McKellen, Tim Curry as Wolfgang Amadeus Mozart, and Jane Seymour as Constanze Mozart."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "The twins were named after family friends Johnny Cash and Christopher Reeve, and James's brother, actor Stacy Keach."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "On December 4, 1956, Elvis Presley dropped in on Phillips while Carl Perkins was in the studio cutting new tracks, with Jerry Lee Lewis backing him on piano."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "While Presley was not an innovative guitarist like Moore or contemporary African American rockers Bo Diddley and Chuck Berry, cultural historian Gilbert B. Rodman argued that the album's cover image, \"of Elvis having the time of his life on stage with a guitar in his hands played a crucial role in positioning the guitar ... as the instrument that best captured the style and spirit of this new music.\""
+   },
+   {
+    "a": 3,
+    "b": 5,
+    "from": 5,
+    "via": "By the age of seven, he became interested in being a musician after seeing Elvis Presley's performances on The Ed Sullivan Show in 1956 and 1957."
+   },
+   {
+    "a": 3,
+    "b": 6,
+    "from": 3,
+    "via": "The historian Marty Jezer wrote that Presley began the \"biggest pop craze\" since Glenn Miller and Frank Sinatra and brought rock and roll to mainstream culture:"
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "Among the many bandleaders performing a backup role with Berry in the 1970s were Bruce Springsteen and Steve Miller when each was just starting his career."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "Springsteen grew up hearing fellow New Jersey singer Frank Sinatra on the radio."
+   }
+  ],
+  "solutions": 1
+ },
+ {
+  "steps": [
+   {
+    "title": "Paul Bettany",
+    "description": "English actor (born 1971)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/PaulBettany-byPhilipRomano.jpg/330px-PaulBettany-byPhilipRomano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   {
+    "title": "Gwyneth Paltrow",
+    "description": "American actress and businesswoman (born 1972)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Gwyneth_Paltrow_-_Marty_Supreme.jpg/330px-Gwyneth_Paltrow_-_Marty_Supreme.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "He was once again paired with Depp in Mortdecai, a 2015 motion picture also starring Gwyneth Paltrow and Ewan McGregor."
+   },
+   {
+    "title": "Jack Black",
+    "description": "American actor, comedian, and musician (born 1969)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/TenaciousDO2160623_%2838_of_62%29_Jack_Black.jpg/330px-TenaciousDO2160623_%2838_of_62%29_Jack_Black.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "She starred with Jack Black in the comedy Shallow Hal (2001), about a shallow man falling in love with an overweight woman."
+   },
+   {
+    "title": "Shirley MacLaine",
+    "description": "American actress and author (born 1934)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Shirley_MacLaine_-_1960.jpg/330px-Shirley_MacLaine_-_1960.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "He played as real-life murderer Bernie Tiede, a funeral director in a small East Texas town, who befriends and eventually murders a rich widow, played by Shirley MacLaine."
+   },
+   {
+    "title": "Warren Beatty",
+    "description": "American actor and filmmaker (born 1937)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Warren_Beatty.jpg/330px-Warren_Beatty.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "MacLaine's younger brother is filmmaker Warren Beatty, who changed the spelling of his surname for his career."
+   },
+   {
+    "title": "Quincy Jones",
+    "description": "American record producer and musician (1933–2024)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Quincy_jones_1980_%28cropped%29.jpg/330px-Quincy_jones_1980_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Streisand brought Quincy Jones and his Orchestra, and recorded the album Live Concert at the Forum."
+   },
+   {
+    "title": "Whoopi Goldberg",
+    "description": "American actor and comedian (born 1955)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/WhoopiGoldberg-byPhilipRomano2.jpg/330px-WhoopiGoldberg-byPhilipRomano2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Additionally, through this picture, Jones is credited with introducing Whoopi Goldberg and Oprah Winfrey to film audiences around the world."
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "He was once again paired with Depp in Mortdecai, a 2015 motion picture also starring Gwyneth Paltrow and Ewan McGregor."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "She starred with Jack Black in the comedy Shallow Hal (2001), about a shallow man falling in love with an overweight woman."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "He played as real-life murderer Bernie Tiede, a funeral director in a small East Texas town, who befriends and eventually murders a rich widow, played by Shirley MacLaine."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "MacLaine's younger brother is filmmaker Warren Beatty, who changed the spelling of his surname for his career."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "Streisand brought Quincy Jones and his Orchestra, and recorded the album Live Concert at the Forum."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "Additionally, through this picture, Jones is credited with introducing Whoopi Goldberg and Oprah Winfrey to film audiences around the world."
+   }
+  ],
+  "solutions": 1
  }
 ]
