@@ -770,96 +770,6 @@
  {
   "steps": [
    {
-    "title": "Eva Green",
-    "description": "French actress (born 1980)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/EVA_GREEN_CESAR_2020.jpg/330px-EVA_GREEN_CESAR_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-   },
-   {
-    "title": "Rachel Weisz",
-    "description": "British actress (born 1970)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Rachel_Weisz-62940_%28cropped%29.jpg/330px-Rachel_Weisz-62940_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "Green was considered for roles in The Constant Gardener (a role that went to Rachel Weisz) and The Black Dahlia."
-   },
-   {
-    "title": "Richard Gere",
-    "description": "American actor (born 1949)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Richard_Gere-69101.jpg/330px-Richard_Gere-69101.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "In 1984, she gained public attention when she turned down an offer to star in King David with Richard Gere."
-   },
-   {
-    "title": "Diane Lane",
-    "description": "American actress (born 1965)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Diane_Lane_%28Berlin_Film_Festival_2011%29_2.jpg/330px-Diane_Lane_%28Berlin_Film_Festival_2011%29_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "He co-starred with Diane Lane in the romantic drama Nights in Rodanthe (2008)."
-   },
-   {
-    "title": "Liev Schreiber",
-    "description": "American actor (born 1967)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Liev_Schreiber_2022.jpg/330px-Liev_Schreiber_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "Lane earned further recognition for her role in the film A Walk on the Moon (1999), which also starred Liev Schreiber, Viggo Mortensen, and Anna Paquin."
-   },
-   {
-    "title": "Naomi Watts",
-    "description": "British actress (born 1968)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Naomi_Watts_at_the_2024_New_York_Film_Festival_2_%28cropped%29.jpg/330px-Naomi_Watts_at_the_2024_New_York_Film_Festival_2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "In the fall of that year, he directed and starred in the \"2006 Join the Fight\" AIDS campaign for Cable Positive and Kismet Films (others involved with the campaign included actress Naomi Watts, fashion designer Calvin Klein, and playwright Tony Kushner)."
-   },
-   {
-    "title": "Jude Law",
-    "description": "English actor (born 1972)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Jude_Law-7806_%28cropped%29.jpg/330px-Jude_Law-7806_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "She teamed up with Jude Law and Dustin Hoffman in David O. Russell's ensemble comedy I Heart Huckabees."
-   }
-  ],
-  "links": [
-   {
-    "a": 0,
-    "b": 1,
-    "from": 0,
-    "via": "Green was considered for roles in The Constant Gardener (a role that went to Rachel Weisz) and The Black Dahlia."
-   },
-   {
-    "a": 1,
-    "b": 2,
-    "from": 1,
-    "via": "In 1984, she gained public attention when she turned down an offer to star in King David with Richard Gere."
-   },
-   {
-    "a": 1,
-    "b": 5,
-    "from": 5,
-    "via": "In 2011, she appeared with Daniel Craig and Rachel Weisz in Jim Sheridan's psychological horror film Dream House, as the neighbour of a murdered family, and with Leonardo DiCaprio in Clint Eastwood's biographical drama J. Edgar, playing secretary Helen Gandy."
-   },
-   {
-    "a": 2,
-    "b": 3,
-    "from": 2,
-    "via": "He co-starred with Diane Lane in the romantic drama Nights in Rodanthe (2008)."
-   },
-   {
-    "a": 3,
-    "b": 4,
-    "from": 3,
-    "via": "Lane earned further recognition for her role in the film A Walk on the Moon (1999), which also starred Liev Schreiber, Viggo Mortensen, and Anna Paquin."
-   },
-   {
-    "a": 4,
-    "b": 5,
-    "from": 4,
-    "via": "In the fall of that year, he directed and starred in the \"2006 Join the Fight\" AIDS campaign for Cable Positive and Kismet Films (others involved with the campaign included actress Naomi Watts, fashion designer Calvin Klein, and playwright Tony Kushner)."
-   },
-   {
-    "a": 5,
-    "b": 6,
-    "from": 5,
-    "via": "She teamed up with Jude Law and Dustin Hoffman in David O. Russell's ensemble comedy I Heart Huckabees."
-   }
-  ],
-  "solutions": 1
- },
- {
-  "steps": [
-   {
     "title": "Halle Berry",
     "description": "American actress (born 1966)",
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Halle_Berry-1910.jpg/330px-Halle_Berry-1910.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
@@ -1885,6 +1795,90 @@
     "b": 6,
     "from": 5,
     "via": "Additionally, through this picture, Jones is credited with introducing Whoopi Goldberg and Oprah Winfrey to film audiences around the world."
+   }
+  ],
+  "solutions": 1
+ },
+ {
+  "steps": [
+   {
+    "title": "Meg Ryan",
+    "description": "American actress (born 1961)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Meg_Ryan_2_Met_Opera_2010_Shankbone.jpg/330px-Meg_Ryan_2_Met_Opera_2010_Shankbone.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   {
+    "title": "Adam Brody",
+    "description": "American actor (born 1979)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Adam_Brody_-_Everyone_Is_Lying_to_You_for_Money.jpg/330px-Adam_Brody_-_Everyone_Is_Lying_to_You_for_Money.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Starring alongside Kristen Stewart and Olympia Dukakis, she played Sarah Hardwicke, a mother and wife facing breast cancer, who connects with her neighbor's much younger grandson, played by Adam Brody."
+   },
+   {
+    "title": "Leighton Meester",
+    "description": "American actress (born 1986)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Leighton_Meester_2_by_David_Shankbone.jpg/330px-Leighton_Meester_2_by_David_Shankbone.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In March 2010, Brody met actress Leighton Meester while filming The Oranges in Westchester, New York."
+   },
+   {
+    "title": "Andy Samberg",
+    "description": "American actor, comedian, and musician (born 1978)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Andy_Samberg_by_Gage_Skidmore.jpg/330px-Andy_Samberg_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "She then starred in the comedy film That's My Boy, alongside Adam Sandler, Andy Samberg, and Milo Ventimiglia, which released in June 2012."
+   },
+   {
+    "title": "Fred Armisen",
+    "description": "American comedian and actor (born 1966)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Fred_Armisen_at_Rock_Center.jpg/330px-Fred_Armisen_at_Rock_Center.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Samberg starred in Sleater-Kinney's \"No Cities to Love\" video along with other actors such as Fred Armisen, Elliot Page, and Norman Reedus."
+   },
+   {
+    "title": "George Harrison",
+    "description": "English musician (1943–2001)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/George-wa-portrait.jpg/330px-George-wa-portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In 2021, he appeared as the protagonist in the official music video for the 2020 mix of George Harrison's song \"My Sweet Lord\"."
+   },
+   {
+    "title": "Ringo Starr",
+    "description": "English musician and actor (born 1940)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/ARTIST_INTERVIEW_-_Ringo_Starr_%28Former_the_Beatles%29_exclusive_interview_0-14_screenshot_%28portrait_crop%29.jpg/330px-ARTIST_INTERVIEW_-_Ringo_Starr_%28Former_the_Beatles%29_exclusive_interview_0-14_screenshot_%28portrait_crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "During the recording of The Beatles (1968), tensions within the group ran high, and drummer Ringo Starr quit briefly."
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "Starring alongside Kristen Stewart and Olympia Dukakis, she played Sarah Hardwicke, a mother and wife facing breast cancer, who connects with her neighbor's much younger grandson, played by Adam Brody."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "In March 2010, Brody met actress Leighton Meester while filming The Oranges in Westchester, New York."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "She then starred in the comedy film That's My Boy, alongside Adam Sandler, Andy Samberg, and Milo Ventimiglia, which released in June 2012."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "Samberg starred in Sleater-Kinney's \"No Cities to Love\" video along with other actors such as Fred Armisen, Elliot Page, and Norman Reedus."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "In 2021, he appeared as the protagonist in the official music video for the 2020 mix of George Harrison's song \"My Sweet Lord\"."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "During the recording of The Beatles (1968), tensions within the group ran high, and drummer Ringo Starr quit briefly."
    }
   ],
   "solutions": 1
