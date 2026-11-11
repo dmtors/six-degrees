@@ -3012,5 +3012,108 @@
    }
   ],
   "solutions": 1
+ },
+ {
+  "date": "2026-12-11",
+  "steps": [
+   {
+    "title": "Dolph Lundgren",
+    "description": "Swedish and American actor and martial artist (born 1957)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Dolph_Lundgren_Photo_Op_GalaxyCon_Richmond_2024.jpg/330px-Dolph_Lundgren_Photo_Op_GalaxyCon_Richmond_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   {
+    "title": "Jean-Claude Van Damme",
+    "description": "Belgian actor and martial artist (born 1960)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Jean-Claude_Van_Damme_at_Brussels_Comic_Con_2023_DSC19480_Kiri_DxO.jpg/330px-Jean-Claude_Van_Damme_at_Brussels_Comic_Con_2023_DSC19480_Kiri_DxO.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Lundgren (as Sergeant Andrew Scott) and Jean-Claude Van Damme (as Luc Deveraux) play U.S. soldiers who died during the Vietnam War, only to be later reanimated in a secret Army project to be sent on missions as GR operatives."
+   },
+   {
+    "title": "Chuck Norris",
+    "description": "American martial artist and actor (1940–2026)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Chuck_Norris%2C_The_Delta_Force_1986_%28slight_cropped%29.jpg/330px-Chuck_Norris%2C_The_Delta_Force_1986_%28slight_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Around that time he developed a friendship with action martial art film star Chuck Norris."
+   },
+   {
+    "title": "David Carradine",
+    "description": "American actor (1936–2009)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/David_Carradine_1987_%28cropped%29.jpg/330px-David_Carradine_1987_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "He plays a reckless but brave Texas Ranger who defeats an arms dealer played by David Carradine."
+   },
+   {
+    "title": "Bruce Lee",
+    "description": "Martial artist and actor (1940–1973)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Bruce_Lee_as_Chen_Zhen_%284x5_cropped%29.jpg/330px-Bruce_Lee_as_Chen_Zhen_%284x5_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Along with Bruce Lee films, Kung Fu helped popularize the martial arts and Eastern philosophy in the west."
+   },
+   {
+    "title": "James Garner",
+    "description": "American actor (1928–2014)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/James_Garner_Bret_Maverick.JPG/330px-James_Garner_Bret_Maverick.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In 1969, Lee made a brief appearance in the Silliphant-penned film Marlowe, where he played a hoodlum hired to intimidate private detective Philip Marlowe, played by James Garner, who uses his martial arts abilities to commit acts of vandalization to intimidate Marlowe."
+   },
+   {
+    "title": "Dean Martin",
+    "description": "American singer and actor (1917–1995)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Dean_Martin_1958.jpg/330px-Dean_Martin_1958.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "(The remake was recast and retitled when Dean Martin withdrew after the death of Marilyn Monroe.)"
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "Lundgren (as Sergeant Andrew Scott) and Jean-Claude Van Damme (as Luc Deveraux) play U.S. soldiers who died during the Vietnam War, only to be later reanimated in a secret Army project to be sent on missions as GR operatives."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "Around that time he developed a friendship with action martial art film star Chuck Norris."
+   },
+   {
+    "a": 1,
+    "b": 4,
+    "from": 1,
+    "via": "Among his acting heroes growing up were Charles Bronson, Bruce Lee, James Dean, Montgomery Clift, Steve McQueen, Jean-Paul Belmondo, and Sylvester Stallone."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "He plays a reckless but brave Texas Ranger who defeats an arms dealer played by David Carradine."
+   },
+   {
+    "a": 2,
+    "b": 4,
+    "from": 2,
+    "via": "While competing, Norris met Bruce Lee—then known for The Green Hornet—and the two developed a friendship as well as a training and working relationship."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "Along with Bruce Lee films, Kung Fu helped popularize the martial arts and Eastern philosophy in the west."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "In 1969, Lee made a brief appearance in the Silliphant-penned film Marlowe, where he played a hoodlum hired to intimidate private detective Philip Marlowe, played by James Garner, who uses his martial arts abilities to commit acts of vandalization to intimidate Marlowe."
+   },
+   {
+    "a": 4,
+    "b": 6,
+    "from": 4,
+    "via": "The same year, he was credited as the karate advisor in The Wrecking Crew, the fourth installment of the Matt Helm comedy spy-fi film starring Dean Martin."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "(The remake was recast and retitled when Dean Martin withdrew after the death of Marilyn Monroe.)"
+   }
+  ],
+  "solutions": 1
  }
 ]
