@@ -3115,5 +3115,96 @@
    }
   ],
   "solutions": 1
+ },
+ {
+  "date": "2026-12-12",
+  "steps": [
+   {
+    "title": "James Franco",
+    "description": "American actor and filmmaker (born 1978)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/James_Franco_4%2C_2013.jpg/330px-James_Franco_4%2C_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   {
+    "title": "Heather Graham",
+    "description": "American actress (born 1970)",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/b3/HeatherGrahamByDimitriSarantis2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "via": "He was cast as a drug-addicted lawyer in About Cherry, also starring Heather Graham, which started shooting the following month in California."
+   },
+   {
+    "title": "Steve Martin",
+    "description": "American comedian, actor, musician and writer (born 1945)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Steve_Martin%2C_2017-08-11_%28cropped%29.jpg/330px-Steve_Martin%2C_2017-08-11_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Also in 1999, Graham co-starred as Daisy in the movie Bowfinger, opposite Steve Martin and Eddie Murphy."
+   },
+   {
+    "title": "Rick Moranis",
+    "description": "Canadian comedian and actor (born 1953)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Rick_Moranis_at_San_Diego_Comic_Con_2026-2.jpg/330px-Rick_Moranis_at_San_Diego_Comic_Con_2026-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "The film was the first of three films teaming Martin with Rick Moranis."
+   },
+   {
+    "title": "Martin Scorsese",
+    "description": "American filmmaker (born 1942)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Martin_Scorsese-68749.jpg/330px-Martin_Scorsese-68749.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Moranis appears in the Martin Scorsese–directed Second City TV reunion documentary, titled An Afternoon with SCTV, set to premiere on Netflix."
+   },
+   {
+    "title": "Liza Minnelli",
+    "description": "American actress, singer, and dancer (born 1946)",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/27/Liza_Minnelli.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "via": "The film was the director's third collaboration with De Niro, co-starring with Liza Minnelli."
+   },
+   {
+    "title": "Frank Sinatra",
+    "description": "American singer and actor (1915–1998)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Frank_Sinatra_%281957_studio_portrait_close-up%29.jpg/330px-Frank_Sinatra_%281957_studio_portrait_close-up%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "She sometimes performed duets on stage with Frank Sinatra, who recorded a cover version (for his Trilogy: Past Present Future album)."
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "He was cast as a drug-addicted lawyer in About Cherry, also starring Heather Graham, which started shooting the following month in California."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "Also in 1999, Graham co-starred as Daisy in the movie Bowfinger, opposite Steve Martin and Eddie Murphy."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "The film was the first of three films teaming Martin with Rick Moranis."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "Moranis appears in the Martin Scorsese–directed Second City TV reunion documentary, titled An Afternoon with SCTV, set to premiere on Netflix."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "The film was the director's third collaboration with De Niro, co-starring with Liza Minnelli."
+   },
+   {
+    "a": 4,
+    "b": 6,
+    "from": 4,
+    "via": "The film is best remembered today for the title theme song, which was popularized by Frank Sinatra."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "She sometimes performed duets on stage with Frank Sinatra, who recorded a cover version (for his Trilogy: Past Present Future album)."
+   }
+  ],
+  "solutions": 1
  }
 ]
