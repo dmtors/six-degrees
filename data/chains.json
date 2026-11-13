@@ -3206,5 +3206,90 @@
    }
   ],
   "solutions": 1
+ },
+ {
+  "date": "2026-12-13",
+  "steps": [
+   {
+    "title": "Bruce Willis",
+    "description": "American actor (born 1955)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Bruce_Willis_by_Gage_Skidmore_3.jpg/330px-Bruce_Willis_by_Gage_Skidmore_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   {
+    "title": "Quentin Tarantino",
+    "description": "American filmmaker (born 1963)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Quentin_Tarantino_by_Gage_Skidmore.jpg/330px-Quentin_Tarantino_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In 1994, Willis also had a leading role in one part of Quentin Tarantino's acclaimed Pulp Fiction; the film's success gave a boost to his career, and he starred alongside his Look Who's Talking co-star John Travolta."
+   },
+   {
+    "title": "Clive Owen",
+    "description": "British actor (born 1964)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Clive_Owen_%28Children_of_men%29_cropped.jpg/330px-Clive_Owen_%28Children_of_men%29_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Tarantino then contributed to Robert Rodriguez's 2005 neo-noir film Sin City, and was credited as \"Special Guest Director\" for his work directing the car sequence featuring Clive Owen and Benicio del Toro."
+   },
+   {
+    "title": "Gillian Anderson",
+    "description": "American actress and writer (born 1968)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Gillian_Anderson_at_Fan_Expo_Denver_2026_02.jpg/330px-Gillian_Anderson_at_Fan_Expo_Denver_2026_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "It co-starred Andrea Riseborough, Gillian Anderson, and Aidan Gillen, and was directed by James Marsh."
+   },
+   {
+    "title": "Stellan Skarsgård",
+    "description": "Swedish actor (born 1951)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Stellan_Skarsg%C3%A5rd-9707_%28cropped%29.jpg/330px-Stellan_Skarsg%C3%A5rd-9707_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In 2009, she starred in the British comedy film Boogie Woogie with Alan Cumming, Danny Huston and Stellan Skarsgård."
+   },
+   {
+    "title": "Denis Villeneuve",
+    "description": "Canadian filmmaker (born 1967)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/DVilleneuveRFH121024_%2812_of_23%29_%2854061976489%29_%28cropped%29.jpg/330px-DVilleneuveRFH121024_%2812_of_23%29_%2854061976489%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In 2021, he played Vladimir Harkonnen in Denis Villeneuve's Dune (2021), and reprised the role in Dune: Part Two (2024)."
+   },
+   {
+    "title": "Hans Zimmer",
+    "description": "German film composer (born 1957)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Hans-Zimmer-profile.jpg/330px-Hans-Zimmer-profile.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "These included: Best Cinematography, Best Film Editing, Best Original Score (Hans Zimmer), Best Production Design, Best Sound and Best Visual Effects."
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "In 1994, Willis also had a leading role in one part of Quentin Tarantino's acclaimed Pulp Fiction; the film's success gave a boost to his career, and he starred alongside his Look Who's Talking co-star John Travolta."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "Tarantino then contributed to Robert Rodriguez's 2005 neo-noir film Sin City, and was credited as \"Special Guest Director\" for his work directing the car sequence featuring Clive Owen and Benicio del Toro."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "It co-starred Andrea Riseborough, Gillian Anderson, and Aidan Gillen, and was directed by James Marsh."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "In 2009, she starred in the British comedy film Boogie Woogie with Alan Cumming, Danny Huston and Stellan Skarsgård."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "In 2021, he played Vladimir Harkonnen in Denis Villeneuve's Dune (2021), and reprised the role in Dune: Part Two (2024)."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "These included: Best Cinematography, Best Film Editing, Best Original Score (Hans Zimmer), Best Production Design, Best Sound and Best Visual Effects."
+   }
+  ],
+  "solutions": 1
  }
 ]

@@ -770,90 +770,6 @@
  {
   "steps": [
    {
-    "title": "Bruce Willis",
-    "description": "American actor (born 1955)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Bruce_Willis_by_Gage_Skidmore_3.jpg/330px-Bruce_Willis_by_Gage_Skidmore_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-   },
-   {
-    "title": "Quentin Tarantino",
-    "description": "American filmmaker (born 1963)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Quentin_Tarantino_by_Gage_Skidmore.jpg/330px-Quentin_Tarantino_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "In 1994, Willis also had a leading role in one part of Quentin Tarantino's acclaimed Pulp Fiction; the film's success gave a boost to his career, and he starred alongside his Look Who's Talking co-star John Travolta."
-   },
-   {
-    "title": "Clive Owen",
-    "description": "British actor (born 1964)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Clive_Owen_%28Children_of_men%29_cropped.jpg/330px-Clive_Owen_%28Children_of_men%29_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "Tarantino then contributed to Robert Rodriguez's 2005 neo-noir film Sin City, and was credited as \"Special Guest Director\" for his work directing the car sequence featuring Clive Owen and Benicio del Toro."
-   },
-   {
-    "title": "Gillian Anderson",
-    "description": "American actress and writer (born 1968)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Gillian_Anderson_at_Fan_Expo_Denver_2026_02.jpg/330px-Gillian_Anderson_at_Fan_Expo_Denver_2026_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "It co-starred Andrea Riseborough, Gillian Anderson, and Aidan Gillen, and was directed by James Marsh."
-   },
-   {
-    "title": "Stellan Skarsgård",
-    "description": "Swedish actor (born 1951)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Stellan_Skarsg%C3%A5rd-9707_%28cropped%29.jpg/330px-Stellan_Skarsg%C3%A5rd-9707_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "In 2009, she starred in the British comedy film Boogie Woogie with Alan Cumming, Danny Huston and Stellan Skarsgård."
-   },
-   {
-    "title": "Denis Villeneuve",
-    "description": "Canadian filmmaker (born 1967)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/DVilleneuveRFH121024_%2812_of_23%29_%2854061976489%29_%28cropped%29.jpg/330px-DVilleneuveRFH121024_%2812_of_23%29_%2854061976489%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "In 2021, he played Vladimir Harkonnen in Denis Villeneuve's Dune (2021), and reprised the role in Dune: Part Two (2024)."
-   },
-   {
-    "title": "Hans Zimmer",
-    "description": "German film composer (born 1957)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Hans-Zimmer-profile.jpg/330px-Hans-Zimmer-profile.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "These included: Best Cinematography, Best Film Editing, Best Original Score (Hans Zimmer), Best Production Design, Best Sound and Best Visual Effects."
-   }
-  ],
-  "links": [
-   {
-    "a": 0,
-    "b": 1,
-    "from": 0,
-    "via": "In 1994, Willis also had a leading role in one part of Quentin Tarantino's acclaimed Pulp Fiction; the film's success gave a boost to his career, and he starred alongside his Look Who's Talking co-star John Travolta."
-   },
-   {
-    "a": 1,
-    "b": 2,
-    "from": 1,
-    "via": "Tarantino then contributed to Robert Rodriguez's 2005 neo-noir film Sin City, and was credited as \"Special Guest Director\" for his work directing the car sequence featuring Clive Owen and Benicio del Toro."
-   },
-   {
-    "a": 2,
-    "b": 3,
-    "from": 2,
-    "via": "It co-starred Andrea Riseborough, Gillian Anderson, and Aidan Gillen, and was directed by James Marsh."
-   },
-   {
-    "a": 3,
-    "b": 4,
-    "from": 3,
-    "via": "In 2009, she starred in the British comedy film Boogie Woogie with Alan Cumming, Danny Huston and Stellan Skarsgård."
-   },
-   {
-    "a": 4,
-    "b": 5,
-    "from": 4,
-    "via": "In 2021, he played Vladimir Harkonnen in Denis Villeneuve's Dune (2021), and reprised the role in Dune: Part Two (2024)."
-   },
-   {
-    "a": 5,
-    "b": 6,
-    "from": 5,
-    "via": "These included: Best Cinematography, Best Film Editing, Best Original Score (Hans Zimmer), Best Production Design, Best Sound and Best Visual Effects."
-   }
-  ],
-  "solutions": 1
- },
- {
-  "steps": [
-   {
     "title": "Charlize Theron",
     "description": "South African-American actress (born 1975)",
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/CharlizeTheron-byPhilipRomano2.jpg/330px-CharlizeTheron-byPhilipRomano2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
@@ -1879,6 +1795,96 @@
     "b": 6,
     "from": 5,
     "via": "Clapton's voice can be heard on Frank Zappa's album We're Only in It for the Money, on the tracks \"Are You Hung Up?\" and \"Nasal Retentive Calliope Music\"."
+   }
+  ],
+  "solutions": 1
+ },
+ {
+  "steps": [
+   {
+    "title": "Will Smith",
+    "description": "American actor and rapper (born 1968)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/TechCrunch_Disrupt_San_Francisco_2019_-_Day_1_%2848834070763%29_%28cropped%29.jpg/330px-TechCrunch_Disrupt_San_Francisco_2019_-_Day_1_%2848834070763%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   {
+    "title": "David Ayer",
+    "description": "American filmmaker (born 1968)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/David_Ayer_by_Gage_Skidmore_2.jpg/330px-David_Ayer_by_Gage_Skidmore_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Smith collaborated with his director from Suicide Squad, David Ayer."
+   },
+   {
+    "title": "Jake Gyllenhaal",
+    "description": "American actor (born 1980)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Jake_Gyllenhaal_2019_by_Glenn_Francis.jpg/330px-Jake_Gyllenhaal_2019_by_Glenn_Francis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Ayer later wrote and directed End of Watch, an action thriller about the daily lives of two South Central Los Angeles policemen, played by Jake Gyllenhaal and Michael Peña."
+   },
+   {
+    "title": "Christian Bale",
+    "description": "English actor (born 1974)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Christian_Bale-7837.jpg/330px-Christian_Bale-7837.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In 2003, Gyllenhaal auditioned for the role of Batman in the superhero film Batman Begins, and was almost offered the part, but it went to Christian Bale."
+   },
+   {
+    "title": "Bryce Dallas Howard",
+    "description": "American actress and director (born 1981)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Bryce_Dallas_Howard_-_Los_Angeles_Comic_Con_2025.jpg/330px-Bryce_Dallas_Howard_-_Los_Angeles_Comic_Con_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "It captured him directing profanities towards and threatening to attack the film's cinematographer Shane Hurlbut, who walked onto the set during the filming of a scene acted by Bale and Bryce Dallas Howard, and culminated in Bale threatening to quit the film if Hurlbut was not fired."
+   },
+   {
+    "title": "Elton John",
+    "description": "British musician and songwriter (born 1947)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/EltonDocBFILFF101024_%284_of_17%29_%28cropped%29.jpg/330px-EltonDocBFILFF101024_%284_of_17%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Howard appeared as Elton John's mother Sheila Dwight in the musical biopic Rocketman (2019), which was directed by Dexter Fletcher."
+   },
+   {
+    "title": "John Lennon",
+    "description": "English musician and activist (1940–1980)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_%28color%29_%28cropped%29.jpg/330px-John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_%28color%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In 1974 John collaborated with John Lennon on his cover of the Beatles' \"Lucy in the Sky with Diamonds\", the B-side of which was Lennon's \"One Day at a Time\"."
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "Smith collaborated with his director from Suicide Squad, David Ayer."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "Ayer later wrote and directed End of Watch, an action thriller about the daily lives of two South Central Los Angeles policemen, played by Jake Gyllenhaal and Michael Peña."
+   },
+   {
+    "a": 1,
+    "b": 3,
+    "from": 3,
+    "via": "Later that year, he starred as a US war veteran who deals with post-traumatic stress disorder in the David Ayer-helmed crime drama Harsh Times, which premiered at the Toronto International Film Festival."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "In 2003, Gyllenhaal auditioned for the role of Batman in the superhero film Batman Begins, and was almost offered the part, but it went to Christian Bale."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "It captured him directing profanities towards and threatening to attack the film's cinematographer Shane Hurlbut, who walked onto the set during the filming of a scene acted by Bale and Bryce Dallas Howard, and culminated in Bale threatening to quit the film if Hurlbut was not fired."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "Howard appeared as Elton John's mother Sheila Dwight in the musical biopic Rocketman (2019), which was directed by Dexter Fletcher."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "In 1974 John collaborated with John Lennon on his cover of the Beatles' \"Lucy in the Sky with Diamonds\", the B-side of which was Lennon's \"One Day at a Time\"."
    }
   ],
   "solutions": 1
