@@ -1610,114 +1610,6 @@
  {
   "steps": [
    {
-    "title": "James Caan",
-    "description": "American actor (1940–2022)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/en/thumb/8/85/James_Caan_-_1972.jpg/330px-James_Caan_-_1972.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-   },
-   {
-    "title": "John Wayne",
-    "description": "American actor (1907–1979)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/John_Wayne_-_still_portrait.jpg/330px-John_Wayne_-_still_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "However, Hawks liked Caan and cast him in his next film, El Dorado, playing Alan Bourdillion Traherne, nicknamed Mississippi, in support of John Wayne and Robert Mitchum."
-   },
-   {
-    "title": "Gregory Peck",
-    "description": "American actor (1916–2003)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Gregory_Peck_1948.jpg/330px-Gregory_Peck_1948.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "Wayne lost the leading role of Jimmy Ringo in The Gunfighter (1950) to Gregory Peck because he refused to work for Columbia Pictures."
-   },
-   {
-    "title": "Alfred Hitchcock",
-    "description": "English filmmaker (1899–1980)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Hitchcock%2C_Alfred_02.jpg/330px-Hitchcock%2C_Alfred_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "Peck's next film was the first of two collaborations with director Alfred Hitchcock, the suspense-romance Spellbound (1945), opposite Ingrid Bergman."
-   },
-   {
-    "title": "Cary Grant",
-    "description": "British-American actor (1904–1986)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Cary-grant-lead.jpg/330px-Cary-grant-lead.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "Hitchcock told Truffaut: \"You have to clearly spell it out in big letters: 'He is innocent.'\" (He had the same problem years later with Cary Grant in Suspicion (1941).) Released in January 1927, The Lodger was a commercial and critical success in the UK."
-   },
-   {
-    "title": "Katharine Hepburn",
-    "description": "American actress (1907–2003)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Katharine_Hepburn_publicity_photograph.jpg/330px-Katharine_Hepburn_publicity_photograph.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "Producer Pandro Berman agreed to take him on in the face of failure because \"I'd seen him do things which were excellent, and [Katharine] Hepburn wanted him too.\" His first venture with RKO, playing a raffish Cockney swindler in George Cukor's Sylvia Scarlett (1935), was the first of four collaborations with Hepburn."
-   },
-   {
-    "title": "Bette Davis",
-    "description": "American actress (1908–1989)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/BetteDavis1935.jpg/330px-BetteDavis1935.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "She received the second most votes, after winner Bette Davis."
-   }
-  ],
-  "links": [
-   {
-    "a": 0,
-    "b": 1,
-    "from": 0,
-    "via": "However, Hawks liked Caan and cast him in his next film, El Dorado, playing Alan Bourdillion Traherne, nicknamed Mississippi, in support of John Wayne and Robert Mitchum."
-   },
-   {
-    "a": 1,
-    "b": 2,
-    "from": 1,
-    "via": "Wayne lost the leading role of Jimmy Ringo in The Gunfighter (1950) to Gregory Peck because he refused to work for Columbia Pictures."
-   },
-   {
-    "a": 1,
-    "b": 4,
-    "from": 1,
-    "via": "Mylène Demongeot declared in a 2015 filmed interview: \"Gary Cooper was sublime, there I have to say, now he, was part of the stars, Gary Cooper, Cary Grant, John Wayne, those great Americans who I've met really were unbelievable guys, there aren't any like them anymore.\""
-   },
-   {
-    "a": 1,
-    "b": 5,
-    "from": 1,
-    "via": "On October 17, Rooster Cogburn began its theatrical run; Wayne reprised his role as U.S. Marshal Reuben J. \"Rooster\" Cogburn with strong plot elements reminiscent of The African Queen, and Katharine Hepburn as his leading lady."
-   },
-   {
-    "a": 2,
-    "b": 3,
-    "from": 2,
-    "via": "Peck's next film was the first of two collaborations with director Alfred Hitchcock, the suspense-romance Spellbound (1945), opposite Ingrid Bergman."
-   },
-   {
-    "a": 2,
-    "b": 4,
-    "from": 2,
-    "via": "Hitchcock initially hoped that Cary Grant would play the male lead."
-   },
-   {
-    "a": 3,
-    "b": 4,
-    "from": 3,
-    "via": "Hitchcock told Truffaut: \"You have to clearly spell it out in big letters: 'He is innocent.'\" (He had the same problem years later with Cary Grant in Suspicion (1941).) Released in January 1927, The Lodger was a commercial and critical success in the UK."
-   },
-   {
-    "a": 3,
-    "b": 6,
-    "from": 6,
-    "via": "Davis believed it could appeal to the same audience that had recently made Alfred Hitchcock's Psycho (1960) a success."
-   },
-   {
-    "a": 4,
-    "b": 5,
-    "from": 4,
-    "via": "Producer Pandro Berman agreed to take him on in the face of failure because \"I'd seen him do things which were excellent, and [Katharine] Hepburn wanted him too.\" His first venture with RKO, playing a raffish Cockney swindler in George Cukor's Sylvia Scarlett (1935), was the first of four collaborations with Hepburn."
-   },
-   {
-    "a": 5,
-    "b": 6,
-    "from": 5,
-    "via": "She received the second most votes, after winner Bette Davis."
-   }
-  ],
-  "solutions": 2
- },
- {
-  "steps": [
-   {
     "title": "Julia Roberts",
     "description": "American actress (born 1967)",
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Julia_Roberts_2025.jpg/330px-Julia_Roberts_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
@@ -1885,6 +1777,114 @@
     "b": 6,
     "from": 5,
     "via": "In 1974 John collaborated with John Lennon on his cover of the Beatles' \"Lucy in the Sky with Diamonds\", the B-side of which was Lennon's \"One Day at a Time\"."
+   }
+  ],
+  "solutions": 1
+ },
+ {
+  "steps": [
+   {
+    "title": "Jane Fonda",
+    "description": "American actress and activist (born 1937)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Jane_Fonda_gaslit-65.jpg/330px-Jane_Fonda_gaslit-65.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   {
+    "title": "Dolly Parton",
+    "description": "American singer-songwriter (1946–2026)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Young-Dolly-Parton_%28higher_quality_scan%29_%28cropped%29.jpg/330px-Young-Dolly-Parton_%28higher_quality_scan%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In 1980, Fonda starred in 9 to 5 with Lily Tomlin and Dolly Parton."
+   },
+   {
+    "title": "Elvis Presley",
+    "description": "American singer and actor (1935–1977)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Elvis_Presley_promoting_Jailhouse_Rock.jpg/330px-Elvis_Presley_promoting_Jailhouse_Rock.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Around the same time, Elvis Presley indicated that he wanted to record the song."
+   },
+   {
+    "title": "Chuck Berry",
+    "description": "American musician (1926–2017)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Chuck_Berry_1957.jpg/330px-Chuck_Berry_1957.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "While Presley was not an innovative guitarist like Moore or contemporary African American rockers Bo Diddley and Chuck Berry, cultural historian Gilbert B. Rodman argued that the album's cover image, \"of Elvis having the time of his life on stage with a guitar in his hands played a crucial role in positioning the guitar ... as the instrument that best captured the style and spirit of this new music.\""
+   },
+   {
+    "title": "Keith Richards",
+    "description": "English guitarist and songwriter (born 1943)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/RStonesHydePark030722_%2863_of_125%29_%28Keith_Richards%29.jpg/330px-RStonesHydePark030722_%2863_of_125%29_%28Keith_Richards%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Rock 'n' Roll, of a celebration concert for Berry's sixtieth birthday, organized by Keith Richards."
+   },
+   {
+    "title": "Cliff Richard",
+    "description": "British singer and actor (born 1940)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Cliff_Richard_2021.jpg/330px-Cliff_Richard_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "As part of his efforts, he advised Richards to drop the s from his surname, believing that Keith Richard, \"looked more pop\", and that it would echo the name of the British singer Cliff Richard."
+   },
+   {
+    "title": "Elton John",
+    "description": "British musician and songwriter (born 1947)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/EltonDocBFILFF101024_%284_of_17%29_%28cropped%29.jpg/330px-EltonDocBFILFF101024_%284_of_17%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Many big names in music such as Jimmy Page, Eric Clapton and Elton John were seen sporting I'm Nearly Famous badges, pleased that their boyhood idol was getting back into the heavier rock in which he had begun his career."
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "In 1980, Fonda starred in 9 to 5 with Lily Tomlin and Dolly Parton."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "Around the same time, Elvis Presley indicated that he wanted to record the song."
+   },
+   {
+    "a": 1,
+    "b": 6,
+    "from": 1,
+    "via": "The album was released on November 17, 2023, and featured collaborations with Paul McCartney, Ringo Starr, Sting, Elton John, Stevie Nicks, Sheryl Crow, Steve Perry, Miley Cyrus and Lizzo, among others."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "While Presley was not an innovative guitarist like Moore or contemporary African American rockers Bo Diddley and Chuck Berry, cultural historian Gilbert B. Rodman argued that the album's cover image, \"of Elvis having the time of his life on stage with a guitar in his hands played a crucial role in positioning the guitar ... as the instrument that best captured the style and spirit of this new music.\""
+   },
+   {
+    "a": 2,
+    "b": 5,
+    "from": 5,
+    "via": "He has total sales of over 21.5 million singles in the United Kingdom and, as of 2026, is the third-top-selling artist in UK singles chart history, behind the Beatles and Elvis Presley."
+   },
+   {
+    "a": 2,
+    "b": 6,
+    "from": 6,
+    "via": "John has said he remembers being immediately hooked on rock and roll when his mother brought home records by Elvis Presley and Bill Haley & His Comets in 1956."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "Rock 'n' Roll, of a celebration concert for Berry's sixtieth birthday, organized by Keith Richards."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "As part of his efforts, he advised Richards to drop the s from his surname, believing that Keith Richard, \"looked more pop\", and that it would echo the name of the British singer Cliff Richard."
+   },
+   {
+    "a": 4,
+    "b": 6,
+    "from": 6,
+    "via": "When we talk of great rock duos like Jimmy Page and Robert Plant, John (Lennon) and Paul (McCartney), Mick (Jagger) and Keith (Richards), I like to think of Elton John and Bernie Taupin."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "Many big names in music such as Jimmy Page, Eric Clapton and Elton John were seen sporting I'm Nearly Famous badges, pleased that their boyhood idol was getting back into the heavier rock in which he had begun his career."
    }
   ],
   "solutions": 1

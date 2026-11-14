@@ -3291,5 +3291,114 @@
    }
   ],
   "solutions": 1
+ },
+ {
+  "date": "2026-12-14",
+  "steps": [
+   {
+    "title": "James Caan",
+    "description": "American actor (1940–2022)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/en/thumb/8/85/James_Caan_-_1972.jpg/330px-James_Caan_-_1972.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   {
+    "title": "John Wayne",
+    "description": "American actor (1907–1979)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/John_Wayne_-_still_portrait.jpg/330px-John_Wayne_-_still_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "However, Hawks liked Caan and cast him in his next film, El Dorado, playing Alan Bourdillion Traherne, nicknamed Mississippi, in support of John Wayne and Robert Mitchum."
+   },
+   {
+    "title": "Gregory Peck",
+    "description": "American actor (1916–2003)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Gregory_Peck_1948.jpg/330px-Gregory_Peck_1948.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Wayne lost the leading role of Jimmy Ringo in The Gunfighter (1950) to Gregory Peck because he refused to work for Columbia Pictures."
+   },
+   {
+    "title": "Alfred Hitchcock",
+    "description": "English filmmaker (1899–1980)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Hitchcock%2C_Alfred_02.jpg/330px-Hitchcock%2C_Alfred_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Peck's next film was the first of two collaborations with director Alfred Hitchcock, the suspense-romance Spellbound (1945), opposite Ingrid Bergman."
+   },
+   {
+    "title": "Cary Grant",
+    "description": "British-American actor (1904–1986)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Cary-grant-lead.jpg/330px-Cary-grant-lead.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Hitchcock told Truffaut: \"You have to clearly spell it out in big letters: 'He is innocent.'\" (He had the same problem years later with Cary Grant in Suspicion (1941).) Released in January 1927, The Lodger was a commercial and critical success in the UK."
+   },
+   {
+    "title": "Katharine Hepburn",
+    "description": "American actress (1907–2003)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Katharine_Hepburn_publicity_photograph.jpg/330px-Katharine_Hepburn_publicity_photograph.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Producer Pandro Berman agreed to take him on in the face of failure because \"I'd seen him do things which were excellent, and [Katharine] Hepburn wanted him too.\" His first venture with RKO, playing a raffish Cockney swindler in George Cukor's Sylvia Scarlett (1935), was the first of four collaborations with Hepburn."
+   },
+   {
+    "title": "Bette Davis",
+    "description": "American actress (1908–1989)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/BetteDavis1935.jpg/330px-BetteDavis1935.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "She received the second most votes, after winner Bette Davis."
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "However, Hawks liked Caan and cast him in his next film, El Dorado, playing Alan Bourdillion Traherne, nicknamed Mississippi, in support of John Wayne and Robert Mitchum."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "Wayne lost the leading role of Jimmy Ringo in The Gunfighter (1950) to Gregory Peck because he refused to work for Columbia Pictures."
+   },
+   {
+    "a": 1,
+    "b": 4,
+    "from": 1,
+    "via": "Mylène Demongeot declared in a 2015 filmed interview: \"Gary Cooper was sublime, there I have to say, now he, was part of the stars, Gary Cooper, Cary Grant, John Wayne, those great Americans who I've met really were unbelievable guys, there aren't any like them anymore.\""
+   },
+   {
+    "a": 1,
+    "b": 5,
+    "from": 1,
+    "via": "On October 17, Rooster Cogburn began its theatrical run; Wayne reprised his role as U.S. Marshal Reuben J. \"Rooster\" Cogburn with strong plot elements reminiscent of The African Queen, and Katharine Hepburn as his leading lady."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "Peck's next film was the first of two collaborations with director Alfred Hitchcock, the suspense-romance Spellbound (1945), opposite Ingrid Bergman."
+   },
+   {
+    "a": 2,
+    "b": 4,
+    "from": 2,
+    "via": "Hitchcock initially hoped that Cary Grant would play the male lead."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "Hitchcock told Truffaut: \"You have to clearly spell it out in big letters: 'He is innocent.'\" (He had the same problem years later with Cary Grant in Suspicion (1941).) Released in January 1927, The Lodger was a commercial and critical success in the UK."
+   },
+   {
+    "a": 3,
+    "b": 6,
+    "from": 6,
+    "via": "Davis believed it could appeal to the same audience that had recently made Alfred Hitchcock's Psycho (1960) a success."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "Producer Pandro Berman agreed to take him on in the face of failure because \"I'd seen him do things which were excellent, and [Katharine] Hepburn wanted him too.\" His first venture with RKO, playing a raffish Cockney swindler in George Cukor's Sylvia Scarlett (1935), was the first of four collaborations with Hepburn."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "She received the second most votes, after winner Bette Davis."
+   }
+  ],
+  "solutions": 2
  }
 ]
