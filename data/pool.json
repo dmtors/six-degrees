@@ -1262,90 +1262,6 @@
  {
   "steps": [
    {
-    "title": "Jennifer Lopez",
-    "description": "American singer-songwriter and actress (born 1969)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Jennifer_Lopez_at_the_2025_Sundance_Film_Festival_%28cropped_3%29.jpg/330px-Jennifer_Lopez_at_the_2025_Sundance_Film_Festival_%28cropped_3%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-   },
-   {
-    "title": "Jim Caviezel",
-    "description": "American actor (born 1968)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Jim_Caviezel_at_the_2013_SDCC.jpg/330px-Jim_Caviezel_at_the_2013_SDCC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "Also in 2001, Lopez founded her production company, Nuyorican Productions, with manager Benny Medina, and starred in the romantic drama, Angel Eyes, opposite Jim Caviezel."
-   },
-   {
-    "title": "David Boreanaz",
-    "description": "American actor (born 1969)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/David_Boreanaz_at_Televerse_2025.jpg/330px-David_Boreanaz_at_Televerse_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "However, Caviezel left the project due to creative differences before production began and was replaced by David Boreanaz."
-   },
-   {
-    "title": "Denise Richards",
-    "description": "American actress and model (born 1971)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Denise_Richards_Dragon_Con_September_5_2026_0639.JPG/330px-Denise_Richards_Dragon_Con_September_5_2026_0639.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "Boreanaz's only starring role in a major theatrical film was in 2001's slasher horror film Valentine, alongside Denise Richards and Katherine Heigl."
-   },
-   {
-    "title": "Charlie Sheen",
-    "description": "American film and television actor (born 1965)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Charlie_Sheen_March_2009.JPG/330px-Charlie_Sheen_March_2009.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "Later that year, she appeared in four episodes of Spin City as Jennifer Duncan, a love interest of Charlie Sheen's character."
-   },
-   {
-    "title": "Robert Downey Jr.",
-    "description": "American actor (born 1965)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/RobertDowneyJr-byPhilipRomano7_%28cropped%29.jpg/330px-RobertDowneyJr-byPhilipRomano7_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "Sheen attended Santa Monica High School in Santa Monica, California, along with Robert Downey Jr., where he was a star pitcher and shortstop for the baseball team."
-   },
-   {
-    "title": "Marisa Tomei",
-    "description": "American actress (born 1964)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Marisa_Tomei_Photo_Op_GalaxyCon_Raleigh_2024_%28cropped%29.jpg/330px-Marisa_Tomei_Photo_Op_GalaxyCon_Raleigh_2024_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "In Only You (1994), co-starring Marisa Tomei and Billy Zane, Downey played Peter Wright, a professional dancer who poses as the soulmate for Tomei's character Faith."
-   }
-  ],
-  "links": [
-   {
-    "a": 0,
-    "b": 1,
-    "from": 0,
-    "via": "Also in 2001, Lopez founded her production company, Nuyorican Productions, with manager Benny Medina, and starred in the romantic drama, Angel Eyes, opposite Jim Caviezel."
-   },
-   {
-    "a": 1,
-    "b": 2,
-    "from": 1,
-    "via": "However, Caviezel left the project due to creative differences before production began and was replaced by David Boreanaz."
-   },
-   {
-    "a": 2,
-    "b": 3,
-    "from": 2,
-    "via": "Boreanaz's only starring role in a major theatrical film was in 2001's slasher horror film Valentine, alongside Denise Richards and Katherine Heigl."
-   },
-   {
-    "a": 3,
-    "b": 4,
-    "from": 3,
-    "via": "Later that year, she appeared in four episodes of Spin City as Jennifer Duncan, a love interest of Charlie Sheen's character."
-   },
-   {
-    "a": 4,
-    "b": 5,
-    "from": 4,
-    "via": "Sheen attended Santa Monica High School in Santa Monica, California, along with Robert Downey Jr., where he was a star pitcher and shortstop for the baseball team."
-   },
-   {
-    "a": 5,
-    "b": 6,
-    "from": 5,
-    "via": "In Only You (1994), co-starring Marisa Tomei and Billy Zane, Downey played Peter Wright, a professional dancer who poses as the soulmate for Tomei's character Faith."
-   }
-  ],
-  "solutions": 1
- },
- {
-  "steps": [
-   {
     "title": "Ian McKellen",
     "description": "English actor (born 1939)",
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/SDCC13_-_Ian_McKellen.jpg/330px-SDCC13_-_Ian_McKellen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
@@ -1885,6 +1801,102 @@
     "b": 6,
     "from": 5,
     "via": "Many big names in music such as Jimmy Page, Eric Clapton and Elton John were seen sporting I'm Nearly Famous badges, pleased that their boyhood idol was getting back into the heavier rock in which he had begun his career."
+   }
+  ],
+  "solutions": 1
+ },
+ {
+  "steps": [
+   {
+    "title": "Hugh Grant",
+    "description": "English actor (born 1960)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Hugh_Grant_in_2014.jpg/330px-Hugh_Grant_in_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   {
+    "title": "Anthony Hopkins",
+    "description": "Welsh actor (born 1937)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Anthony_Hopkins_Red_Sea_Festival_2025_Portrait_%28cropped%29.jpg/330px-Anthony_Hopkins_Red_Sea_Festival_2025_Portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Soon afterwards he was offered a supporting role in The Bounty (1984) starring Mel Gibson and Anthony Hopkins, but was prevented from playing the role because he did not yet have an Equity card, which could only be earned through acting in regional theatre."
+   },
+   {
+    "title": "Helena Bonham Carter",
+    "description": "British actress (born 1966)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/MerchantIvoryCurzMayfair201124_%2816_of_28%29_%2854154554145%29_%28cropped%29.jpg/330px-MerchantIvoryCurzMayfair201124_%2816_of_28%29_%2854154554145%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Hopkins acted alongside Emma Thompson and Helena Bonham Carter where he played the cold businessman Henry Wilcox."
+   },
+   {
+    "title": "Emily Watson",
+    "description": "English actress (born 1967)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Emily_Watson.jpg/330px-Emily_Watson.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "The role went to Emily Watson, who was nominated for an Academy Award for her performance."
+   },
+   {
+    "title": "Tim Robbins",
+    "description": "American actor (born 1958)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Tim_Robbins_%28Berlin_Film_Festival_2013%29.jpg/330px-Tim_Robbins_%28Berlin_Film_Festival_2013%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "She also played a leading role in Cradle Will Rock, a story of a theatre show in the 1930s, directed by Tim Robbins."
+   },
+   {
+    "title": "Kevin Costner",
+    "description": "American actor and filmmaker (born 1955)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Kevin_Costner_at_81st_Venice_Film_Festival_%28cropped%29.jpg/330px-Kevin_Costner_at_81st_Venice_Film_Festival_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In 1988, Robbins portrayed pitcher Ebby Calvin \"Nuke\" LaLoosh in the baseball film Bull Durham (1988), in which he co-starred with Susan Sarandon and Kevin Costner."
+   },
+   {
+    "title": "Ron Howard",
+    "description": "American filmmaker and actor (born 1954)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Ron_Howard_at_the_2024_Toronto_International_Film_Festival_05_%28cropped%29.jpg/330px-Ron_Howard_at_the_2024_Toronto_International_Film_Festival_05_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Costner played a minor role as \"Frat Boy #1\" in the Ron Howard film Night Shift (1982)."
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "Soon afterwards he was offered a supporting role in The Bounty (1984) starring Mel Gibson and Anthony Hopkins, but was prevented from playing the role because he did not yet have an Equity card, which could only be earned through acting in regional theatre."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "Hopkins acted alongside Emma Thompson and Helena Bonham Carter where he played the cold businessman Henry Wilcox."
+   },
+   {
+    "a": 1,
+    "b": 3,
+    "from": 1,
+    "via": "Hopkins starred in the third film in the series Red Dragon (2002) alongside Ralph Fiennes, Edward Norton, Harvey Keitel, Emily Watson, and Philip Seymour Hoffman."
+   },
+   {
+    "a": 1,
+    "b": 6,
+    "from": 1,
+    "via": "In 2000, Hopkins narrated Ron Howard's live action remake of How the Grinch Stole Christmas."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "The role went to Emily Watson, who was nominated for an Academy Award for her performance."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "She also played a leading role in Cradle Will Rock, a story of a theatre show in the 1930s, directed by Tim Robbins."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "In 1988, Robbins portrayed pitcher Ebby Calvin \"Nuke\" LaLoosh in the baseball film Bull Durham (1988), in which he co-starred with Susan Sarandon and Kevin Costner."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "Costner played a minor role as \"Frat Boy #1\" in the Ron Howard film Night Shift (1982)."
    }
   ],
   "solutions": 1

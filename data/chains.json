@@ -3400,5 +3400,90 @@
    }
   ],
   "solutions": 2
+ },
+ {
+  "date": "2026-12-15",
+  "steps": [
+   {
+    "title": "Jennifer Lopez",
+    "description": "American singer-songwriter and actress (born 1969)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Jennifer_Lopez_at_the_2025_Sundance_Film_Festival_%28cropped_3%29.jpg/330px-Jennifer_Lopez_at_the_2025_Sundance_Film_Festival_%28cropped_3%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   {
+    "title": "Jim Caviezel",
+    "description": "American actor (born 1968)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Jim_Caviezel_at_the_2013_SDCC.jpg/330px-Jim_Caviezel_at_the_2013_SDCC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Also in 2001, Lopez founded her production company, Nuyorican Productions, with manager Benny Medina, and starred in the romantic drama, Angel Eyes, opposite Jim Caviezel."
+   },
+   {
+    "title": "David Boreanaz",
+    "description": "American actor (born 1969)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/David_Boreanaz_at_Televerse_2025.jpg/330px-David_Boreanaz_at_Televerse_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "However, Caviezel left the project due to creative differences before production began and was replaced by David Boreanaz."
+   },
+   {
+    "title": "Denise Richards",
+    "description": "American actress and model (born 1971)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Denise_Richards_Dragon_Con_September_5_2026_0639.JPG/330px-Denise_Richards_Dragon_Con_September_5_2026_0639.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Boreanaz's only starring role in a major theatrical film was in 2001's slasher horror film Valentine, alongside Denise Richards and Katherine Heigl."
+   },
+   {
+    "title": "Charlie Sheen",
+    "description": "American film and television actor (born 1965)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Charlie_Sheen_March_2009.JPG/330px-Charlie_Sheen_March_2009.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Later that year, she appeared in four episodes of Spin City as Jennifer Duncan, a love interest of Charlie Sheen's character."
+   },
+   {
+    "title": "Robert Downey Jr.",
+    "description": "American actor (born 1965)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/RobertDowneyJr-byPhilipRomano7_%28cropped%29.jpg/330px-RobertDowneyJr-byPhilipRomano7_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Sheen attended Santa Monica High School in Santa Monica, California, along with Robert Downey Jr., where he was a star pitcher and shortstop for the baseball team."
+   },
+   {
+    "title": "Marisa Tomei",
+    "description": "American actress (born 1964)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Marisa_Tomei_Photo_Op_GalaxyCon_Raleigh_2024_%28cropped%29.jpg/330px-Marisa_Tomei_Photo_Op_GalaxyCon_Raleigh_2024_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In Only You (1994), co-starring Marisa Tomei and Billy Zane, Downey played Peter Wright, a professional dancer who poses as the soulmate for Tomei's character Faith."
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "Also in 2001, Lopez founded her production company, Nuyorican Productions, with manager Benny Medina, and starred in the romantic drama, Angel Eyes, opposite Jim Caviezel."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "However, Caviezel left the project due to creative differences before production began and was replaced by David Boreanaz."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "Boreanaz's only starring role in a major theatrical film was in 2001's slasher horror film Valentine, alongside Denise Richards and Katherine Heigl."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "Later that year, she appeared in four episodes of Spin City as Jennifer Duncan, a love interest of Charlie Sheen's character."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "Sheen attended Santa Monica High School in Santa Monica, California, along with Robert Downey Jr., where he was a star pitcher and shortstop for the baseball team."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "In Only You (1994), co-starring Marisa Tomei and Billy Zane, Downey played Peter Wright, a professional dancer who poses as the soulmate for Tomei's character Faith."
+   }
+  ],
+  "solutions": 1
  }
 ]
