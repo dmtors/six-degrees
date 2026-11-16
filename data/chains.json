@@ -3485,5 +3485,96 @@
    }
   ],
   "solutions": 1
+ },
+ {
+  "date": "2026-12-16",
+  "steps": [
+   {
+    "title": "Kelly Macdonald",
+    "description": "Scottish actress (born 1976)",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/41/Kelly_Macdonald_at_Brave_premiere_%287399126166%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+   },
+   {
+    "title": "Ewan McGregor",
+    "description": "Scottish actor (born 1971)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Ewan_McGregor_-_Los_Angeles_Comic_Con_2024.jpg/330px-Ewan_McGregor_-_Los_Angeles_Comic_Con_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "She saw a leaflet advertising an open casting session for Trainspotting and decided to audition, winning the part of Diane, the underage love interest to Ewan McGregor's Renton."
+   },
+   {
+    "title": "Ridley Scott",
+    "description": "English filmmaker (born 1937)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Ridley_Scott_At_BFI_-_BFI_Southbank_-_Saturday_4th_October_2025.jpg/330px-Ridley_Scott_At_BFI_-_BFI_Southbank_-_Saturday_4th_October_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "He also appeared in Ridley Scott's war film Black Hawk Down (2001) as John Grimes."
+   },
+   {
+    "title": "Sigourney Weaver",
+    "description": "American actress (born 1949)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Sigourney_Weaver_at_the_2025_Toronto_International_Film_Festival_%28cropped%29.jpg/330px-Sigourney_Weaver_at_the_2025_Toronto_International_Film_Festival_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Ripley (played by Sigourney Weaver), who appeared in the first four Alien films, would become a cinematic icon."
+   },
+   {
+    "title": "Mel Gibson",
+    "description": "American actor and filmmaker (born 1956)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Mel_Gibson_Cannes_2016_2.jpg/330px-Mel_Gibson_Cannes_2016_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "She next appeared opposite Mel Gibson as British Embassy officer Jill Bryant in the Peter Weir directed romantic drama The Year of Living Dangerously (1982) which was released to critical acclaim."
+   },
+   {
+    "title": "Diane Keaton",
+    "description": "American actress (1946–2025)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Diane_Keaton_2012-1_%28cropped%29_%28cropped%29.jpg/330px-Diane_Keaton_2012-1_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "He and Matthew Modine played condemned convict brothers opposite Diane Keaton as the warden's wife who visits them to read the Bible."
+   },
+   {
+    "title": "Warren Beatty",
+    "description": "American actor and filmmaker (born 1937)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Warren_Beatty.jpg/330px-Warren_Beatty.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Then, in 1978, she became romantically involved with Warren Beatty and he cast her opposite him in the epic historical drama Reds."
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "She saw a leaflet advertising an open casting session for Trainspotting and decided to audition, winning the part of Diane, the underage love interest to Ewan McGregor's Renton."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "He also appeared in Ridley Scott's war film Black Hawk Down (2001) as John Grimes."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "Ripley (played by Sigourney Weaver), who appeared in the first four Alien films, would become a cinematic icon."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "She next appeared opposite Mel Gibson as British Embassy officer Jill Bryant in the Peter Weir directed romantic drama The Year of Living Dangerously (1982) which was released to critical acclaim."
+   },
+   {
+    "a": 3,
+    "b": 5,
+    "from": 5,
+    "via": "She also received the 1997 Crystal Award at the Women in Film Crystal + Lucy Awards in 1997, and the Elle Women in Hollywood Awards the Icon Award in 1998 along with Sigourney Weaver, Lucy Fisher and Gillian Armstrong."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "He and Matthew Modine played condemned convict brothers opposite Diane Keaton as the warden's wife who visits them to read the Bible."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "Then, in 1978, she became romantically involved with Warren Beatty and he cast her opposite him in the epic historical drama Reds."
+   }
+  ],
+  "solutions": 1
  }
 ]
