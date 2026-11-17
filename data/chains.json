@@ -3576,5 +3576,90 @@
    }
   ],
   "solutions": 1
+ },
+ {
+  "date": "2026-12-17",
+  "steps": [
+   {
+    "title": "Meg Ryan",
+    "description": "American actress (born 1961)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Meg_Ryan_2_Met_Opera_2010_Shankbone.jpg/330px-Meg_Ryan_2_Met_Opera_2010_Shankbone.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   {
+    "title": "Adam Brody",
+    "description": "American actor (born 1979)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Adam_Brody_-_Everyone_Is_Lying_to_You_for_Money.jpg/330px-Adam_Brody_-_Everyone_Is_Lying_to_You_for_Money.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Starring alongside Kristen Stewart and Olympia Dukakis, she played Sarah Hardwicke, a mother and wife facing breast cancer, who connects with her neighbor's much younger grandson, played by Adam Brody."
+   },
+   {
+    "title": "Leighton Meester",
+    "description": "American actress (born 1986)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Leighton_Meester_2_by_David_Shankbone.jpg/330px-Leighton_Meester_2_by_David_Shankbone.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In March 2010, Brody met actress Leighton Meester while filming The Oranges in Westchester, New York."
+   },
+   {
+    "title": "Andy Samberg",
+    "description": "American actor, comedian, and musician (born 1978)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Andy_Samberg_by_Gage_Skidmore.jpg/330px-Andy_Samberg_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "She then starred in the comedy film That's My Boy, alongside Adam Sandler, Andy Samberg, and Milo Ventimiglia, which released in June 2012."
+   },
+   {
+    "title": "Fred Armisen",
+    "description": "American comedian and actor (born 1966)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Fred_Armisen_at_Rock_Center.jpg/330px-Fred_Armisen_at_Rock_Center.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Samberg starred in Sleater-Kinney's \"No Cities to Love\" video along with other actors such as Fred Armisen, Elliot Page, and Norman Reedus."
+   },
+   {
+    "title": "George Harrison",
+    "description": "English musician (1943–2001)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/George-wa-portrait.jpg/330px-George-wa-portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In 2021, he appeared as the protagonist in the official music video for the 2020 mix of George Harrison's song \"My Sweet Lord\"."
+   },
+   {
+    "title": "Ringo Starr",
+    "description": "English musician and actor (born 1940)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/ARTIST_INTERVIEW_-_Ringo_Starr_%28Former_the_Beatles%29_exclusive_interview_0-14_screenshot_%28portrait_crop%29.jpg/330px-ARTIST_INTERVIEW_-_Ringo_Starr_%28Former_the_Beatles%29_exclusive_interview_0-14_screenshot_%28portrait_crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "During the recording of The Beatles (1968), tensions within the group ran high, and drummer Ringo Starr quit briefly."
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "Starring alongside Kristen Stewart and Olympia Dukakis, she played Sarah Hardwicke, a mother and wife facing breast cancer, who connects with her neighbor's much younger grandson, played by Adam Brody."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "In March 2010, Brody met actress Leighton Meester while filming The Oranges in Westchester, New York."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "She then starred in the comedy film That's My Boy, alongside Adam Sandler, Andy Samberg, and Milo Ventimiglia, which released in June 2012."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "Samberg starred in Sleater-Kinney's \"No Cities to Love\" video along with other actors such as Fred Armisen, Elliot Page, and Norman Reedus."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "In 2021, he appeared as the protagonist in the official music video for the 2020 mix of George Harrison's song \"My Sweet Lord\"."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "During the recording of The Beatles (1968), tensions within the group ran high, and drummer Ringo Starr quit briefly."
+   }
+  ],
+  "solutions": 1
  }
 ]
