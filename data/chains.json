@@ -3661,5 +3661,114 @@
    }
   ],
   "solutions": 1
+ },
+ {
+  "date": "2026-12-18",
+  "steps": [
+   {
+    "title": "George Lucas",
+    "description": "American filmmaker and entrepreneur (born 1944)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/George_Lucas_by_Gage_Skidmore.jpg/330px-George_Lucas_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   {
+    "title": "Harrison Ford",
+    "description": "American actor (born 1942)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Harrison_Ford_-_Televerse_2025-03.jpg/330px-Harrison_Ford_-_Televerse_2025-03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "At the same time the sequel trilogy was announced, a fifth installment of the Indiana Jones series also entered pre-development phase with Harrison Ford and Steven Spielberg set to return."
+   },
+   {
+    "title": "Francis Ford Coppola",
+    "description": "American filmmaker (born 1939)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Lena_Herzog_Francis_Ford_Coppola_Wernder_Herzog_Venice_Film_Festival_%28cropped%29.jpg/330px-Lena_Herzog_Francis_Ford_Coppola_Wernder_Herzog_Venice_Film_Festival_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "After director Francis Ford Coppola's film The Godfather (1972) was a success, he hired Ford to expand his office and gave him small roles in his next two films, The Conversation (1974) and Apocalypse Now (1979); in the latter film, Ford played an army colonel named \"G."
+   },
+   {
+    "title": "Jim Morrison",
+    "description": "American singer (1943–1971)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Jim_Morrison_-_Young_Lion_%281967%29_%281%29.jpg/330px-Jim_Morrison_-_Young_Lion_%281967%29_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "He also met undergraduate film major Jim Morrison, future frontman of The Doors."
+   },
+   {
+    "title": "Marlon Brando",
+    "description": "American actor (1924–2004)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Marlon_Brando_publicity_for_One-Eyed_Jacks.png/330px-Marlon_Brando_publicity_for_One-Eyed_Jacks.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Conversely, Krieger and Manzarek claim that Morrison was inspired to wear leather pants by Marlon Brando from his role in The Fugitive Kind."
+   },
+   {
+    "title": "Elvis Presley",
+    "description": "American singer and actor (1935–1977)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Elvis_Presley_promoting_Jailhouse_Rock.jpg/330px-Elvis_Presley_promoting_Jailhouse_Rock.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "To Brando's expressed puzzlement, the movie inspired teen rebellion and made him a role model to the nascent rock-and-roll generation and future stars such as James Dean and Elvis Presley."
+   },
+   {
+    "title": "Chuck Berry",
+    "description": "American musician (1926–2017)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Chuck_Berry_1957.jpg/330px-Chuck_Berry_1957.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "While Presley was not an innovative guitarist like Moore or contemporary African American rockers Bo Diddley and Chuck Berry, cultural historian Gilbert B. Rodman argued that the album's cover image, \"of Elvis having the time of his life on stage with a guitar in his hands played a crucial role in positioning the guitar ... as the instrument that best captured the style and spirit of this new music.\""
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "At the same time the sequel trilogy was announced, a fifth installment of the Indiana Jones series also entered pre-development phase with Harrison Ford and Steven Spielberg set to return."
+   },
+   {
+    "a": 0,
+    "b": 2,
+    "from": 0,
+    "via": "The film he chose after finding the animation department closed down was Finian's Rainbow (1968) which was being directed by Francis Ford Coppola, who was revered among film school students of the time as a cinema graduate who had \"made it\" in Hollywood."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "After director Francis Ford Coppola's film The Godfather (1972) was a success, he hired Ford to expand his office and gave him small roles in his next two films, The Conversation (1974) and Apocalypse Now (1979); in the latter film, Ford played an army colonel named \"G."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "He also met undergraduate film major Jim Morrison, future frontman of The Doors."
+   },
+   {
+    "a": 2,
+    "b": 4,
+    "from": 2,
+    "via": "There was disagreement between Paramount and Coppola on casting; Coppola wanted to cast Marlon Brando as Vito, though Paramount wanted either Ernest Borgnine or Danny Thomas."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "Conversely, Krieger and Manzarek claim that Morrison was inspired to wear leather pants by Marlon Brando from his role in The Fugitive Kind."
+   },
+   {
+    "a": 3,
+    "b": 5,
+    "from": 3,
+    "via": "Morrison's vocal influences included Elvis Presley, Frank Sinatra and Howlin' Wolf, which can be heard in his baritone crooning style on several of the Doors' songs."
+   },
+   {
+    "a": 3,
+    "b": 6,
+    "from": 3,
+    "via": "Morrison also cited Little Richard, Chuck Berry, Muddy Waters, Bo Didley, John Coltrane, Peggy Lee, Fats Domino, Jerry Lee Lewis and Gene Vincent as other early influences."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "To Brando's expressed puzzlement, the movie inspired teen rebellion and made him a role model to the nascent rock-and-roll generation and future stars such as James Dean and Elvis Presley."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "While Presley was not an innovative guitarist like Moore or contemporary African American rockers Bo Diddley and Chuck Berry, cultural historian Gilbert B. Rodman argued that the album's cover image, \"of Elvis having the time of his life on stage with a guitar in his hands played a crucial role in positioning the guitar ... as the instrument that best captured the style and spirit of this new music.\""
+   }
+  ],
+  "solutions": 3
  }
 ]
