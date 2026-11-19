@@ -3770,5 +3770,90 @@
    }
   ],
   "solutions": 3
+ },
+ {
+  "date": "2026-12-19",
+  "steps": [
+   {
+    "title": "Alan Alda",
+    "description": "American actor (born 1936)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Alan_Alda_%2822499650074%29_%28cropped%29.jpg/330px-Alan_Alda_%2822499650074%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   {
+    "title": "Ann-Margret",
+    "description": "American actress (born 1941)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/en/thumb/1/18/Ann_Margret_1968.jpg/330px-Ann_Margret_1968.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In 1988, Alda starred opposite Ann-Margret in the marital comedy A New Life."
+   },
+   {
+    "title": "Dean Martin",
+    "description": "American singer and actor (1917–1995)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Dean_Martin_1958.jpg/330px-Dean_Martin_1958.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Ann-Margret ended 1966 by featuring in the hit Dean Martin–starrer Murderers' Row, a spy spoof."
+   },
+   {
+    "title": "George Clooney",
+    "description": "American actor and filmmaker (born 1961)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/George_Clooney_Jay_Kelly-19_%28cropped%29.jpg/330px-George_Clooney_Jay_Kelly-19_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Posthumously, the Rat Pack has experienced a popular revival, inspiring the George Clooney/Brad Pitt Ocean's Trilogy."
+   },
+   {
+    "title": "Julia Roberts",
+    "description": "American actress (born 1967)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Julia_Roberts_2025.jpg/330px-Julia_Roberts_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "The film starred Clooney, Brad Pitt, Julia Roberts, Matt Damon and Andy Garcia."
+   },
+   {
+    "title": "Hugh Grant",
+    "description": "English actor (born 1960)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Hugh_Grant_in_2014.jpg/330px-Hugh_Grant_in_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Roberts paired with Hugh Grant for Notting Hill (1999), portraying a famous actress who falls in love with a struggling book store owner."
+   },
+   {
+    "title": "Elizabeth Hurley",
+    "description": "English actress and model (born 1965)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Elizabeth_Hurley_ESB.jpg/330px-Elizabeth_Hurley_ESB.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "He appointed his then-girlfriend, Elizabeth Hurley, as the head of development to look for prospective projects."
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "In 1988, Alda starred opposite Ann-Margret in the marital comedy A New Life."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "Ann-Margret ended 1966 by featuring in the hit Dean Martin–starrer Murderers' Row, a spy spoof."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "Posthumously, the Rat Pack has experienced a popular revival, inspiring the George Clooney/Brad Pitt Ocean's Trilogy."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "The film starred Clooney, Brad Pitt, Julia Roberts, Matt Damon and Andy Garcia."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "Roberts paired with Hugh Grant for Notting Hill (1999), portraying a famous actress who falls in love with a struggling book store owner."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "He appointed his then-girlfriend, Elizabeth Hurley, as the head of development to look for prospective projects."
+   }
+  ],
+  "solutions": 1
  }
 ]

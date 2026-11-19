@@ -758,90 +758,6 @@
  {
   "steps": [
    {
-    "title": "Alan Alda",
-    "description": "American actor (born 1936)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Alan_Alda_%2822499650074%29_%28cropped%29.jpg/330px-Alan_Alda_%2822499650074%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-   },
-   {
-    "title": "Ann-Margret",
-    "description": "American actress (born 1941)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/en/thumb/1/18/Ann_Margret_1968.jpg/330px-Ann_Margret_1968.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "In 1988, Alda starred opposite Ann-Margret in the marital comedy A New Life."
-   },
-   {
-    "title": "Dean Martin",
-    "description": "American singer and actor (1917–1995)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Dean_Martin_1958.jpg/330px-Dean_Martin_1958.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "Ann-Margret ended 1966 by featuring in the hit Dean Martin–starrer Murderers' Row, a spy spoof."
-   },
-   {
-    "title": "George Clooney",
-    "description": "American actor and filmmaker (born 1961)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/George_Clooney_Jay_Kelly-19_%28cropped%29.jpg/330px-George_Clooney_Jay_Kelly-19_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "Posthumously, the Rat Pack has experienced a popular revival, inspiring the George Clooney/Brad Pitt Ocean's Trilogy."
-   },
-   {
-    "title": "Julia Roberts",
-    "description": "American actress (born 1967)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Julia_Roberts_2025.jpg/330px-Julia_Roberts_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "The film starred Clooney, Brad Pitt, Julia Roberts, Matt Damon and Andy Garcia."
-   },
-   {
-    "title": "Hugh Grant",
-    "description": "English actor (born 1960)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Hugh_Grant_in_2014.jpg/330px-Hugh_Grant_in_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "Roberts paired with Hugh Grant for Notting Hill (1999), portraying a famous actress who falls in love with a struggling book store owner."
-   },
-   {
-    "title": "Elizabeth Hurley",
-    "description": "English actress and model (born 1965)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Elizabeth_Hurley_ESB.jpg/330px-Elizabeth_Hurley_ESB.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "He appointed his then-girlfriend, Elizabeth Hurley, as the head of development to look for prospective projects."
-   }
-  ],
-  "links": [
-   {
-    "a": 0,
-    "b": 1,
-    "from": 0,
-    "via": "In 1988, Alda starred opposite Ann-Margret in the marital comedy A New Life."
-   },
-   {
-    "a": 1,
-    "b": 2,
-    "from": 1,
-    "via": "Ann-Margret ended 1966 by featuring in the hit Dean Martin–starrer Murderers' Row, a spy spoof."
-   },
-   {
-    "a": 2,
-    "b": 3,
-    "from": 2,
-    "via": "Posthumously, the Rat Pack has experienced a popular revival, inspiring the George Clooney/Brad Pitt Ocean's Trilogy."
-   },
-   {
-    "a": 3,
-    "b": 4,
-    "from": 3,
-    "via": "The film starred Clooney, Brad Pitt, Julia Roberts, Matt Damon and Andy Garcia."
-   },
-   {
-    "a": 4,
-    "b": 5,
-    "from": 4,
-    "via": "Roberts paired with Hugh Grant for Notting Hill (1999), portraying a famous actress who falls in love with a struggling book store owner."
-   },
-   {
-    "a": 5,
-    "b": 6,
-    "from": 5,
-    "via": "He appointed his then-girlfriend, Elizabeth Hurley, as the head of development to look for prospective projects."
-   }
-  ],
-  "solutions": 1
- },
- {
-  "steps": [
-   {
     "title": "Audrey Hepburn",
     "description": "British actress (1929–1993)",
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/AudreyKHepburn.jpg/330px-AudreyKHepburn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
@@ -1888,5 +1804,113 @@
    }
   ],
   "solutions": 1
+ },
+ {
+  "steps": [
+   {
+    "title": "Anne Hathaway",
+    "description": "American actress (born 1982)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/AnneHathaway-byPhilipRomano-Crop.jpg/330px-AnneHathaway-byPhilipRomano-Crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   {
+    "title": "Audrey Hepburn",
+    "description": "British actress (1929–1993)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/AudreyKHepburn.jpg/330px-AudreyKHepburn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Early in Hathaway's film career, her acting style and appearance were likened to Judy Garland—whom she cites as one of her favorite actresses—and Audrey Hepburn."
+   },
+   {
+    "title": "Elizabeth Taylor",
+    "description": "British and American actress (1932–2011)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Taylor%2C_Elizabeth_posed.jpg/330px-Taylor%2C_Elizabeth_posed.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Wyler wrote a glowing note of thanks to Dickinson, saying that \"as a result of the test, a number of the producers at Paramount have expressed interest in casting her.\" The producers of the film had initially wanted Elizabeth Taylor for the role, but Wyler was so impressed by Hepburn's screen test that he cast her instead."
+   },
+   {
+    "title": "Rock Hudson",
+    "description": "American actor (1925–1985)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Rock_Hudson_in_1954.jpg/330px-Rock_Hudson_in_1954.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "After lobbying director George Stevens, she won the female lead role in Giant (1956), an epic drama about a ranching dynasty, which co-starred Rock Hudson and her close friend James Dean."
+   },
+   {
+    "title": "Ann-Margret",
+    "description": "American actress (born 1941)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/en/thumb/1/18/Ann_Margret_1968.jpg/330px-Ann_Margret_1968.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Hudson attended New Trier High School in Winnetka, the same high school as fellow movie stars Charlton Heston and Ann-Margret."
+   },
+   {
+    "title": "Bobby Darin",
+    "description": "American musician, singer and actor (1936–1973)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Bobby_Darin_1959.JPG/330px-Bobby_Darin_1959.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In a 1962 remake of Rodgers and Hammerstein's musical State Fair, she played the \"bad girl\" role of Emily opposite Bobby Darin and Pat Boone."
+   },
+   {
+    "title": "Dean Martin",
+    "description": "American singer and actor (1917–1995)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Dean_Martin_1958.jpg/330px-Dean_Martin_1958.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "\"Things\" was sung by Dean Martin in the 1967 TV special Movin' With Nancy, starring Nancy Sinatra."
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "Early in Hathaway's film career, her acting style and appearance were likened to Judy Garland—whom she cites as one of her favorite actresses—and Audrey Hepburn."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "Wyler wrote a glowing note of thanks to Dickinson, saying that \"as a result of the test, a number of the producers at Paramount have expressed interest in casting her.\" The producers of the film had initially wanted Elizabeth Taylor for the role, but Wyler was so impressed by Hepburn's screen test that he cast her instead."
+   },
+   {
+    "a": 1,
+    "b": 3,
+    "from": 3,
+    "via": "According to some colleagues, Hudson's homosexual activity was well known in Hollywood throughout his career, and celebrity friends Julie Andrews, Mia Farrow, Elizabeth Taylor, Susan Saint James, Audrey Hepburn, and Carol Burnett said they had known about his homosexuality and kept it a secret for him."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "After lobbying director George Stevens, she won the female lead role in Giant (1956), an epic drama about a ranching dynasty, which co-starred Rock Hudson and her close friend James Dean."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "Hudson attended New Trier High School in Winnetka, the same high school as fellow movie stars Charlton Heston and Ann-Margret."
+   },
+   {
+    "a": 3,
+    "b": 5,
+    "from": 3,
+    "via": "After The Last Sunset (1961), co-starring Kirk Douglas and produced for Douglas' company Bryna Productions, Hudson made two comedies: Come September (1961) with Gina Lollobrigida, Sandra Dee and Bobby Darin, directed by Robert Mulligan; and Lover Come Back (1961) with Day; both films were produced through his 7 Pictures Corporation."
+   },
+   {
+    "a": 3,
+    "b": 6,
+    "from": 3,
+    "via": "During the series, Hudson appeared in Showdown (1973), a western with Dean Martin, and Embryo (1976), a science-fiction film."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "In a 1962 remake of Rodgers and Hammerstein's musical State Fair, she played the \"bad girl\" role of Emily opposite Bobby Darin and Pat Boone."
+   },
+   {
+    "a": 4,
+    "b": 6,
+    "from": 4,
+    "via": "Ann-Margret ended 1966 by featuring in the hit Dean Martin–starrer Murderers' Row, a spy spoof."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "\"Things\" was sung by Dean Martin in the 1967 TV special Movin' With Nancy, starring Nancy Sinatra."
+   }
+  ],
+  "solutions": 2
  }
 ]
