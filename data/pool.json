@@ -572,96 +572,6 @@
  {
   "steps": [
    {
-    "title": "Halle Berry",
-    "description": "American actress (born 1966)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Halle_Berry-1910.jpg/330px-Halle_Berry-1910.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-   },
-   {
-    "title": "Eddie Murphy",
-    "description": "American comedian, actor, and singer (born 1961)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Eddie_Murphy_by_David_Shankbone.jpg/330px-Eddie_Murphy_by_David_Shankbone.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "In 1992, Berry portrayed a career woman who falls for Eddie Murphy's character in the romantic comedy Boomerang."
-   },
-   {
-    "title": "Richard Pryor",
-    "description": "American comedian and actor (1940–2005)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Richard_Pryor_The_Midnight_Show_in_April_1974.png/330px-Richard_Pryor_The_Midnight_Show_in_April_1974.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "When Murphy was fifteen, he listened to Richard Pryor's comedy album That Nigger's Crazy, which inspired his decision to become a comedian."
-   },
-   {
-    "title": "Mel Brooks",
-    "description": "American filmmaker, actor and comedian (born 1926)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/MelBrooksApr10.jpg/330px-MelBrooksApr10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "Pryor co-wrote Blazing Saddles (1974), directed by Mel Brooks and starring Gene Wilder."
-   },
-   {
-    "title": "Anne Bancroft",
-    "description": "American actress (1931–2005)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Anne_Bancroft_1952.jpg/330px-Anne_Bancroft_1952.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "That year, Brooks married the actress Anne Bancroft."
-   },
-   {
-    "title": "Dustin Hoffman",
-    "description": "American actor (born 1937)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Dustin_Hoffman_at_the_2025_Toronto_International_Film_Festival._02_%28cropped%29.jpg/330px-Dustin_Hoffman_at_the_2025_Toronto_International_Film_Festival._02_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "In the film, she played an unhappily married woman who seduces the son of her husband's law firm partner, the much younger recent college graduate played by Dustin Hoffman."
-   },
-   {
-    "title": "Barbra Streisand",
-    "description": "American singer and actress (born 1942)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Barbra_Streisand_with_Francis_Collins_and_Anthony_Fauci_%2827806589237%29_%28cropped%29.jpg/330px-Barbra_Streisand_with_Francis_Collins_and_Anthony_Fauci_%2827806589237%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "Hoffman's appearance—Duvall described him as Barbra Streisand in drag—and small size made him uncastable, Vanity Fair later wrote."
-   }
-  ],
-  "links": [
-   {
-    "a": 0,
-    "b": 1,
-    "from": 0,
-    "via": "In 1992, Berry portrayed a career woman who falls for Eddie Murphy's character in the romantic comedy Boomerang."
-   },
-   {
-    "a": 1,
-    "b": 2,
-    "from": 1,
-    "via": "When Murphy was fifteen, he listened to Richard Pryor's comedy album That Nigger's Crazy, which inspired his decision to become a comedian."
-   },
-   {
-    "a": 1,
-    "b": 6,
-    "from": 1,
-    "via": "He had started singing earlier in his career, with the songs \"Boogie in Your Butt\" and \"Enough Is Enough\", the latter being a parody of Barbra Streisand's and Donna Summer's 1979 song, \"No More Tears\"."
-   },
-   {
-    "a": 2,
-    "b": 3,
-    "from": 2,
-    "via": "Pryor co-wrote Blazing Saddles (1974), directed by Mel Brooks and starring Gene Wilder."
-   },
-   {
-    "a": 3,
-    "b": 4,
-    "from": 3,
-    "via": "That year, Brooks married the actress Anne Bancroft."
-   },
-   {
-    "a": 4,
-    "b": 5,
-    "from": 4,
-    "via": "In the film, she played an unhappily married woman who seduces the son of her husband's law firm partner, the much younger recent college graduate played by Dustin Hoffman."
-   },
-   {
-    "a": 5,
-    "b": 6,
-    "from": 5,
-    "via": "Hoffman's appearance—Duvall described him as Barbra Streisand in drag—and small size made him uncastable, Vanity Fair later wrote."
-   }
-  ],
-  "solutions": 1
- },
- {
-  "steps": [
-   {
     "title": "Charlize Theron",
     "description": "South African-American actress (born 1975)",
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/CharlizeTheron-byPhilipRomano2.jpg/330px-CharlizeTheron-byPhilipRomano2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
@@ -1912,5 +1822,95 @@
    }
   ],
   "solutions": 2
+ },
+ {
+  "steps": [
+   {
+    "title": "Clive Owen",
+    "description": "British actor (born 1964)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Clive_Owen_%28Children_of_men%29_cropped.jpg/330px-Clive_Owen_%28Children_of_men%29_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   {
+    "title": "Stephen Merchant",
+    "description": "English comedian, writer and actor (born 1974)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Stephen_Merchant.jpg/330px-Stephen_Merchant.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "He appeared in the Christmas special of the Ricky Gervais and Stephen Merchant show Extras."
+   },
+   {
+    "title": "John Krasinski",
+    "description": "American actor and filmmaker (born 1979)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/John_Krasinski_2022.jpg/330px-John_Krasinski_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Merchant, along with John Krasinski and Allyson Seeger, are executive producers of Dream Corp, LLC, an animated series created by Daniel Stessen on Adult Swim that ran for three seasons starting in 2016."
+   },
+   {
+    "title": "Jimmy Fallon",
+    "description": "American comedian and television host (born 1974)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Jimmy_Fallon-TTL_4575_%2811046141004%29_%285x7_cropped_and_rotated%29.jpg/330px-Jimmy_Fallon-TTL_4575_%2811046141004%29_%285x7_cropped_and_rotated%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Jimmy Fallon then developed it into a recurring segment on his show."
+   },
+   {
+    "title": "Adam Sandler",
+    "description": "American comedian and actor (born 1966)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Jackie_Sandler_Adam_Sandler_Jay_Kelly-36_%283x4%29.jpg/330px-Jackie_Sandler_Adam_Sandler_Jay_Kelly-36_%283x4%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Despite this, Fallon went onstage and did well, performing a \"celebrity walk-a-thon\" with impressions of Jerry Seinfeld, Chris Rock, Bill Cosby, and Adam Sandler, an SNL alumnus who had recently left the show."
+   },
+   {
+    "title": "Jennifer Aniston",
+    "description": "American actress (born 1969)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/JenniferAnistonHWoFFeb2012.jpg/330px-JenniferAnistonHWoFFeb2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In June 2019, he reunited with Jennifer Aniston in the Netflix film Murder Mystery, which broke the record for the biggest opening weekend in the company's history, and spawned a sequel, Murder Mystery 2, in 2023."
+   },
+   {
+    "title": "Gerard Butler",
+    "description": "Scottish actor and film producer (born 1969)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Gerard_Butler_%2829681162176%29.jpg/330px-Gerard_Butler_%2829681162176%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Aniston appeared as the former wife of a bounty hunter (Gerard Butler) in the romantic comedy action film The Bounty Hunter (2010)."
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "He appeared in the Christmas special of the Ricky Gervais and Stephen Merchant show Extras."
+   },
+   {
+    "a": 0,
+    "b": 5,
+    "from": 0,
+    "via": "After Closer, he appeared in Derailed alongside Jennifer Aniston, the comic book thriller Sin City as the noir antihero Dwight McCarthy and as a mysterious bank robber in Inside Man."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "Merchant, along with John Krasinski and Allyson Seeger, are executive producers of Dream Corp, LLC, an animated series created by Daniel Stessen on Adult Swim that ran for three seasons starting in 2016."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "Jimmy Fallon then developed it into a recurring segment on his show."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "Despite this, Fallon went onstage and did well, performing a \"celebrity walk-a-thon\" with impressions of Jerry Seinfeld, Chris Rock, Bill Cosby, and Adam Sandler, an SNL alumnus who had recently left the show."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "In June 2019, he reunited with Jennifer Aniston in the Netflix film Murder Mystery, which broke the record for the biggest opening weekend in the company's history, and spawned a sequel, Murder Mystery 2, in 2023."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "Aniston appeared as the former wife of a bounty hunter (Gerard Butler) in the romantic comedy action film The Bounty Hunter (2010)."
+   }
+  ],
+  "solutions": 1
  }
 ]
