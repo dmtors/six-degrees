@@ -3946,5 +3946,102 @@
    }
   ],
   "solutions": 1
+ },
+ {
+  "date": "2026-12-21",
+  "steps": [
+   {
+    "title": "Jessica Alba",
+    "description": "American actress (born 1981)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Jessica_Alba_-_Los_Angeles_Comic_Con_2025.jpg/330px-Jessica_Alba_-_Los_Angeles_Comic_Con_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   {
+    "title": "Jason Statham",
+    "description": "English actor (born 1967)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Jason_Statham_2018.jpg/330px-Jason_Statham_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In the action film Mechanic: Resurrection (2016), alongside Jason Statham, Alba played the girlfriend of a retired hitman."
+   },
+   {
+    "title": "Timothy Dalton",
+    "description": "British actor (born 1946)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Timothy_Dalton_1987_b.jpg/330px-Timothy_Dalton_1987_b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "And talking his talk can hardly be an issue with a character whose accent has fluctuated between Sean Connery's Scottish brogue and Timothy Dalton's Welsh.\" After the interview, there were multiple calls from critics and the public to instate him as James Bond in a future film."
+   },
+   {
+    "title": "Roger Moore",
+    "description": "English actor (1927–2017)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Sir_Roger_Moore_3_b.jpg/330px-Sir_Roger_Moore_3_b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In August 1986, Dalton was approached to play Bond after Roger Moore had retired, but as Dalton would soon begin filming Brenda Starr he could do The Living Daylights only if the Bond producers waited six weeks."
+   },
+   {
+    "title": "George Lazenby",
+    "description": "Australian retired actor (born 1939)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/GeorgeLazenby11.14.08ByLuigiNovi_b.jpg/330px-GeorgeLazenby11.14.08ByLuigiNovi_b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "After George Lazenby was cast in 1969's On Her Majesty's Secret Service and Connery was enticed back to the role of Bond again for Diamonds Are Forever (1971), Moore did not consider the possibility until it seemed clear that Connery had stepped down as Bond for good."
+   },
+   {
+    "title": "Bruce Lee",
+    "description": "Martial artist and actor (1940–1973)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Bruce_Lee_as_Chen_Zhen_%284x5_cropped%29.jpg/330px-Bruce_Lee_as_Chen_Zhen_%284x5_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In 1973, Lazenby said he was \"flat broke\" when he went to Hong Kong to meet Bruce Lee and producer Raymond Chow."
+   },
+   {
+    "title": "David Carradine",
+    "description": "American actor (1936–2009)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/David_Carradine_1987_%28cropped%29.jpg/330px-David_Carradine_1987_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "The project was not realized at the time, but the 1978 film Circle of Iron, starring David Carradine, was based on the same plot."
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "In the action film Mechanic: Resurrection (2016), alongside Jason Statham, Alba played the girlfriend of a retired hitman."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "And talking his talk can hardly be an issue with a character whose accent has fluctuated between Sean Connery's Scottish brogue and Timothy Dalton's Welsh.\" After the interview, there were multiple calls from critics and the public to instate him as James Bond in a future film."
+   },
+   {
+    "a": 1,
+    "b": 5,
+    "from": 1,
+    "via": "Statham himself cites Stallone, Bruce Lee, Paul Newman, Steve McQueen, and Clint Eastwood as his inspirations."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "In August 1986, Dalton was approached to play Bond after Roger Moore had retired, but as Dalton would soon begin filming Brenda Starr he could do The Living Daylights only if the Bond producers waited six weeks."
+   },
+   {
+    "a": 2,
+    "b": 4,
+    "from": 2,
+    "via": "His 007, therefore, came across as a reluctant agent who did not always enjoy the assignments he was given, something seen on screen before, albeit obliquely, only in George Lazenby's On Her Majesty's Secret Service."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "After George Lazenby was cast in 1969's On Her Majesty's Secret Service and Connery was enticed back to the role of Bond again for Diamonds Are Forever (1971), Moore did not consider the possibility until it seemed clear that Connery had stepped down as Bond for good."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "In 1973, Lazenby said he was \"flat broke\" when he went to Hong Kong to meet Bruce Lee and producer Raymond Chow."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "The project was not realized at the time, but the 1978 film Circle of Iron, starring David Carradine, was based on the same plot."
+   }
+  ],
+  "solutions": 1
  }
 ]
