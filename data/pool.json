@@ -668,120 +668,6 @@
  {
   "steps": [
    {
-    "title": "Audrey Hepburn",
-    "description": "British actress (1929–1993)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/AudreyKHepburn.jpg/330px-AudreyKHepburn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-   },
-   {
-    "title": "Elizabeth Taylor",
-    "description": "British and American actress (1932–2011)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Taylor%2C_Elizabeth_posed.jpg/330px-Taylor%2C_Elizabeth_posed.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "Wyler wrote a glowing note of thanks to Dickinson, saying that \"as a result of the test, a number of the producers at Paramount have expressed interest in casting her.\" The producers of the film had initially wanted Elizabeth Taylor for the role, but Wyler was so impressed by Hepburn's screen test that he cast her instead."
-   },
-   {
-    "title": "Ava Gardner",
-    "description": "American actress (1922–1990)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Ava-Gardner-in-Stockholm-1954-391767746470.jpg/330px-Ava-Gardner-in-Stockholm-1954-391767746470.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "Film magazines and gossip columnists also began comparing her to older actresses such as Ava Gardner and Lana Turner."
-   },
-   {
-    "title": "Burt Lancaster",
-    "description": "American actor (1913–1994)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Burt_Lancaster_-_publicity_1947.JPG/330px-Burt_Lancaster_-_publicity_1947.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "She next appeared again with Burt Lancaster, her co-star from The Killers, this time with Kirk Douglas and Fredric March, in Seven Days in May (1964), a thriller about an attempted military takeover of the US government."
-   },
-   {
-    "title": "Rita Hayworth",
-    "description": "American actress and dancer (1918–1987)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Hayworth-Gilda-1946-Color.jpg/330px-Hayworth-Gilda-1946-Color.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "Hill went on to produce a single additional film, The Happy Thieves, in a new production company, Hillworth Productions, co-owned with his wife Rita Hayworth."
-   },
-   {
-    "title": "Cary Grant",
-    "description": "British-American actor (1904–1986)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Cary-grant-lead.jpg/330px-Cary-grant-lead.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "In 1939, Cohn pressured director Howard Hawks to use Hayworth for a small, but important, role as a man-trap in the aviation drama Only Angels Have Wings, in which she played opposite Cary Grant and Jean Arthur."
-   },
-   {
-    "title": "Katharine Hepburn",
-    "description": "American actress (1907–2003)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Katharine_Hepburn_publicity_photograph.jpg/330px-Katharine_Hepburn_publicity_photograph.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "Producer Pandro Berman agreed to take him on in the face of failure because \"I'd seen him do things which were excellent, and [Katharine] Hepburn wanted him too.\" His first venture with RKO, playing a raffish Cockney swindler in George Cukor's Sylvia Scarlett (1935), was the first of four collaborations with Hepburn."
-   }
-  ],
-  "links": [
-   {
-    "a": 0,
-    "b": 1,
-    "from": 0,
-    "via": "Wyler wrote a glowing note of thanks to Dickinson, saying that \"as a result of the test, a number of the producers at Paramount have expressed interest in casting her.\" The producers of the film had initially wanted Elizabeth Taylor for the role, but Wyler was so impressed by Hepburn's screen test that he cast her instead."
-   },
-   {
-    "a": 0,
-    "b": 3,
-    "from": 0,
-    "via": "Following The Nun's Story, Hepburn received a lukewarm reception for starring with Anthony Perkins in the romantic adventure Green Mansions (1959), in which she played Rima, a jungle girl who falls in love with a Venezuelan traveller, and The Unforgiven (1960), her only western film, in which she appeared opposite Burt Lancaster and Lillian Gish in a story of racism against a group of Native Americans."
-   },
-   {
-    "a": 0,
-    "b": 5,
-    "from": 0,
-    "via": "Hepburn next appeared opposite Cary Grant in the comic thriller Charade (1963), playing a young widow pursued by several men who chase after the fortune stolen by her murdered husband."
-   },
-   {
-    "a": 0,
-    "b": 6,
-    "from": 0,
-    "via": "Although initially disappointed that \"Miss Hepburn\" was not Katharine Hepburn as he had mistakenly thought, Givenchy and Hepburn formed a life-long friendship."
-   },
-   {
-    "a": 1,
-    "b": 2,
-    "from": 1,
-    "via": "Film magazines and gossip columnists also began comparing her to older actresses such as Ava Gardner and Lana Turner."
-   },
-   {
-    "a": 1,
-    "b": 6,
-    "from": 1,
-    "via": "Taylor's next film, Joseph L. Mankiewicz's Suddenly, Last Summer (1959), was another Tennessee Williams adaptation, with a screenplay by Gore Vidal and also starring Montgomery Clift and Katharine Hepburn."
-   },
-   {
-    "a": 2,
-    "b": 3,
-    "from": 2,
-    "via": "She next appeared again with Burt Lancaster, her co-star from The Killers, this time with Kirk Douglas and Fredric March, in Seven Days in May (1964), a thriller about an attempted military takeover of the US government."
-   },
-   {
-    "a": 3,
-    "b": 4,
-    "from": 3,
-    "via": "Hill went on to produce a single additional film, The Happy Thieves, in a new production company, Hillworth Productions, co-owned with his wife Rita Hayworth."
-   },
-   {
-    "a": 3,
-    "b": 6,
-    "from": 3,
-    "via": "Lancaster made two films for Wallis to complete his eight-film commitment for that contract: The Rainmaker (1956) with Katharine Hepburn, which earned Lancaster a Golden Globe nomination for Best Actor; and Gunfight at the O.K. Corral (1957) with Kirk Douglas, which was a huge commercial hit directed by John Sturges."
-   },
-   {
-    "a": 4,
-    "b": 5,
-    "from": 4,
-    "via": "In 1939, Cohn pressured director Howard Hawks to use Hayworth for a small, but important, role as a man-trap in the aviation drama Only Angels Have Wings, in which she played opposite Cary Grant and Jean Arthur."
-   },
-   {
-    "a": 5,
-    "b": 6,
-    "from": 5,
-    "via": "Producer Pandro Berman agreed to take him on in the face of failure because \"I'd seen him do things which were excellent, and [Katharine] Hepburn wanted him too.\" His first venture with RKO, playing a raffish Cockney swindler in George Cukor's Sylvia Scarlett (1935), was the first of four collaborations with Hepburn."
-   }
-  ],
-  "solutions": 2
- },
- {
-  "steps": [
-   {
     "title": "Mike Nichols",
     "description": "American film and theatre director (1931–2014)",
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Mike_Nichols.jpg/330px-Mike_Nichols.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
@@ -1900,5 +1786,113 @@
    }
   ],
   "solutions": 1
+ },
+ {
+  "steps": [
+   {
+    "title": "Joe Pesci",
+    "description": "American actor (born 1943)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/JoePesci-2009.jpg/330px-JoePesci-2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   {
+    "title": "Al Pacino",
+    "description": "American actor (born 1940)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Al_Pacino_-_Killing_Castro_-_Q%26A_-_Tribeca_2026_-_by_%40JJxFile-23_%28cropped%29.jpg/330px-Al_Pacino_-_Killing_Castro_-_Q%26A_-_Tribeca_2026_-_by_%40JJxFile-23_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In 2017, Pesci was cast alongside Robert De Niro and Al Pacino in The Irishman, a crime film directed by Martin Scorsese."
+   },
+   {
+    "title": "Jack Nicholson",
+    "description": "American actor and filmmaker (born 1937)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Jack_Nicholson_2002.jpg/330px-Jack_Nicholson_2002.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Although Jack Nicholson, Robert Redford, Warren Beatty, and the little-known Robert De Niro tried out for the part, Coppola selected Pacino, to the dismay of studio executives who wanted someone better known."
+   },
+   {
+    "title": "Faye Dunaway",
+    "description": "American actress (born 1941)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Faye_Dunaway_2024.jpg/330px-Faye_Dunaway_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "The film co-starred Faye Dunaway and John Huston, and included a cameo role with Polanski."
+   },
+   {
+    "title": "David Niven",
+    "description": "English actor, memoirist and novelist (1910–1983)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/David_Niven_bw_Allan_Warren.jpg/330px-David_Niven_bw_Allan_Warren.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Also in 1969, The Extraordinary Seaman, a comedy adventure directed by John Frankenheimer and also starring David Niven that she shot right after Bonnie and Clyde, was released to poor reviews and proved to be a commercial failure."
+   },
+   {
+    "title": "Errol Flynn",
+    "description": "Australian and American actor (1909–1959)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Errol_Flynn_1936.jpg/330px-Errol_Flynn_1936.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "(1936), before landing a significant role as a soldier in The Charge of the Light Brigade (1936) at Warner Brothers, an Imperial adventure film starring his housemate at the time, Errol Flynn."
+   },
+   {
+    "title": "Bette Davis",
+    "description": "American actress (1908–1989)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/BetteDavis1935.jpg/330px-BetteDavis1935.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Flynn played alcoholic sports reporter Frank Medlin, who sweeps Louise Elliott (Bette Davis) off her feet on a visit to Silver Bow, Montana."
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "In 2017, Pesci was cast alongside Robert De Niro and Al Pacino in The Irishman, a crime film directed by Martin Scorsese."
+   },
+   {
+    "a": 0,
+    "b": 2,
+    "from": 2,
+    "via": "Nicholson is also friends with fellow New Jerseyans Danny DeVito and Joe Pesci."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "Although Jack Nicholson, Robert Redford, Warren Beatty, and the little-known Robert De Niro tried out for the part, Coppola selected Pacino, to the dismay of studio executives who wanted someone better known."
+   },
+   {
+    "a": 1,
+    "b": 3,
+    "from": 3,
+    "via": "In 2009, Dunaway began shooting a film version of the McNally play Master Class as Maria Callas, also starring Al Pacino (as Aristotle Onassis), Val Kilmer, Alan Cumming, her son Liam Dunaway O'Neill, and lyric soprano Danielle de Niese (the latter two as opera students)."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "The film co-starred Faye Dunaway and John Huston, and included a cameo role with Polanski."
+   },
+   {
+    "a": 2,
+    "b": 6,
+    "from": 6,
+    "via": "Since then, only three people have surpassed this figure—Meryl Streep (with 21 nominations and three wins), Katharine Hepburn (12 nominations and 4 wins), and Jack Nicholson (12 nominations and 3 wins)—while Laurence Olivier matched her (10 nominations and 1 win)."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "Also in 1969, The Extraordinary Seaman, a comedy adventure directed by John Frankenheimer and also starring David Niven that she shot right after Bonnie and Clyde, was released to poor reviews and proved to be a commercial failure."
+   },
+   {
+    "a": 3,
+    "b": 6,
+    "from": 3,
+    "via": "Also in 1976, Dunaway appeared as the lead in the made-for-television movie, The Disappearance of Aimee, in which she co-starred with Bette Davis."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "(1936), before landing a significant role as a soldier in The Charge of the Light Brigade (1936) at Warner Brothers, an Imperial adventure film starring his housemate at the time, Errol Flynn."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "Flynn played alcoholic sports reporter Frank Medlin, who sweeps Louise Elliott (Bette Davis) off her feet on a visit to Silver Bow, Montana."
+   }
+  ],
+  "solutions": 2
  }
 ]
