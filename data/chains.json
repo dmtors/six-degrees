@@ -4158,5 +4158,90 @@
    }
   ],
   "solutions": 2
+ },
+ {
+  "date": "2026-12-23",
+  "steps": [
+   {
+    "title": "Alan Rickman",
+    "description": "English actor (1946–2016)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Alan_Rickman_after_Seminar_%283%29.jpg/330px-Alan_Rickman_after_Seminar_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   {
+    "title": "Brian Cox (actor)",
+    "description": "Scottish actor (born 1946)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Brian_Cox_Edinburgh_2025.jpg/330px-Brian_Cox_Edinburgh_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "He appeared in the 1981 BBC adaptation of Émile Zola's novel Thérèse Raquin, opposite Kate Nelligan and Brian Cox."
+   },
+   {
+    "title": "Laurence Olivier",
+    "description": "English actor and director (1907–1989)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Lord_Olivier_6_Allan_Warren.jpg/330px-Lord_Olivier_6_Allan_Warren.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Cox had been invited to meet with Sir Laurence Olivier but the meeting was cancelled, and while Cox considered taking the flight anyway, he decided to return home only learning of the tragedy the next day."
+   },
+   {
+    "title": "Alec Guinness",
+    "description": "English actor (1914–2000)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Sir_Alec_Guinness_Allan_Warren.jpg/330px-Sir_Alec_Guinness_Allan_Warren.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Among the actors whom Olivier joined in late 1936 were Edith Evans, Ruth Gordon, Alec Guinness and Michael Redgrave."
+   },
+   {
+    "title": "William Holden",
+    "description": "American actor (1918–1981)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/WILLIAMHolden.jpg/330px-WILLIAMHolden.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "After appearing in Lean's Great Expectations and Oliver Twist, he was given a starring role opposite William Holden in The Bridge on the River Kwai."
+   },
+   {
+    "title": "Bing Crosby",
+    "description": "American singer and actor (1903–1977)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Bing_Crosby_Paramount_Pictures.jpg/330px-Bing_Crosby_Paramount_Pictures.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "He took third billing for The Country Girl (1954) with Bing Crosby and Grace Kelly, directed by George Seaton from a play by Clifford Odets."
+   },
+   {
+    "title": "David Bowie",
+    "description": "English musician and actor (1947–2016)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/David-Bowie_Chicago_2002-08-08_photoby_Adam-Bielawski-cropped.jpg/330px-David-Bowie_Chicago_2002-08-08_photoby_Adam-Bielawski-cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "It was on this special that Crosby recorded a duet of \"The Little Drummer Boy\" and \"Peace on Earth\" with rock musician David Bowie."
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "He appeared in the 1981 BBC adaptation of Émile Zola's novel Thérèse Raquin, opposite Kate Nelligan and Brian Cox."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "Cox had been invited to meet with Sir Laurence Olivier but the meeting was cancelled, and while Cox considered taking the flight anyway, he decided to return home only learning of the tragedy the next day."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "Among the actors whom Olivier joined in late 1936 were Edith Evans, Ruth Gordon, Alec Guinness and Michael Redgrave."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "After appearing in Lean's Great Expectations and Oliver Twist, he was given a starring role opposite William Holden in The Bridge on the River Kwai."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "He took third billing for The Country Girl (1954) with Bing Crosby and Grace Kelly, directed by George Seaton from a play by Clifford Odets."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "It was on this special that Crosby recorded a duet of \"The Little Drummer Boy\" and \"Peace on Earth\" with rock musician David Bowie."
+   }
+  ],
+  "solutions": 1
  }
 ]

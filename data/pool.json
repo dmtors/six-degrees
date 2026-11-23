@@ -1334,90 +1334,6 @@
  {
   "steps": [
    {
-    "title": "Alan Rickman",
-    "description": "English actor (1946–2016)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Alan_Rickman_after_Seminar_%283%29.jpg/330px-Alan_Rickman_after_Seminar_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-   },
-   {
-    "title": "Brian Cox (actor)",
-    "description": "Scottish actor (born 1946)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Brian_Cox_Edinburgh_2025.jpg/330px-Brian_Cox_Edinburgh_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "He appeared in the 1981 BBC adaptation of Émile Zola's novel Thérèse Raquin, opposite Kate Nelligan and Brian Cox."
-   },
-   {
-    "title": "Laurence Olivier",
-    "description": "English actor and director (1907–1989)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Lord_Olivier_6_Allan_Warren.jpg/330px-Lord_Olivier_6_Allan_Warren.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "Cox had been invited to meet with Sir Laurence Olivier but the meeting was cancelled, and while Cox considered taking the flight anyway, he decided to return home only learning of the tragedy the next day."
-   },
-   {
-    "title": "Alec Guinness",
-    "description": "English actor (1914–2000)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Sir_Alec_Guinness_Allan_Warren.jpg/330px-Sir_Alec_Guinness_Allan_Warren.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "Among the actors whom Olivier joined in late 1936 were Edith Evans, Ruth Gordon, Alec Guinness and Michael Redgrave."
-   },
-   {
-    "title": "William Holden",
-    "description": "American actor (1918–1981)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/WILLIAMHolden.jpg/330px-WILLIAMHolden.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "After appearing in Lean's Great Expectations and Oliver Twist, he was given a starring role opposite William Holden in The Bridge on the River Kwai."
-   },
-   {
-    "title": "Bing Crosby",
-    "description": "American singer and actor (1903–1977)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Bing_Crosby_Paramount_Pictures.jpg/330px-Bing_Crosby_Paramount_Pictures.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "He took third billing for The Country Girl (1954) with Bing Crosby and Grace Kelly, directed by George Seaton from a play by Clifford Odets."
-   },
-   {
-    "title": "David Bowie",
-    "description": "English musician and actor (1947–2016)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/David-Bowie_Chicago_2002-08-08_photoby_Adam-Bielawski-cropped.jpg/330px-David-Bowie_Chicago_2002-08-08_photoby_Adam-Bielawski-cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "It was on this special that Crosby recorded a duet of \"The Little Drummer Boy\" and \"Peace on Earth\" with rock musician David Bowie."
-   }
-  ],
-  "links": [
-   {
-    "a": 0,
-    "b": 1,
-    "from": 0,
-    "via": "He appeared in the 1981 BBC adaptation of Émile Zola's novel Thérèse Raquin, opposite Kate Nelligan and Brian Cox."
-   },
-   {
-    "a": 1,
-    "b": 2,
-    "from": 1,
-    "via": "Cox had been invited to meet with Sir Laurence Olivier but the meeting was cancelled, and while Cox considered taking the flight anyway, he decided to return home only learning of the tragedy the next day."
-   },
-   {
-    "a": 2,
-    "b": 3,
-    "from": 2,
-    "via": "Among the actors whom Olivier joined in late 1936 were Edith Evans, Ruth Gordon, Alec Guinness and Michael Redgrave."
-   },
-   {
-    "a": 3,
-    "b": 4,
-    "from": 3,
-    "via": "After appearing in Lean's Great Expectations and Oliver Twist, he was given a starring role opposite William Holden in The Bridge on the River Kwai."
-   },
-   {
-    "a": 4,
-    "b": 5,
-    "from": 4,
-    "via": "He took third billing for The Country Girl (1954) with Bing Crosby and Grace Kelly, directed by George Seaton from a play by Clifford Odets."
-   },
-   {
-    "a": 5,
-    "b": 6,
-    "from": 5,
-    "via": "It was on this special that Crosby recorded a duet of \"The Little Drummer Boy\" and \"Peace on Earth\" with rock musician David Bowie."
-   }
-  ],
-  "solutions": 1
- },
- {
-  "steps": [
-   {
     "title": "Jake Gyllenhaal",
     "description": "American actor (born 1980)",
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Jake_Gyllenhaal_2019_by_Glenn_Francis.jpg/330px-Jake_Gyllenhaal_2019_by_Glenn_Francis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
@@ -1894,5 +1810,95 @@
    }
   ],
   "solutions": 2
+ },
+ {
+  "steps": [
+   {
+    "title": "Jean-Claude Van Damme",
+    "description": "Belgian actor and martial artist (born 1960)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Jean-Claude_Van_Damme_at_Brussels_Comic_Con_2023_DSC19480_Kiri_DxO.jpg/330px-Jean-Claude_Van_Damme_at_Brussels_Comic_Con_2023_DSC19480_Kiri_DxO.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   {
+    "title": "Chuck Norris",
+    "description": "American martial artist and actor (1940–2026)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Chuck_Norris%2C_The_Delta_Force_1986_%28slight_cropped%29.jpg/330px-Chuck_Norris%2C_The_Delta_Force_1986_%28slight_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Around that time he developed a friendship with action martial art film star Chuck Norris."
+   },
+   {
+    "title": "David Carradine",
+    "description": "American actor (1936–2009)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/David_Carradine_1987_%28cropped%29.jpg/330px-David_Carradine_1987_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "He plays a reckless but brave Texas Ranger who defeats an arms dealer played by David Carradine."
+   },
+   {
+    "title": "Barbara Hershey",
+    "description": "American actress (born 1948)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Barbara_Hershey_by_Gage_Skidmore.jpg/330px-Barbara_Hershey_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In 1972, he co-starred as \"Big\" Bill Shelly in one of Martin Scorsese's earliest films, Boxcar Bertha, which starred Barbara Hershey, his partner at the time."
+   },
+   {
+    "title": "Errol Flynn",
+    "description": "Australian and American actor (1909–1959)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Errol_Flynn_1936.jpg/330px-Errol_Flynn_1936.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Also in the 1980s, she portrayed Errol Flynn's first wife, actress Lili Damita, in the TV movie adaptation of My Wicked, Wicked Ways: The Legend of Errol Flynn (1985), which was based on Flynn's autobiography."
+   },
+   {
+    "title": "Humphrey Bogart",
+    "description": "American actor (1899–1957)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Humphrey_Bogart_by_Elmer_Fryer_%28cropped%29.jpg/330px-Humphrey_Bogart_by_Elmer_Fryer_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In 1943, he was No. 2, behind Humphrey Bogart."
+   },
+   {
+    "title": "Bette Davis",
+    "description": "American actress (1908–1989)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/BetteDavis1935.jpg/330px-BetteDavis1935.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Bogart then had a supporting role in Bad Sister (1931) with Bette Davis."
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "Around that time he developed a friendship with action martial art film star Chuck Norris."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "He plays a reckless but brave Texas Ranger who defeats an arms dealer played by David Carradine."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "In 1972, he co-starred as \"Big\" Bill Shelly in one of Martin Scorsese's earliest films, Boxcar Bertha, which starred Barbara Hershey, his partner at the time."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "Also in the 1980s, she portrayed Errol Flynn's first wife, actress Lili Damita, in the TV movie adaptation of My Wicked, Wicked Ways: The Legend of Errol Flynn (1985), which was based on Flynn's autobiography."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "In 1943, he was No. 2, behind Humphrey Bogart."
+   },
+   {
+    "a": 4,
+    "b": 6,
+    "from": 4,
+    "via": "Flynn played alcoholic sports reporter Frank Medlin, who sweeps Louise Elliott (Bette Davis) off her feet on a visit to Silver Bow, Montana."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "Bogart then had a supporting role in Bad Sister (1931) with Bette Davis."
+   }
+  ],
+  "solutions": 1
  }
 ]
