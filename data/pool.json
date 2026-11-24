@@ -1040,96 +1040,6 @@
  {
   "steps": [
    {
-    "title": "Will Smith",
-    "description": "American actor and rapper (born 1968)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/TechCrunch_Disrupt_San_Francisco_2019_-_Day_1_%2848834070763%29_%28cropped%29.jpg/330px-TechCrunch_Disrupt_San_Francisco_2019_-_Day_1_%2848834070763%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-   },
-   {
-    "title": "David Ayer",
-    "description": "American filmmaker (born 1968)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/David_Ayer_by_Gage_Skidmore_2.jpg/330px-David_Ayer_by_Gage_Skidmore_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "Smith collaborated with his director from Suicide Squad, David Ayer."
-   },
-   {
-    "title": "Jake Gyllenhaal",
-    "description": "American actor (born 1980)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Jake_Gyllenhaal_2019_by_Glenn_Francis.jpg/330px-Jake_Gyllenhaal_2019_by_Glenn_Francis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "Ayer later wrote and directed End of Watch, an action thriller about the daily lives of two South Central Los Angeles policemen, played by Jake Gyllenhaal and Michael Peña."
-   },
-   {
-    "title": "Christian Bale",
-    "description": "English actor (born 1974)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Christian_Bale-7837.jpg/330px-Christian_Bale-7837.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "In 2003, Gyllenhaal auditioned for the role of Batman in the superhero film Batman Begins, and was almost offered the part, but it went to Christian Bale."
-   },
-   {
-    "title": "Bryce Dallas Howard",
-    "description": "American actress and director (born 1981)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Bryce_Dallas_Howard_-_Los_Angeles_Comic_Con_2025.jpg/330px-Bryce_Dallas_Howard_-_Los_Angeles_Comic_Con_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "It captured him directing profanities towards and threatening to attack the film's cinematographer Shane Hurlbut, who walked onto the set during the filming of a scene acted by Bale and Bryce Dallas Howard, and culminated in Bale threatening to quit the film if Hurlbut was not fired."
-   },
-   {
-    "title": "Elton John",
-    "description": "British musician and songwriter (born 1947)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/EltonDocBFILFF101024_%284_of_17%29_%28cropped%29.jpg/330px-EltonDocBFILFF101024_%284_of_17%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "Howard appeared as Elton John's mother Sheila Dwight in the musical biopic Rocketman (2019), which was directed by Dexter Fletcher."
-   },
-   {
-    "title": "John Lennon",
-    "description": "English musician and activist (1940–1980)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_%28color%29_%28cropped%29.jpg/330px-John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_%28color%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "In 1974 John collaborated with John Lennon on his cover of the Beatles' \"Lucy in the Sky with Diamonds\", the B-side of which was Lennon's \"One Day at a Time\"."
-   }
-  ],
-  "links": [
-   {
-    "a": 0,
-    "b": 1,
-    "from": 0,
-    "via": "Smith collaborated with his director from Suicide Squad, David Ayer."
-   },
-   {
-    "a": 1,
-    "b": 2,
-    "from": 1,
-    "via": "Ayer later wrote and directed End of Watch, an action thriller about the daily lives of two South Central Los Angeles policemen, played by Jake Gyllenhaal and Michael Peña."
-   },
-   {
-    "a": 1,
-    "b": 3,
-    "from": 3,
-    "via": "Later that year, he starred as a US war veteran who deals with post-traumatic stress disorder in the David Ayer-helmed crime drama Harsh Times, which premiered at the Toronto International Film Festival."
-   },
-   {
-    "a": 2,
-    "b": 3,
-    "from": 2,
-    "via": "In 2003, Gyllenhaal auditioned for the role of Batman in the superhero film Batman Begins, and was almost offered the part, but it went to Christian Bale."
-   },
-   {
-    "a": 3,
-    "b": 4,
-    "from": 3,
-    "via": "It captured him directing profanities towards and threatening to attack the film's cinematographer Shane Hurlbut, who walked onto the set during the filming of a scene acted by Bale and Bryce Dallas Howard, and culminated in Bale threatening to quit the film if Hurlbut was not fired."
-   },
-   {
-    "a": 4,
-    "b": 5,
-    "from": 4,
-    "via": "Howard appeared as Elton John's mother Sheila Dwight in the musical biopic Rocketman (2019), which was directed by Dexter Fletcher."
-   },
-   {
-    "a": 5,
-    "b": 6,
-    "from": 5,
-    "via": "In 1974 John collaborated with John Lennon on his cover of the Beatles' \"Lucy in the Sky with Diamonds\", the B-side of which was Lennon's \"One Day at a Time\"."
-   }
-  ],
-  "solutions": 1
- },
- {
-  "steps": [
-   {
     "title": "Jane Fonda",
     "description": "American actress and activist (born 1937)",
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Jane_Fonda_gaslit-65.jpg/330px-Jane_Fonda_gaslit-65.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
@@ -1897,6 +1807,90 @@
     "b": 6,
     "from": 5,
     "via": "Bogart then had a supporting role in Bad Sister (1931) with Bette Davis."
+   }
+  ],
+  "solutions": 1
+ },
+ {
+  "steps": [
+   {
+    "title": "Elizabeth Hurley",
+    "description": "English actress and model (born 1965)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Elizabeth_Hurley_ESB.jpg/330px-Elizabeth_Hurley_ESB.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   {
+    "title": "Billy Ray Cyrus",
+    "description": "American country singer and actor (born 1961)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Billy_Ray_Cyrus_2019.jpg/330px-Billy_Ray_Cyrus_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In April 2025, Hurley announced on social media that she was dating American musician Billy Ray Cyrus."
+   },
+   {
+    "title": "Billy Idol",
+    "description": "English singer (born 1955)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Billy_Idol_Lucca_2023.jpg/330px-Billy_Idol_Lucca_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Also in 2006, Billy Ray appeared with metal-rock group Metal Skool (now Steel Panther), and performed several songs including \"Rebel Yell\" by Billy Idol, and the song \"I Want My Mullet Back\", which appears on Wanna Be Your Joe."
+   },
+   {
+    "title": "Adam Sandler",
+    "description": "American comedian and actor (born 1966)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Jackie_Sandler_Adam_Sandler_Jay_Kelly-36_%283x4%29.jpg/330px-Jackie_Sandler_Adam_Sandler_Jay_Kelly-36_%283x4%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Idol played Lee Turner in the 1996 film Mad Dog Time, he also made a cameo appearance as himself in the 1998 film The Wedding Singer with Adam Sandler, in which Idol played a pivotal role in the plot."
+   },
+   {
+    "title": "Keri Russell",
+    "description": "American actress (born 1976)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Keri_Russell_%2813948636905%29_%28cropped%29.jpg/330px-Keri_Russell_%2813948636905%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "That same year, Sandler starred along with Keri Russell and English comedian Russell Brand in Adam Shankman's children's fantasy film Bedtime Stories (2008), as a stressed hotel maintenance worker whose bedtime stories he reads to his niece and nephew begin to come true."
+   },
+   {
+    "title": "Matthew Rhys",
+    "description": "Welsh actor (born 1974)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/MatthewRhys-byPhilipRomano.jpg/330px-MatthewRhys-byPhilipRomano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "She appeared opposite Matthew Rhys, who portrays her character's husband and spy partner."
+   },
+   {
+    "title": "Fred Rogers",
+    "description": "American TV personality (1928–2003)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Fred-Rogers_1988_%28full%29_%28cropped%29.jpg/330px-Fred-Rogers_1988_%28full%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Rhys's character was based on the journalist Tom Junod, who skeptically profiled Fred Rogers for Esquire in the 1990s."
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "In April 2025, Hurley announced on social media that she was dating American musician Billy Ray Cyrus."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "Also in 2006, Billy Ray appeared with metal-rock group Metal Skool (now Steel Panther), and performed several songs including \"Rebel Yell\" by Billy Idol, and the song \"I Want My Mullet Back\", which appears on Wanna Be Your Joe."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "Idol played Lee Turner in the 1996 film Mad Dog Time, he also made a cameo appearance as himself in the 1998 film The Wedding Singer with Adam Sandler, in which Idol played a pivotal role in the plot."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "That same year, Sandler starred along with Keri Russell and English comedian Russell Brand in Adam Shankman's children's fantasy film Bedtime Stories (2008), as a stressed hotel maintenance worker whose bedtime stories he reads to his niece and nephew begin to come true."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "She appeared opposite Matthew Rhys, who portrays her character's husband and spy partner."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "Rhys's character was based on the journalist Tom Junod, who skeptically profiled Fred Rogers for Esquire in the 1990s."
    }
   ],
   "solutions": 1
