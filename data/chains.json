@@ -4334,5 +4334,90 @@
    }
   ],
   "solutions": 1
+ },
+ {
+  "date": "2026-12-25",
+  "steps": [
+   {
+    "title": "Paul Bettany",
+    "description": "English actor (born 1971)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/PaulBettany-byPhilipRomano.jpg/330px-PaulBettany-byPhilipRomano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   {
+    "title": "Gwyneth Paltrow",
+    "description": "American actress and businesswoman (born 1972)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Gwyneth_Paltrow_-_Marty_Supreme.jpg/330px-Gwyneth_Paltrow_-_Marty_Supreme.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "He was once again paired with Depp in Mortdecai, a 2015 motion picture also starring Gwyneth Paltrow and Ewan McGregor."
+   },
+   {
+    "title": "Jack Black",
+    "description": "American actor, comedian, and musician (born 1969)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/TenaciousDO2160623_%2838_of_62%29_Jack_Black.jpg/330px-TenaciousDO2160623_%2838_of_62%29_Jack_Black.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "She starred with Jack Black in the comedy Shallow Hal (2001), about a shallow man falling in love with an overweight woman."
+   },
+   {
+    "title": "Shirley MacLaine",
+    "description": "American actress and author (born 1934)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Shirley_MacLaine_-_1960.jpg/330px-Shirley_MacLaine_-_1960.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "He played as real-life murderer Bernie Tiede, a funeral director in a small East Texas town, who befriends and eventually murders a rich widow, played by Shirley MacLaine."
+   },
+   {
+    "title": "Warren Beatty",
+    "description": "American actor and filmmaker (born 1937)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Warren_Beatty.jpg/330px-Warren_Beatty.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "MacLaine's younger brother is filmmaker Warren Beatty, who changed the spelling of his surname for his career."
+   },
+   {
+    "title": "Quincy Jones",
+    "description": "American record producer and musician (1933–2024)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Quincy_jones_1980_%28cropped%29.jpg/330px-Quincy_jones_1980_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Streisand brought Quincy Jones and his Orchestra, and recorded the album Live Concert at the Forum."
+   },
+   {
+    "title": "Whoopi Goldberg",
+    "description": "American actor and comedian (born 1955)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/WhoopiGoldberg-byPhilipRomano2.jpg/330px-WhoopiGoldberg-byPhilipRomano2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Additionally, through this picture, Jones is credited with introducing Whoopi Goldberg and Oprah Winfrey to film audiences around the world."
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "He was once again paired with Depp in Mortdecai, a 2015 motion picture also starring Gwyneth Paltrow and Ewan McGregor."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "She starred with Jack Black in the comedy Shallow Hal (2001), about a shallow man falling in love with an overweight woman."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "He played as real-life murderer Bernie Tiede, a funeral director in a small East Texas town, who befriends and eventually murders a rich widow, played by Shirley MacLaine."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "MacLaine's younger brother is filmmaker Warren Beatty, who changed the spelling of his surname for his career."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "Streisand brought Quincy Jones and his Orchestra, and recorded the album Live Concert at the Forum."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "Additionally, through this picture, Jones is credited with introducing Whoopi Goldberg and Oprah Winfrey to film audiences around the world."
+   }
+  ],
+  "solutions": 1
  }
 ]

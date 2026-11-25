@@ -872,90 +872,6 @@
  {
   "steps": [
    {
-    "title": "Paul Bettany",
-    "description": "English actor (born 1971)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/PaulBettany-byPhilipRomano.jpg/330px-PaulBettany-byPhilipRomano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-   },
-   {
-    "title": "Gwyneth Paltrow",
-    "description": "American actress and businesswoman (born 1972)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Gwyneth_Paltrow_-_Marty_Supreme.jpg/330px-Gwyneth_Paltrow_-_Marty_Supreme.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "He was once again paired with Depp in Mortdecai, a 2015 motion picture also starring Gwyneth Paltrow and Ewan McGregor."
-   },
-   {
-    "title": "Jack Black",
-    "description": "American actor, comedian, and musician (born 1969)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/TenaciousDO2160623_%2838_of_62%29_Jack_Black.jpg/330px-TenaciousDO2160623_%2838_of_62%29_Jack_Black.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "She starred with Jack Black in the comedy Shallow Hal (2001), about a shallow man falling in love with an overweight woman."
-   },
-   {
-    "title": "Shirley MacLaine",
-    "description": "American actress and author (born 1934)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Shirley_MacLaine_-_1960.jpg/330px-Shirley_MacLaine_-_1960.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "He played as real-life murderer Bernie Tiede, a funeral director in a small East Texas town, who befriends and eventually murders a rich widow, played by Shirley MacLaine."
-   },
-   {
-    "title": "Warren Beatty",
-    "description": "American actor and filmmaker (born 1937)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Warren_Beatty.jpg/330px-Warren_Beatty.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "MacLaine's younger brother is filmmaker Warren Beatty, who changed the spelling of his surname for his career."
-   },
-   {
-    "title": "Quincy Jones",
-    "description": "American record producer and musician (1933–2024)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Quincy_jones_1980_%28cropped%29.jpg/330px-Quincy_jones_1980_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "Streisand brought Quincy Jones and his Orchestra, and recorded the album Live Concert at the Forum."
-   },
-   {
-    "title": "Whoopi Goldberg",
-    "description": "American actor and comedian (born 1955)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/WhoopiGoldberg-byPhilipRomano2.jpg/330px-WhoopiGoldberg-byPhilipRomano2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "Additionally, through this picture, Jones is credited with introducing Whoopi Goldberg and Oprah Winfrey to film audiences around the world."
-   }
-  ],
-  "links": [
-   {
-    "a": 0,
-    "b": 1,
-    "from": 0,
-    "via": "He was once again paired with Depp in Mortdecai, a 2015 motion picture also starring Gwyneth Paltrow and Ewan McGregor."
-   },
-   {
-    "a": 1,
-    "b": 2,
-    "from": 1,
-    "via": "She starred with Jack Black in the comedy Shallow Hal (2001), about a shallow man falling in love with an overweight woman."
-   },
-   {
-    "a": 2,
-    "b": 3,
-    "from": 2,
-    "via": "He played as real-life murderer Bernie Tiede, a funeral director in a small East Texas town, who befriends and eventually murders a rich widow, played by Shirley MacLaine."
-   },
-   {
-    "a": 3,
-    "b": 4,
-    "from": 3,
-    "via": "MacLaine's younger brother is filmmaker Warren Beatty, who changed the spelling of his surname for his career."
-   },
-   {
-    "a": 4,
-    "b": 5,
-    "from": 4,
-    "via": "Streisand brought Quincy Jones and his Orchestra, and recorded the album Live Concert at the Forum."
-   },
-   {
-    "a": 5,
-    "b": 6,
-    "from": 5,
-    "via": "Additionally, through this picture, Jones is credited with introducing Whoopi Goldberg and Oprah Winfrey to film audiences around the world."
-   }
-  ],
-  "solutions": 1
- },
- {
-  "steps": [
-   {
     "title": "Julia Roberts",
     "description": "American actress (born 1967)",
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Julia_Roberts_2025.jpg/330px-Julia_Roberts_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
@@ -1891,6 +1807,102 @@
     "b": 6,
     "from": 5,
     "via": "Rhys's character was based on the journalist Tom Junod, who skeptically profiled Fred Rogers for Esquire in the 1990s."
+   }
+  ],
+  "solutions": 1
+ },
+ {
+  "steps": [
+   {
+    "title": "John Belushi",
+    "description": "American comedian and actor (1949–1982)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/John_Belushi_at_the_32nd_Annual_Radio_and_Television_Correspondents_Association_Dinner_-_NARA_-_30805929.jpg/330px-John_Belushi_at_the_32nd_Annual_Radio_and_Television_Correspondents_Association_Dinner_-_NARA_-_30805929.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   {
+    "title": "Christopher Guest",
+    "description": "American and British director and actor (born 1948)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Christopher_Guest_2016.jpg/330px-Christopher_Guest_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In 1972, Belushi was offered a role, together with Chevy Chase and Christopher Guest, in National Lampoon Lemmings, a parody of Woodstock, which played off-Broadway in 1972."
+   },
+   {
+    "title": "Eugene Levy",
+    "description": "Canadian actor and comedian (born 1946)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Eugene_Levy_at_the_2025_Toronto_International_Film_Festival_%28cropped%29.jpg/330px-Eugene_Levy_at_the_2025_Toronto_International_Film_Festival_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Together, Guest, his frequent writing partner Eugene Levy, and a small band of actors have formed a loose repertory group, which appears in several films."
+   },
+   {
+    "title": "Dan Levy (Canadian actor)",
+    "description": "Canadian actor and filmmaker (born 1983)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Dan_Levy_at_the_2025_Toronto_International_Film_Festival_02_%28cropped_2%29.jpg/330px-Dan_Levy_at_the_2025_Toronto_International_Film_Festival_02_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Levy, along with his son Dan Levy, was co-creator of the CBC/Pop TV sitcom Schitt's Creek which ran from 2015-2020."
+   },
+   {
+    "title": "Catherine O'Hara",
+    "description": "Canadian and American actress (1954–2026)",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/1/16/CATHERINE_OHARA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "via": "Levy starred in the series alongside his father, sister Sarah Levy, Catherine O'Hara, Annie Murphy, and Chris Elliott."
+   },
+   {
+    "title": "Christina Ricci",
+    "description": "American actress (born 1980)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Christina_Ricci_at_Los_Angeles_Comic_Con_2024-2.jpg/330px-Christina_Ricci_at_Los_Angeles_Comic_Con_2024-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In 2004, she appeared with Jim Carrey in the black comedy film Lemony Snicket's A Series of Unfortunate Events, and in 2006, she starred with Christina Ricci in the fantasy film Penelope."
+   },
+   {
+    "title": "Anjelica Huston",
+    "description": "American actress (born 1951)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Anjelica_Huston_at_Los_Angeles_Comic_Con_2024.jpg/330px-Anjelica_Huston_at_Los_Angeles_Comic_Con_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Ricci then played a supporting role in Bastard Out of Carolina (1996), the directorial debut of Anjelica Huston, whom she previously worked with on the Addams Family movies."
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "In 1972, Belushi was offered a role, together with Chevy Chase and Christopher Guest, in National Lampoon Lemmings, a parody of Woodstock, which played off-Broadway in 1972."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "Together, Guest, his frequent writing partner Eugene Levy, and a small band of actors have formed a loose repertory group, which appears in several films."
+   },
+   {
+    "a": 1,
+    "b": 4,
+    "from": 1,
+    "via": "These include Catherine O'Hara, Michael McKean, Parker Posey, Bob Balaban, Jane Lynch, John Michael Higgins, Harry Shearer, Jennifer Coolidge, Ed Begley Jr., Jim Piddock and Fred Willard."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "Levy, along with his son Dan Levy, was co-creator of the CBC/Pop TV sitcom Schitt's Creek which ran from 2015-2020."
+   },
+   {
+    "a": 2,
+    "b": 4,
+    "from": 2,
+    "via": "This makes him one of only four two-time honourees, alongside fellow SCTV alumni John Candy, Martin Short, and Catherine O'Hara."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "Levy starred in the series alongside his father, sister Sarah Levy, Catherine O'Hara, Annie Murphy, and Chris Elliott."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "In 2004, she appeared with Jim Carrey in the black comedy film Lemony Snicket's A Series of Unfortunate Events, and in 2006, she starred with Christina Ricci in the fantasy film Penelope."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "Ricci then played a supporting role in Bastard Out of Carolina (1996), the directorial debut of Anjelica Huston, whom she previously worked with on the Addams Family movies."
    }
   ],
   "solutions": 1
