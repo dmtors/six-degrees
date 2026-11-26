@@ -4419,5 +4419,96 @@
    }
   ],
   "solutions": 1
+ },
+ {
+  "date": "2026-12-26",
+  "steps": [
+   {
+    "title": "Clive Owen",
+    "description": "British actor (born 1964)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Clive_Owen_%28Children_of_men%29_cropped.jpg/330px-Clive_Owen_%28Children_of_men%29_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   {
+    "title": "Stephen Merchant",
+    "description": "English comedian, writer and actor (born 1974)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Stephen_Merchant.jpg/330px-Stephen_Merchant.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "He appeared in the Christmas special of the Ricky Gervais and Stephen Merchant show Extras."
+   },
+   {
+    "title": "John Krasinski",
+    "description": "American actor and filmmaker (born 1979)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/John_Krasinski_2022.jpg/330px-John_Krasinski_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Merchant, along with John Krasinski and Allyson Seeger, are executive producers of Dream Corp, LLC, an animated series created by Daniel Stessen on Adult Swim that ran for three seasons starting in 2016."
+   },
+   {
+    "title": "Jimmy Fallon",
+    "description": "American comedian and television host (born 1974)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Jimmy_Fallon-TTL_4575_%2811046141004%29_%285x7_cropped_and_rotated%29.jpg/330px-Jimmy_Fallon-TTL_4575_%2811046141004%29_%285x7_cropped_and_rotated%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Jimmy Fallon then developed it into a recurring segment on his show."
+   },
+   {
+    "title": "Adam Sandler",
+    "description": "American comedian and actor (born 1966)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Jackie_Sandler_Adam_Sandler_Jay_Kelly-36_%283x4%29.jpg/330px-Jackie_Sandler_Adam_Sandler_Jay_Kelly-36_%283x4%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Despite this, Fallon went onstage and did well, performing a \"celebrity walk-a-thon\" with impressions of Jerry Seinfeld, Chris Rock, Bill Cosby, and Adam Sandler, an SNL alumnus who had recently left the show."
+   },
+   {
+    "title": "Jennifer Aniston",
+    "description": "American actress (born 1969)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/JenniferAnistonHWoFFeb2012.jpg/330px-JenniferAnistonHWoFFeb2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In June 2019, he reunited with Jennifer Aniston in the Netflix film Murder Mystery, which broke the record for the biggest opening weekend in the company's history, and spawned a sequel, Murder Mystery 2, in 2023."
+   },
+   {
+    "title": "Gerard Butler",
+    "description": "Scottish actor and film producer (born 1969)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Gerard_Butler_%2829681162176%29.jpg/330px-Gerard_Butler_%2829681162176%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Aniston appeared as the former wife of a bounty hunter (Gerard Butler) in the romantic comedy action film The Bounty Hunter (2010)."
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "He appeared in the Christmas special of the Ricky Gervais and Stephen Merchant show Extras."
+   },
+   {
+    "a": 0,
+    "b": 5,
+    "from": 0,
+    "via": "After Closer, he appeared in Derailed alongside Jennifer Aniston, the comic book thriller Sin City as the noir antihero Dwight McCarthy and as a mysterious bank robber in Inside Man."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "Merchant, along with John Krasinski and Allyson Seeger, are executive producers of Dream Corp, LLC, an animated series created by Daniel Stessen on Adult Swim that ran for three seasons starting in 2016."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "Jimmy Fallon then developed it into a recurring segment on his show."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "Despite this, Fallon went onstage and did well, performing a \"celebrity walk-a-thon\" with impressions of Jerry Seinfeld, Chris Rock, Bill Cosby, and Adam Sandler, an SNL alumnus who had recently left the show."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "In June 2019, he reunited with Jennifer Aniston in the Netflix film Murder Mystery, which broke the record for the biggest opening weekend in the company's history, and spawned a sequel, Murder Mystery 2, in 2023."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "Aniston appeared as the former wife of a bounty hunter (Gerard Butler) in the romantic comedy action film The Bounty Hunter (2010)."
+   }
+  ],
+  "solutions": 1
  }
 ]

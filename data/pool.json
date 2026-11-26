@@ -1358,96 +1358,6 @@
  {
   "steps": [
    {
-    "title": "Clive Owen",
-    "description": "British actor (born 1964)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Clive_Owen_%28Children_of_men%29_cropped.jpg/330px-Clive_Owen_%28Children_of_men%29_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-   },
-   {
-    "title": "Stephen Merchant",
-    "description": "English comedian, writer and actor (born 1974)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Stephen_Merchant.jpg/330px-Stephen_Merchant.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "He appeared in the Christmas special of the Ricky Gervais and Stephen Merchant show Extras."
-   },
-   {
-    "title": "John Krasinski",
-    "description": "American actor and filmmaker (born 1979)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/John_Krasinski_2022.jpg/330px-John_Krasinski_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "Merchant, along with John Krasinski and Allyson Seeger, are executive producers of Dream Corp, LLC, an animated series created by Daniel Stessen on Adult Swim that ran for three seasons starting in 2016."
-   },
-   {
-    "title": "Jimmy Fallon",
-    "description": "American comedian and television host (born 1974)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Jimmy_Fallon-TTL_4575_%2811046141004%29_%285x7_cropped_and_rotated%29.jpg/330px-Jimmy_Fallon-TTL_4575_%2811046141004%29_%285x7_cropped_and_rotated%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "Jimmy Fallon then developed it into a recurring segment on his show."
-   },
-   {
-    "title": "Adam Sandler",
-    "description": "American comedian and actor (born 1966)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Jackie_Sandler_Adam_Sandler_Jay_Kelly-36_%283x4%29.jpg/330px-Jackie_Sandler_Adam_Sandler_Jay_Kelly-36_%283x4%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "Despite this, Fallon went onstage and did well, performing a \"celebrity walk-a-thon\" with impressions of Jerry Seinfeld, Chris Rock, Bill Cosby, and Adam Sandler, an SNL alumnus who had recently left the show."
-   },
-   {
-    "title": "Jennifer Aniston",
-    "description": "American actress (born 1969)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/JenniferAnistonHWoFFeb2012.jpg/330px-JenniferAnistonHWoFFeb2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "In June 2019, he reunited with Jennifer Aniston in the Netflix film Murder Mystery, which broke the record for the biggest opening weekend in the company's history, and spawned a sequel, Murder Mystery 2, in 2023."
-   },
-   {
-    "title": "Gerard Butler",
-    "description": "Scottish actor and film producer (born 1969)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Gerard_Butler_%2829681162176%29.jpg/330px-Gerard_Butler_%2829681162176%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "Aniston appeared as the former wife of a bounty hunter (Gerard Butler) in the romantic comedy action film The Bounty Hunter (2010)."
-   }
-  ],
-  "links": [
-   {
-    "a": 0,
-    "b": 1,
-    "from": 0,
-    "via": "He appeared in the Christmas special of the Ricky Gervais and Stephen Merchant show Extras."
-   },
-   {
-    "a": 0,
-    "b": 5,
-    "from": 0,
-    "via": "After Closer, he appeared in Derailed alongside Jennifer Aniston, the comic book thriller Sin City as the noir antihero Dwight McCarthy and as a mysterious bank robber in Inside Man."
-   },
-   {
-    "a": 1,
-    "b": 2,
-    "from": 1,
-    "via": "Merchant, along with John Krasinski and Allyson Seeger, are executive producers of Dream Corp, LLC, an animated series created by Daniel Stessen on Adult Swim that ran for three seasons starting in 2016."
-   },
-   {
-    "a": 2,
-    "b": 3,
-    "from": 2,
-    "via": "Jimmy Fallon then developed it into a recurring segment on his show."
-   },
-   {
-    "a": 3,
-    "b": 4,
-    "from": 3,
-    "via": "Despite this, Fallon went onstage and did well, performing a \"celebrity walk-a-thon\" with impressions of Jerry Seinfeld, Chris Rock, Bill Cosby, and Adam Sandler, an SNL alumnus who had recently left the show."
-   },
-   {
-    "a": 4,
-    "b": 5,
-    "from": 4,
-    "via": "In June 2019, he reunited with Jennifer Aniston in the Netflix film Murder Mystery, which broke the record for the biggest opening weekend in the company's history, and spawned a sequel, Murder Mystery 2, in 2023."
-   },
-   {
-    "a": 5,
-    "b": 6,
-    "from": 5,
-    "via": "Aniston appeared as the former wife of a bounty hunter (Gerard Butler) in the romantic comedy action film The Bounty Hunter (2010)."
-   }
-  ],
-  "solutions": 1
- },
- {
-  "steps": [
-   {
     "title": "Sissy Spacek",
     "description": "American actress and singer (born 1949)",
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Sissy_Spacek_by_David_Shankbone_%28cropped%29.jpg/330px-Sissy_Spacek_by_David_Shankbone_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
@@ -1903,6 +1813,96 @@
     "b": 6,
     "from": 5,
     "via": "Ricci then played a supporting role in Bastard Out of Carolina (1996), the directorial debut of Anjelica Huston, whom she previously worked with on the Addams Family movies."
+   }
+  ],
+  "solutions": 1
+ },
+ {
+  "steps": [
+   {
+    "title": "Gwyneth Paltrow",
+    "description": "American actress and businesswoman (born 1972)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Gwyneth_Paltrow_-_Marty_Supreme.jpg/330px-Gwyneth_Paltrow_-_Marty_Supreme.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   {
+    "title": "Jack Black",
+    "description": "American actor, comedian, and musician (born 1969)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/TenaciousDO2160623_%2838_of_62%29_Jack_Black.jpg/330px-TenaciousDO2160623_%2838_of_62%29_Jack_Black.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "She starred with Jack Black in the comedy Shallow Hal (2001), about a shallow man falling in love with an overweight woman."
+   },
+   {
+    "title": "Kate Winslet",
+    "description": "English actress (born 1975)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/KateWinslet_%28cropped%29.jpg/330px-KateWinslet_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "That same year, he starred as the romantic love interest to Kate Winslet in the Nancy Meyers romantic comedy The Holiday (2006)."
+   },
+   {
+    "title": "Claire Danes",
+    "description": "American actor (born 1979)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Claire_Danes_in_2015.jpg/330px-Claire_Danes_in_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Cameron was initially reluctant to cast her, preferring the likes of Claire Danes and Gwyneth Paltrow, but she pleaded with him, \"You don't understand!"
+   },
+   {
+    "title": "Dudley Moore",
+    "description": "English actor, comedian and musician (1935–2002)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Dudley_Moore_%28cropped%29.jpg/330px-Dudley_Moore_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In 1993 at age 13, Danes got her first big job working on the Dudley Moore TV sitcom pilot called Dudley, which was shot at Silvercup Studios in Astoria, Queens."
+   },
+   {
+    "title": "Chevy Chase",
+    "description": "American comedian, writer and actor (born 1943)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/ChevyChaseMar10.jpg/330px-ChevyChaseMar10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In the late 1970s Moore moved to Hollywood, where he had a supporting role in the hit film Foul Play (1978) with Goldie Hawn and Chevy Chase."
+   },
+   {
+    "title": "Lorne Michaels",
+    "description": "Canadian and American producer (born 1944)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Lorne_Michaels_2021_Kennedy_Center_Honors_%28cropped%29.jpg/330px-Lorne_Michaels_2021_Kennedy_Center_Honors_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "It was reported that SNL creator and show-runner Lorne Michaels had been shocked by Chase's behavior during his 1997 appearance as a host and had banned him as a result, reports which Michaels later disputed, calling the claims \"idiotic\"."
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "She starred with Jack Black in the comedy Shallow Hal (2001), about a shallow man falling in love with an overweight woman."
+   },
+   {
+    "a": 0,
+    "b": 2,
+    "from": 0,
+    "via": "Later that year, Paltrow appeared in Steven Soderbergh's film Contagion, featuring an ensemble cast consisting of Marion Cotillard, Kate Winslet and her The Talented Mr. Ripley co-stars Matt Damon and Jude Law."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "That same year, he starred as the romantic love interest to Kate Winslet in the Nancy Meyers romantic comedy The Holiday (2006)."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "Cameron was initially reluctant to cast her, preferring the likes of Claire Danes and Gwyneth Paltrow, but she pleaded with him, \"You don't understand!"
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "In 1993 at age 13, Danes got her first big job working on the Dudley Moore TV sitcom pilot called Dudley, which was shot at Silvercup Studios in Astoria, Queens."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "In the late 1970s Moore moved to Hollywood, where he had a supporting role in the hit film Foul Play (1978) with Goldie Hawn and Chevy Chase."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "It was reported that SNL creator and show-runner Lorne Michaels had been shocked by Chase's behavior during his 1997 appearance as a host and had banned him as a result, reports which Michaels later disputed, calling the claims \"idiotic\"."
    }
   ],
   "solutions": 1
