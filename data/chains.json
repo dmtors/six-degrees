@@ -4510,5 +4510,90 @@
    }
   ],
   "solutions": 1
+ },
+ {
+  "date": "2026-12-27",
+  "steps": [
+   {
+    "title": "Julia Roberts",
+    "description": "American actress (born 1967)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Julia_Roberts_2025.jpg/330px-Julia_Roberts_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   {
+    "title": "Denzel Washington",
+    "description": "American actor (born 1954)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Denzel_Washington_at_the_2025_Cannes_Film_Festival.jpg/330px-Denzel_Washington_at_the_2025_Cannes_Film_Festival.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Roberts starred with Denzel Washington in the thriller The Pelican Brief (1993), based on John Grisham's 1992 novel of the same name."
+   },
+   {
+    "title": "Angelina Jolie",
+    "description": "American actress (born 1975)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Angelina_Jolie-643531_%28cropped%29.jpg/330px-Angelina_Jolie-643531_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In 1999, Washington acted alongside Angelina Jolie in the crime thriller The Bone Collector."
+   },
+   {
+    "title": "Nicolas Cage",
+    "description": "American actor (born 1964)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Nicolas_Cage_at_Los_Angeles_Comic_Con_2026-2.jpg/330px-Nicolas_Cage_at_Los_Angeles_Comic_Con_2026-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "She had a minor role as the mechanic ex-girlfriend of a car thief played by Nicolas Cage; The Washington Post writer Stephen Hunter criticized that \"all she does in this movie is stand around, cooling down, modeling those fleshy, pulsating muscle-tubes that nest so provocatively around her teeth.\" Jolie later explained that the film had been a welcome relief after her emotionally demanding role in Girl, Interrupted."
+   },
+   {
+    "title": "Cher",
+    "description": "American singer and actress (born 1946)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Cher_in_2019_cropped.jpg/330px-Cher_in_2019_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Cage's biggest breakthrough came in 1987 with the romantic comedy Moonstruck, in which he starred alongside Cher as a hot-tempered baker."
+   },
+   {
+    "title": "Eric Clapton",
+    "description": "English musician (born 1945)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/ClaptonGingerEventim170220-38_%28cropped%29.jpg/330px-ClaptonGingerEventim170220-38_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Cher later said she \"loved\" the electric guitar-driven style of Led Zeppelin and Eric Clapton and wanted to adapt, but Sonny refused."
+   },
+   {
+    "title": "Frank Zappa",
+    "description": "American musician (1940–1993)",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Zappa_16011977_01_300.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "via": "Clapton's voice can be heard on Frank Zappa's album We're Only in It for the Money, on the tracks \"Are You Hung Up?\" and \"Nasal Retentive Calliope Music\"."
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "Roberts starred with Denzel Washington in the thriller The Pelican Brief (1993), based on John Grisham's 1992 novel of the same name."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "In 1999, Washington acted alongside Angelina Jolie in the crime thriller The Bone Collector."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "She had a minor role as the mechanic ex-girlfriend of a car thief played by Nicolas Cage; The Washington Post writer Stephen Hunter criticized that \"all she does in this movie is stand around, cooling down, modeling those fleshy, pulsating muscle-tubes that nest so provocatively around her teeth.\" Jolie later explained that the film had been a welcome relief after her emotionally demanding role in Girl, Interrupted."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "Cage's biggest breakthrough came in 1987 with the romantic comedy Moonstruck, in which he starred alongside Cher as a hot-tempered baker."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "Cher later said she \"loved\" the electric guitar-driven style of Led Zeppelin and Eric Clapton and wanted to adapt, but Sonny refused."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "Clapton's voice can be heard on Frank Zappa's album We're Only in It for the Money, on the tracks \"Are You Hung Up?\" and \"Nasal Retentive Calliope Music\"."
+   }
+  ],
+  "solutions": 1
  }
 ]
