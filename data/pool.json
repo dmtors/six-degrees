@@ -668,114 +668,6 @@
  {
   "steps": [
    {
-    "title": "Mike Nichols",
-    "description": "American film and theatre director (1931–2014)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Mike_Nichols.jpg/330px-Mike_Nichols.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-   },
-   {
-    "title": "Dustin Hoffman",
-    "description": "American actor (born 1937)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Dustin_Hoffman_at_the_2025_Toronto_International_Film_Festival._02_%28cropped%29.jpg/330px-Dustin_Hoffman_at_the_2025_Toronto_International_Film_Festival._02_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "Nichols also took a chance on using Dustin Hoffman, who had no film experience, for the lead, when others had suggested using known star Robert Redford."
-   },
-   {
-    "title": "Mia Farrow",
-    "description": "American actress and activist (born 1945)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Pulitzer2018-mia-farrow-20180530-wp.jpg/330px-Pulitzer2018-mia-farrow-20180530-wp.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "Also in 1969, Hoffman co-starred with Mia Farrow in Peter Yates's romantic drama film John and Mary."
-   },
-   {
-    "title": "Diane Keaton",
-    "description": "American actress (1946–2025)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Diane_Keaton_2012-1_%28cropped%29_%28cropped%29.jpg/330px-Diane_Keaton_2012-1_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "Her first film with Allen was the comedy A Midsummer Night's Sex Comedy (1982), in a role originally intended for Diane Keaton."
-   },
-   {
-    "title": "Woody Allen",
-    "description": "American filmmaker and actor (born 1935)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Woody_Allen_Cannes_2016.jpg/330px-Woody_Allen_Cannes_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "After acting in Hair for nine months, she auditioned for a part in Woody Allen's production of Play It Again, Sam."
-   },
-   {
-    "title": "Mayim Bialik",
-    "description": "American actress, television personality, and author (born 1975)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Father_Mother_Sister_Brother-69514_%28Mayim_Bialik%29.jpg/330px-Father_Mother_Sister_Brother-69514_%28Mayim_Bialik%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "In 1994 Allen directed and starred in a second version for television, with Michael J. Fox and Mayim Bialik."
-   },
-   {
-    "title": "Miranda Hart",
-    "description": "English actress, comedian and writer (born 1972)",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Miranda_Hart_in_2011.jpg/330px-Miranda_Hart_in_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "via": "Sad Clown Productions, in conjunction with Jim Parsons's That's Wonderful Productions, BBC Studios, and Miranda Hart, executive-produces a starring vehicle for Bialik, Call Me Kat, based on the British series Miranda."
-   }
-  ],
-  "links": [
-   {
-    "a": 0,
-    "b": 1,
-    "from": 0,
-    "via": "Nichols also took a chance on using Dustin Hoffman, who had no film experience, for the lead, when others had suggested using known star Robert Redford."
-   },
-   {
-    "a": 0,
-    "b": 4,
-    "from": 0,
-    "via": "Jack Rollins, who later became Woody Allen's manager and producer, invited them to audition and was most impressed: \"Their work was so startling, so new, as fresh as could be."
-   },
-   {
-    "a": 1,
-    "b": 2,
-    "from": 1,
-    "via": "Also in 1969, Hoffman co-starred with Mia Farrow in Peter Yates's romantic drama film John and Mary."
-   },
-   {
-    "a": 1,
-    "b": 4,
-    "from": 1,
-    "via": "David Thomson of The Guardian described of Hoffman as a central figure of the late 60s, 70s and 80s\" adding, \"He is a part of what has turned out a very ambiguous vintage: it also includes Jack Nicholson, Robert Redford, Warren Beatty and Woody Allen, actors who cannot quite make up their minds whether they are adorable still or national treasures.\""
-   },
-   {
-    "a": 1,
-    "b": 5,
-    "from": 1,
-    "via": "Hoffman appeared alongside Candice Bergen, Dianna Agron, and Simon Helberg in As They Made Us directed by Mayim Bialik."
-   },
-   {
-    "a": 2,
-    "b": 3,
-    "from": 2,
-    "via": "Her first film with Allen was the comedy A Midsummer Night's Sex Comedy (1982), in a role originally intended for Diane Keaton."
-   },
-   {
-    "a": 2,
-    "b": 4,
-    "from": 2,
-    "via": "Beginning in the 1980s, Farrow had a decade-long relationship with director Woody Allen; they collaborated on many of his films."
-   },
-   {
-    "a": 3,
-    "b": 4,
-    "from": 3,
-    "via": "After acting in Hair for nine months, she auditioned for a part in Woody Allen's production of Play It Again, Sam."
-   },
-   {
-    "a": 4,
-    "b": 5,
-    "from": 4,
-    "via": "In 1994 Allen directed and starred in a second version for television, with Michael J. Fox and Mayim Bialik."
-   },
-   {
-    "a": 5,
-    "b": 6,
-    "from": 5,
-    "via": "Sad Clown Productions, in conjunction with Jim Parsons's That's Wonderful Productions, BBC Studios, and Miranda Hart, executive-produces a starring vehicle for Bialik, Call Me Kat, based on the British series Miranda."
-   }
-  ],
-  "solutions": 2
- },
- {
-  "steps": [
-   {
     "title": "Ian McKellen",
     "description": "English actor (born 1939)",
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/SDCC13_-_Ian_McKellen.jpg/330px-SDCC13_-_Ian_McKellen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
@@ -1924,5 +1816,95 @@
    }
   ],
   "solutions": 2
+ },
+ {
+  "steps": [
+   {
+    "title": "Jeff Goldblum",
+    "description": "American actor and musician (born 1952)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Jeff_Goldblum_by_Gage_Skidmore_3.jpg/330px-Jeff_Goldblum_by_Gage_Skidmore_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   {
+    "title": "Charles Bronson",
+    "description": "American actor (1921–2003)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Charles_Bronson_-_1966.JPG/330px-Charles_Bronson_-_1966.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Goldblum made his film debut as a home-invading thug in the 1974 Charles Bronson film Death Wish."
+   },
+   {
+    "title": "Elizabeth Montgomery",
+    "description": "American actress (1933–1995)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Elizabeth_Montgomery_1967.jpg/330px-Elizabeth_Montgomery_1967.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "On television in 1961, Bronson played a boxer in an episode of One Step Beyond titled \"The Last Round\", aired January 10, and he starred alongside Elizabeth Montgomery in a Twilight Zone episode named \"Two\"."
+   },
+   {
+    "title": "Carol Burnett",
+    "description": "American comedian and actress (born 1933)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Carol_Burnett_2014.jpg/330px-Carol_Burnett_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "(also 1963), with Dean Martin and Carol Burnett, this time directed by Daniel Mann."
+   },
+   {
+    "title": "Dean Martin",
+    "description": "American singer and actor (1917–1995)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Dean_Martin_1958.jpg/330px-Dean_Martin_1958.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In 1963 she made her feature film debut in the comedy Who's Been Sleeping in My Bed? starring opposite Dean Martin and Elizabeth Montgomery."
+   },
+   {
+    "title": "Brad Pitt",
+    "description": "American actor (born 1963)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Brad_Pitt-69858.jpg/330px-Brad_Pitt-69858.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Posthumously, the Rat Pack has experienced a popular revival, inspiring the George Clooney/Brad Pitt Ocean's Trilogy."
+   },
+   {
+    "title": "Juliette Lewis",
+    "description": "American actress and singer (born 1973)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Juliette_Lewis_Sundance_2025_2_%28cropped%29.jpg/330px-Juliette_Lewis_Sundance_2025_2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Pitt appeared as Billy Canton, a drug addict who takes advantage of a young runaway (played by Juliette Lewis) in the 1990 NBC television film Too Young to Die?, the story of an abused teenager sentenced to death for a murder."
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "Goldblum made his film debut as a home-invading thug in the 1974 Charles Bronson film Death Wish."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "On television in 1961, Bronson played a boxer in an episode of One Step Beyond titled \"The Last Round\", aired January 10, and he starred alongside Elizabeth Montgomery in a Twilight Zone episode named \"Two\"."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "(also 1963), with Dean Martin and Carol Burnett, this time directed by Daniel Mann."
+   },
+   {
+    "a": 2,
+    "b": 4,
+    "from": 2,
+    "via": "(also 1963), with Dean Martin and Carol Burnett, this time directed by Daniel Mann."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "In 1963 she made her feature film debut in the comedy Who's Been Sleeping in My Bed? starring opposite Dean Martin and Elizabeth Montgomery."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "Posthumously, the Rat Pack has experienced a popular revival, inspiring the George Clooney/Brad Pitt Ocean's Trilogy."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "Pitt appeared as Billy Canton, a drug addict who takes advantage of a young runaway (played by Juliette Lewis) in the 1990 NBC television film Too Young to Die?, the story of an abused teenager sentenced to death for a murder."
+   }
+  ],
+  "solutions": 1
  }
 ]

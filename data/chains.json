@@ -4595,5 +4595,114 @@
    }
   ],
   "solutions": 1
+ },
+ {
+  "date": "2026-12-28",
+  "steps": [
+   {
+    "title": "Mike Nichols",
+    "description": "American film and theatre director (1931–2014)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Mike_Nichols.jpg/330px-Mike_Nichols.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   {
+    "title": "Dustin Hoffman",
+    "description": "American actor (born 1937)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Dustin_Hoffman_at_the_2025_Toronto_International_Film_Festival._02_%28cropped%29.jpg/330px-Dustin_Hoffman_at_the_2025_Toronto_International_Film_Festival._02_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Nichols also took a chance on using Dustin Hoffman, who had no film experience, for the lead, when others had suggested using known star Robert Redford."
+   },
+   {
+    "title": "Mia Farrow",
+    "description": "American actress and activist (born 1945)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Pulitzer2018-mia-farrow-20180530-wp.jpg/330px-Pulitzer2018-mia-farrow-20180530-wp.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Also in 1969, Hoffman co-starred with Mia Farrow in Peter Yates's romantic drama film John and Mary."
+   },
+   {
+    "title": "Diane Keaton",
+    "description": "American actress (1946–2025)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Diane_Keaton_2012-1_%28cropped%29_%28cropped%29.jpg/330px-Diane_Keaton_2012-1_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Her first film with Allen was the comedy A Midsummer Night's Sex Comedy (1982), in a role originally intended for Diane Keaton."
+   },
+   {
+    "title": "Woody Allen",
+    "description": "American filmmaker and actor (born 1935)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Woody_Allen_Cannes_2016.jpg/330px-Woody_Allen_Cannes_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "After acting in Hair for nine months, she auditioned for a part in Woody Allen's production of Play It Again, Sam."
+   },
+   {
+    "title": "Mayim Bialik",
+    "description": "American actress, television personality, and author (born 1975)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Father_Mother_Sister_Brother-69514_%28Mayim_Bialik%29.jpg/330px-Father_Mother_Sister_Brother-69514_%28Mayim_Bialik%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "In 1994 Allen directed and starred in a second version for television, with Michael J. Fox and Mayim Bialik."
+   },
+   {
+    "title": "Miranda Hart",
+    "description": "English actress, comedian and writer (born 1972)",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Miranda_Hart_in_2011.jpg/330px-Miranda_Hart_in_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "via": "Sad Clown Productions, in conjunction with Jim Parsons's That's Wonderful Productions, BBC Studios, and Miranda Hart, executive-produces a starring vehicle for Bialik, Call Me Kat, based on the British series Miranda."
+   }
+  ],
+  "links": [
+   {
+    "a": 0,
+    "b": 1,
+    "from": 0,
+    "via": "Nichols also took a chance on using Dustin Hoffman, who had no film experience, for the lead, when others had suggested using known star Robert Redford."
+   },
+   {
+    "a": 0,
+    "b": 4,
+    "from": 0,
+    "via": "Jack Rollins, who later became Woody Allen's manager and producer, invited them to audition and was most impressed: \"Their work was so startling, so new, as fresh as could be."
+   },
+   {
+    "a": 1,
+    "b": 2,
+    "from": 1,
+    "via": "Also in 1969, Hoffman co-starred with Mia Farrow in Peter Yates's romantic drama film John and Mary."
+   },
+   {
+    "a": 1,
+    "b": 4,
+    "from": 1,
+    "via": "David Thomson of The Guardian described of Hoffman as a central figure of the late 60s, 70s and 80s\" adding, \"He is a part of what has turned out a very ambiguous vintage: it also includes Jack Nicholson, Robert Redford, Warren Beatty and Woody Allen, actors who cannot quite make up their minds whether they are adorable still or national treasures.\""
+   },
+   {
+    "a": 1,
+    "b": 5,
+    "from": 1,
+    "via": "Hoffman appeared alongside Candice Bergen, Dianna Agron, and Simon Helberg in As They Made Us directed by Mayim Bialik."
+   },
+   {
+    "a": 2,
+    "b": 3,
+    "from": 2,
+    "via": "Her first film with Allen was the comedy A Midsummer Night's Sex Comedy (1982), in a role originally intended for Diane Keaton."
+   },
+   {
+    "a": 2,
+    "b": 4,
+    "from": 2,
+    "via": "Beginning in the 1980s, Farrow had a decade-long relationship with director Woody Allen; they collaborated on many of his films."
+   },
+   {
+    "a": 3,
+    "b": 4,
+    "from": 3,
+    "via": "After acting in Hair for nine months, she auditioned for a part in Woody Allen's production of Play It Again, Sam."
+   },
+   {
+    "a": 4,
+    "b": 5,
+    "from": 4,
+    "via": "In 1994 Allen directed and starred in a second version for television, with Michael J. Fox and Mayim Bialik."
+   },
+   {
+    "a": 5,
+    "b": 6,
+    "from": 5,
+    "via": "Sad Clown Productions, in conjunction with Jim Parsons's That's Wonderful Productions, BBC Studios, and Miranda Hart, executive-produces a starring vehicle for Bialik, Call Me Kat, based on the British series Miranda."
+   }
+  ],
+  "solutions": 2
  }
 ]
